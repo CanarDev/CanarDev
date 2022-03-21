@@ -4,7 +4,7 @@
 🔭    Je suis en 2 année à l'IIM en développement Web dans l'axe Coding & Digital Inovation 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincentMchl&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CanarDev&theme=dark)](https://git.io/streak-stats)
 
 
 
