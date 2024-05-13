@@ -3,6 +3,7 @@
 # Hi, I'm Vincent 👋
 I'm a software sorcerer with a knack for conjuring up cool stuff.
 Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in web development, mobile sorcery, and even a bit of data spelunking.
+___
 
 ![Artwork](picture/artwork.jpg)
 ## {{ name }}
@@ -19,6 +20,7 @@ to explore the intersection of art and technology, showcasing the beauty
 of different artistic creations while leveraging programming to automate
 the rotation process.
 
+___
 
 ## Contact
 Got questions, compliments, or just wanna chat about the latest tech trends? Shoot me an email at [hellocanardev@gmail.com](mailto:hellocanardev@gmail.com). I promise not to hit you with any spam—just good vibes and maybe a few lines of code.
