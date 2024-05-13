@@ -6,10 +6,10 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## The Crucifixion with the Virgin, Saint John, Saint Jerome, and Saint Mary Magdalene [middle panel]
-ca. 1482/1485
+## {{ name }}
+{{ date }}
 
-Rights: © Courtesy National Gallery of Art, Washington
+Rights: © {{ picture_rights }}
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
