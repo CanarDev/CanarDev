@@ -1,8 +1,8 @@
 <html>
 
 ![Artwork](picture/artwork.jpg)
-# Le corbeau, la gazelle, la tortue et le rat (The Crow, the Gazelle, the Tortoise, and
-published 1759
+# Peasant Mother and Child
+ca. 1894
 
 Rights: © Courtesy National Gallery of Art, Washington
 
