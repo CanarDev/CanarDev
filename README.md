@@ -1,8 +1,8 @@
 <html>
 
 ![Artwork](picture/artwork.jpg)
-# Canards Sauvages
-
+# Le corbeau, la gazelle, la tortue et le rat (The Crow, the Gazelle, the Tortoise, and
+published 1759
 
 Rights: © Courtesy National Gallery of Art, Washington
 
