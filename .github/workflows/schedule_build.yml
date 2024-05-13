@@ -1,9 +1,8 @@
-name: Manual Build
+name: schedule_build
 
 on:
-  push:
-    branches:
-      - dev
+  schedule:
+    - cron: '0 0 */3 * *'
 
 jobs:
   build:
