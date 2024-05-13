@@ -1,15 +1,18 @@
-import sys, random, argparse, requests
+import sys, random, argparse, requests, os
 import numpy as np
 import math
 from PIL import Image
 
+# Define the API URL
+api_url = "https://api.artsy.net/api/"
+client_id = os.getenv("CLIENT_ID")
+client_secret = os.getenv("CLIENT_SECRET")
 
 def fetch_xapp_token(client_id, client_secret, api_url):
     try:
         response = requests.post(api_url+'tokens/xapp_token', json={"client_id": client_id, "client_secret": client_secret})
-        if response.status_code == 200:
+        if response.status_code == 201:
             xapp_token = response.json().get("token")
-            echo("Fetched xapp token:", xapp_token)
             return xapp_token
         else:
             print("Failed to fetch xapp token. Status code:", response.status_code)
@@ -26,167 +29,56 @@ def get_random_artwork(xapp_token, api_url):
         response = requests.get(url, headers={"X-Api-Key": xapp_token})
         if response.status_code == 200:
             artwork = response.json()
-            echo("Fetched artwork:", artwork)
-            return artwork
+
+            # Get the title of the artwork
+            title = artwork["_embedded"]["artworks"][0]["title"]
+            date =   artwork["_embedded"]["artworks"][0]["date"]
+            rights = artwork["_embedded"]["artworks"][0]["image_rights"]
+
+            # Get the image URL and download the image
+            image_url = artwork["_embedded"]["artworks"][0]["_links"]["image"]["href"]
+            image_url = image_url.replace("{image_version}", "large")
+            print("Image URL:", image_url)
+
+            # Download the image in /picture folder
+            # If folder contains the image, it will be overwritten
+            if os.path.exists("picture/artwork.jpg"):
+                os.remove("picture/artwork.jpg")
+            image = requests.get(image_url)
+            with open("picture/artwork.jpg", "wb") as f:
+                f.write(image.content)
+
+            # resize the image to 500px height
+            img = Image.open("picture/artwork.jpg")
+            width, height = img.size
+            new_width = math.floor(500 * width / height)
+            img = img.resize((new_width, 500))
+            img.save("picture/artwork.jpg")
+
+            print("Downloaded image to /picture/artwork.jpg")
+
+            if os.path.exists("README.md"):
+                os.remove("README.md")
+
+            # duplicate the template.md file to README.md and replace the {{ title }} and {{ date }} with the actual values
+            with open("template.md", "r") as f:
+                template = f.read()
+                # {{ name }}
+                # {{ date }}
+
+                # {{ picture_rights }}
+                template = template.replace("{{ name }}", title)
+                template = template.replace("{{ date }}", date)
+                template = template.replace("{{ picture_rights }}", rights)
+                with open("README.md", "w") as f:
+                    f.write(template)
+                print("Created README.md")
         else:
-            echo("Failed to fetch artwork. Status code:", response.status_code)
+            print("Failed to fetch artwork. Status code:", response.status_code)
             return None
     except Exception as e:
         print("An error occurred:", str(e))
         return None
 
 
-
-
-
-
-# Python code to convert an image to ASCII image.
-
-# gray scale level values from:
-# http://paulbourke.net/dataformats/asciiart/
-
-# 70 levels of gray
-gscale1 = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. "
-
-# 10 levels of gray
-gscale2 = '@%#*+=-:. '
-
-def getAverageL(image):
-
-	"""
-	Given PIL Image, return average value of grayscale value
-	"""
-	# get image as numpy array
-	im = np.array(image)
-
-	# get shape
-	w,h = im.shape
-
-	# get average
-	return np.average(im.reshape(w*h))
-
-def covertImageToAscii(fileName, cols, scale, moreLevels):
-	"""
-	Given Image and dims (rows, cols) returns an m*n list of Images
-	"""
-	# declare globals
-	global gscale1, gscale2
-
-	# open image and convert to grayscale
-	image = Image.open(fileName).convert('L')
-
-	# store dimensions
-	W, H = image.size[0], image.size[1]
-	print("input image dims: %d x %d" % (W, H))
-
-	# compute width of tile
-	w = W/cols
-
-	# compute tile height based on aspect ratio and scale
-	h = w/scale
-
-	# compute number of rows
-	rows = int(H/h)
-
-	print("cols: %d, rows: %d" % (cols, rows))
-	print("tile dims: %d x %d" % (w, h))
-
-	# check if image size is too small
-	if cols > W or rows > H:
-		print("Image too small for specified cols!")
-		exit(0)
-
-	# ascii image is a list of character strings
-	aimg = []
-	# generate list of dimensions
-	for j in range(rows):
-		y1 = int(j*h)
-		y2 = int((j+1)*h)
-
-		# correct last tile
-		if j == rows-1:
-			y2 = H
-
-		# append an empty string
-		aimg.append("")
-
-		for i in range(cols):
-
-			# crop image to tile
-			x1 = int(i*w)
-			x2 = int((i+1)*w)
-
-			# correct last tile
-			if i == cols-1:
-				x2 = W
-
-			# crop image to extract tile
-			img = image.crop((x1, y1, x2, y2))
-
-			# get average luminance
-			avg = int(getAverageL(img))
-
-			# look up ascii char
-			if moreLevels:
-				gsval = gscale1[int((avg*69)/255)]
-			else:
-				gsval = gscale2[int((avg*9)/255)]
-
-			# append ascii char to string
-			aimg[j] += gsval
-
-	# return txt image
-	return aimg
-
-# main() function
-def main():
-	# create parser
-	descStr = "This program converts an image into ASCII art."
-	parser = argparse.ArgumentParser(description=descStr)
-	# add expected arguments
-	parser.add_argument('--file', dest='imgFile', required=True)
-	parser.add_argument('--scale', dest='scale', required=False)
-	parser.add_argument('--out', dest='outFile', required=False)
-	parser.add_argument('--cols', dest='cols', required=False)
-	parser.add_argument('--morelevels',dest='moreLevels',action='store_true')
-
-	# parse args
-	args = parser.parse_args()
-
-	imgFile = args.imgFile
-
-	# set output file
-	outFile = 'out.txt'
-	if args.outFile:
-		outFile = args.outFile
-
-	# set scale default as 0.43 which suits
-	# a Courier font
-	scale = 0.43
-	if args.scale:
-		scale = float(args.scale)
-
-	# set cols
-	cols = 80
-	if args.cols:
-		cols = int(args.cols)
-
-	print('generating ASCII art...')
-	# convert image to ascii txt
-	aimg = covertImageToAscii(imgFile, cols, scale, args.moreLevels)
-
-	# open file
-	f = open(outFile, 'w')
-
-	# write to file
-	for row in aimg:
-		f.write(row + '\n')
-
-	# cleanup
-	f.close()
-	print("ASCII art written to %s" % outFile)
-
-# call main
-if __name__ == '__main__':
-	main()
-
+get_random_artwork(fetch_xapp_token(client_id, client_secret, api_url), api_url)

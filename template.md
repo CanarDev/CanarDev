@@ -1,10 +1,10 @@
 <html>
 
 ![Artwork](picture/artwork.jpg)
-# Canards Sauvages
+# {{ name }}
+{{ date }}
 
-
-Rights: © Courtesy National Gallery of Art, Washington
+Rights: © {{ picture_rights }}
 
 ## Project Description
 In this project, I'm creating an artwork rotation system where a new artwork will be displayed every 3 days. Each piece of art represents a unique perspective, theme, or style, adding variety and visual appeal to any space. Through this project, I aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while leveraging programming to automate the rotation process.
