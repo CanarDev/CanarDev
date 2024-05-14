@@ -6,11 +6,11 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## Woman with Veil
+## Neuilly Fair (La Foire de Neuilly)
 ### Artwork Details
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink over black chalk on laid paper
+- Date: 1885
+- Category: Print
+- Medium: Etching and aquatint on laid paper
 - Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
