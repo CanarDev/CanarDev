@@ -33,12 +33,19 @@ def get_random_artwork(xapp_token, api_url):
             # Get the title of the artwork
             title = artwork["_embedded"]["artworks"][0]["title"]
             date =   artwork["_embedded"]["artworks"][0]["date"]
+            if date == "":
+                date = "Unknown"
             rights = artwork["_embedded"]["artworks"][0]["image_rights"]
+            medium = artwork["_embedded"]["artworks"][0]["medium"]
+            if medium == "":
+                medium = "Unknown"
+            category = artwork["_embedded"]["artworks"][0]["category"]
+            if category == "":
+                category = "Unknown"
 
             # Get the image URL and download the image
             image_url = artwork["_embedded"]["artworks"][0]["_links"]["image"]["href"]
             image_url = image_url.replace("{image_version}", "large")
-            print("Image URL:", image_url)
 
             # Download the image in /picture folder
             # If folder contains the image, it will be overwritten
@@ -70,9 +77,10 @@ def get_random_artwork(xapp_token, api_url):
                 template = template.replace("{{ name }}", title)
                 template = template.replace("{{ date }}", date)
                 template = template.replace("{{ picture_rights }}", rights)
+                template = template.replace("{{ medium }}", medium)
+                template = template.replace("{{ category }}", category)
                 with open("README.md", "w") as f:
                     f.write(template)
-                print("Created README.md")
         else:
             print("Failed to fetch artwork. Status code:", response.status_code)
             return None

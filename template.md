@@ -7,9 +7,11 @@ ___
 
 ![Artwork](picture/artwork.jpg)
 ## {{ name }}
-{{ date }}
-
-Rights: © {{ picture_rights }}
+### Artwork Details
+- Date: {{ date }}
+- Category: {{ category }}
+- Medium: {{ medium }}
+- Image rights: © {{ picture_rights }}
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
