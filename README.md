@@ -6,11 +6,11 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## Antoine Dulieu
+## Bibliothèque Imperiale du Louvre
 ### Artwork Details
-- Date: 1667
-- Category: Print
-- Medium: Engraving
+- Date: 1856-1857
+- Category: Photography
+- Medium: Salted paper print from collodion negative mounted on paperboard
 - Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
