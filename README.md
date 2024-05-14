@@ -6,8 +6,8 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## The Crucifixion with the Virgin, Saint John, Saint Jerome, and Saint Mary Magdalene [middle panel]
-ca. 1482/1485
+## Ariadne
+1857
 
 Rights: © Courtesy National Gallery of Art, Washington
 
