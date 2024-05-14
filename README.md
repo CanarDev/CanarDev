@@ -6,15 +6,12 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
-## Portrait of Scholar-Official An in His Fiftieth Year
+## The Betrayal of Christ
 ### Artwork Details
-- Date: Joseon period (1392-1910)
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Hanging scroll, ink and color on silk
-- Image rights: © Image provided by the Los Angeles County Museum of Art
-
-### ASCII Art
-{{ ascii_art }}
+- Date: 1240-1250
+- Category: Sculpture
+- Medium: Gilded copper with glass
+- Image rights: © Image Provided by The Walters Art Museum
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
