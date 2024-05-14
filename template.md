@@ -5,7 +5,7 @@ I'm a software sorcerer with a knack for conjuring up cool stuff.
 Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in web development, mobile sorcery, and even a bit of data spelunking.
 ___
 
-![Artwork](picture/artwork.jpg)
+![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 ## {{ name }}
 ### Artwork Details
 - Date: {{ date }}
