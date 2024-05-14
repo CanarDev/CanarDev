@@ -6,11 +6,11 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## Neuilly Fair (La Foire de Neuilly)
+## Extent of Motion, Front and Side View Equipoised, Supported on One Leg
 ### Artwork Details
-- Date: 1885
+- Date: published 1829
 - Category: Print
-- Medium: Etching and aquatint on laid paper
+- Medium: Lithograph [proof before letters]
 - Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
