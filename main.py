@@ -5,8 +5,9 @@ from PIL import Image
 
 # Define the API URL
 api_url = "https://api.artsy.net/api/"
-client_id = os.getenv("CLIENT_ID")
-client_secret = os.getenv("CLIENT_SECRET")
+client_id = "b813895670477893902f"
+client_secret = "6c4774c8a0a0186b2aab4527095b917e"
+new_width = 80
 
 def fetch_xapp_token(client_id, client_secret, api_url):
     try:
@@ -21,6 +22,29 @@ def fetch_xapp_token(client_id, client_secret, api_url):
         print("An error occurred:", str(e))
         return None
 
+
+def generate_ascii_art(image_path, width, height):
+    # Characters to represent different shades of gray
+    ascii_chars = "@%#*+=-:. "
+
+    # Open the image and resize it
+    img = Image.open(image_path)
+    img = img.resize((width, height))
+
+    # Convert the image to grayscale
+    img = img.convert("L")
+
+    # Get the pixel data
+    pixels = np.array(img)
+
+    # Convert pixel values to ASCII characters
+    ascii_art = ""
+    for row in pixels:
+        for pixel in row:
+            ascii_art += ascii_chars[pixel // 32]  # 32 is used to scale the pixel value to the range of ascii_chars
+        ascii_art += "\n"  # Add newline after each row
+
+    return ascii_art
 
 
 def get_random_artwork(xapp_token, api_url):
@@ -52,15 +76,25 @@ def get_random_artwork(xapp_token, api_url):
             if os.path.exists("picture/artwork.jpg"):
                 os.remove("picture/artwork.jpg")
             image = requests.get(image_url)
+
             with open("picture/artwork.jpg", "wb") as f:
                 f.write(image.content)
-
             # resize the image to 500px height
             img = Image.open("picture/artwork.jpg")
             width, height = img.size
-            new_width = math.floor(500 * width / height)
-            img = img.resize((new_width, 500))
+            new_image_width = math.floor(500 * width / height)
+            img = img.resize((new_image_width, 500))
             img.save("picture/artwork.jpg")
+
+
+
+            # Generate ASCII art
+            ascii_art = generate_ascii_art("picture/artwork.jpg", new_width, 40)
+
+            print(ascii_art)
+
+
+
 
             print("Downloaded image to /picture/artwork.jpg")
 
@@ -79,6 +113,7 @@ def get_random_artwork(xapp_token, api_url):
                 template = template.replace("{{ picture_rights }}", rights)
                 template = template.replace("{{ medium }}", medium)
                 template = template.replace("{{ category }}", category)
+                template = template.replace("{{ ascii_art }}", ascii_art)
                 with open("README.md", "w") as f:
                     f.write(template)
         else:

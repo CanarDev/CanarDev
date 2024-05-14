@@ -13,6 +13,9 @@ ___
 - Medium: {{ medium }}
 - Image rights: © {{ picture_rights }}
 
+### ASCII Art
+{{ ascii_art }}
+
 ### Project Description
 In this project, I'm creating an artwork rotation system
 where a new artwork will be displayed every 3 days. Each piece
