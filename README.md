@@ -6,15 +6,12 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
-## Portrait of Scholar-Official An in His Fiftieth Year
+## Sts. Pamphilius and Porphyrius; St. Blandina and Companions; St. Erasmus; St. Optatus
 ### Artwork Details
-- Date: Joseon period (1392-1910)
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Hanging scroll, ink and color on silk
-- Image rights: © Image provided by the Los Angeles County Museum of Art
-
-### ASCII Art
-{{ ascii_art }}
+- Date: Unknown
+- Category: Print
+- Medium: Etching
+- Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
@@ -24,6 +21,7 @@ variety and visual appeal to any space. Through this project, I aim
 to explore the intersection of art and technology, showcasing the beauty
 of different artistic creations while leveraging programming to automate
 the rotation process.
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-sts-pamphilius-and-porphyrius-st-blandina-and-companions-st-erasmus-st-optatus).
 
 ___
 
