@@ -6,12 +6,12 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## Shirin Entertains Khusraw
+## J. Claude Fulchiron
 ### Artwork Details
-- Date: 1597-1598
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Ink and pigments on laid paper
-- Image rights: © Image Provided by The Walters Art Museum
+- Date: 1833
+- Category: Print
+- Medium: Lithograph
+- Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
