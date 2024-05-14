@@ -6,10 +6,12 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## Ariadne
-1857
-
-Rights: © Courtesy National Gallery of Art, Washington
+## Woman with Veil
+### Artwork Details
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink over black chalk on laid paper
+- Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
 In this project, I'm creating an artwork rotation system
