@@ -2,7 +2,8 @@ name: schedule_build
 
 on:
   schedule:
-    - cron: '9 11 * * *'
+    # Every 10 minutes
+    - cron: '*/10 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
