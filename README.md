@@ -6,11 +6,11 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg)
-## J. Claude Fulchiron
+## Antoine Dulieu
 ### Artwork Details
-- Date: 1833
+- Date: 1667
 - Category: Print
-- Medium: Lithograph
+- Medium: Engraving
 - Image rights: © Courtesy National Gallery of Art, Washington
 
 ### Project Description
