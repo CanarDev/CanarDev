@@ -24,9 +24,6 @@ def fetch_xapp_token(client_id, client_secret, api_url):
         return None
 
 
-import emoji
-
-
 def generate_ascii_picture(image_path):
     # Define caracter brightness levels
     caracter_brightness = {
