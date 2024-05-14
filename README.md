@@ -6,12 +6,12 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
-## A Girl with a Watering Can
+## Portrait of Scholar-Official An in His Fiftieth Year
 ### Artwork Details
-- Date: 1876
-- Category: Painting
-- Medium: Oil on canvas
-- Image rights: © Courtesy National Gallery of Art, Washington
+- Date: Joseon period (1392-1910)
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Hanging scroll, ink and color on silk
+- Image rights: © Image provided by the Los Angeles County Museum of Art
 
 ### ASCII Art
 {{ ascii_art }}
