@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Alpine Landscape
+## The Waterfall (Wasserfall im Werdenfelsischen)
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Gouache over graphite
+- Date: 1805
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/friedrich-salathe-alpine-landscape).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/max-joseph-wagenbauer-the-waterfall-wasserfall-im-werdenfelsischen).
 
 ___
 
