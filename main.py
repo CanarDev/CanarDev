@@ -199,7 +199,7 @@ def get_random_artwork(xapp_token, api_url):
                 with open("README.md", "w") as f:
                     f.write(template)
 
-            save_artwork_artsy(artwork_id, get_access_token(CLIENT_ID, CLIENT_SECRET, USER_EMAIL, USER_PASSWORD))
+            save_artwork_artsy(artwork_id, get_access_token())
 
 
         else:
