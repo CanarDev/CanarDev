@@ -39,7 +39,7 @@ def get_access_token():
     payload = {
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
-        "grant_type": "credentials",
+        "grant_type": "authorization_code",
         "email": USER_EMAIL,
         "password": USER_PASSWORD
     }
