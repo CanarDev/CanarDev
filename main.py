@@ -34,7 +34,7 @@ CARACTER_BRIGHTNESS = {
 
 
 def get_access_token(client_id, client_secret, email, password):
-    url = "https://api.artsy.net/oauth2/access_token"
+    url = API_URL + "oauth2/access_token"
 
     payload = {
         "client_id": client_id,
@@ -48,6 +48,21 @@ def get_access_token(client_id, client_secret, email, password):
 
     if response.status_code == 200:
         return response.json().get("access_token")
+    else:
+        response.raise_for_status()
+
+
+def delete_access_token(access_token):
+    url = API_URL + "tokens/access_token"
+
+    headers = {
+        "X-Access-Token": access_token
+    }
+
+    response = requests.delete(url, headers=headers)
+
+    if response.status_code == 200:
+        print("Access token deleted")
     else:
         response.raise_for_status()
 
