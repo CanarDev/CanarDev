@@ -36,6 +36,8 @@ CARACTER_BRIGHTNESS = {
 def get_access_token():
     url = "https://api.artsy.net/oauth2/access_token"
 
+    print(CLIENT_ID, USER_EMAIL)
+
     payload = {
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
