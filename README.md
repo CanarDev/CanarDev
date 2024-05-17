@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Christ Disputing with the Doctors
+## Cottages at the Bank
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: probably c. 1645/1656
 - Category: Print
-- Medium: Engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-hfe-christ-disputing-with-the-doctors).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/allart-van-everdingen-cottages-at-the-bank-1).
 
 ___
 
