@@ -210,6 +210,5 @@ def get_random_artwork(xapp_token, api_url):
         return None
 
 
-# get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
-get_access_token()
+get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
 
