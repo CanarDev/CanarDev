@@ -33,21 +33,22 @@ CARACTER_BRIGHTNESS = {
 }
 
 
-def get_access_token(client_id, client_secret, email, password):
+def get_access_token():
     url = "https://api.artsy.net/oauth2/access_token"
 
     payload = {
-        "client_id": client_id,
-        "client_secret": client_secret,
+        "client_id": CLIENT_ID,
+        "client_secret": CLIENT_SECRET,
         "grant_type": "credentials",
-        "email": email,
-        "password": password
+        "email": USER_EMAIL,
+        "password": USER_PASSWORD
     }
 
     response = requests.post(url, data=payload)
 
     if response.status_code == 200:
-        return response.json().get("access_token")
+        print("Access token fetched")
+        return response.json()["access_token"]
     else:
         response.raise_for_status()
 
@@ -210,4 +211,3 @@ def get_random_artwork(xapp_token, api_url):
 
 
 get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
-# get_access_token(CLIENT_ID, CLIENT_SECRET, USER_EMAIL, USER_PASSWORD)
