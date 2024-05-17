@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Boatman (Le Batelier)
+## Berthe Morisot
 
 ### Artwork Details
 
-- Date: 1874
+- Date: 1872
 - Category: Print
-- Medium: Cliche-verre
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-camille-corot-boatman-le-batelier).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-berthe-morisot).
 
 ___
 
