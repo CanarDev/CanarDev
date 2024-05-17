@@ -7,11 +7,17 @@ from PIL import Image, ImageDraw, ImageFont
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
-CLIENT_ID = os.environ.get("CLIENT_ID")
-CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
-CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
-USER_EMAIL = os.environ.get("USER_EMAIL")
-USER_PASSWORD = os.environ.get("USER_PASSWORD")
+# CLIENT_ID = os.environ.get("CLIENT_ID")
+# CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
+# CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
+# USER_EMAIL = os.environ.get("USER_EMAIL")
+# USER_PASSWORD = os.environ.get("USER_PASSWORD")
+
+CLIENT_ID = "b813895670477893902f"
+CLIENT_SECRET = "6c4774c8a0a0186b2aab4527095b917e"
+CURRENT_USER_ID = "6641d68c212ce4749653a1f7"
+USER_EMAIL = "vincentmichelnavarro@gmail.com"
+USER_PASSWORD = "Artsy2002__"
 
 # Define character brightness levels
 CARACTER_BRIGHTNESS = {
@@ -36,17 +42,17 @@ CARACTER_BRIGHTNESS = {
 def get_access_token():
     url = "https://api.artsy.net/oauth2/access_token"
 
-    print(CLIENT_ID, USER_EMAIL)
-
     payload = {
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
-        "grant_type": "authorization_code",
+        "grant_type": "credentials",
         "email": USER_EMAIL,
         "password": USER_PASSWORD
     }
 
     response = requests.post(url, data=payload)
+
+    print(response)
 
     if response.status_code == 201:
         print("Access token fetched")
