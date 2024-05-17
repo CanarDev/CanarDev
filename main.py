@@ -1,12 +1,10 @@
 import sys
 import random
-import argparse
 import requests
 import os
 import numpy as np
 import math
 from PIL import Image, ImageDraw, ImageFont
-import json
 
 # Define the API URL
 API_URL = os.environ.get("API_URL")
@@ -35,6 +33,7 @@ CARACTER_BRIGHTNESS = {
     124: '+', 125: '*', 126: '?', 127: '!'
 }
 
+
 def get_access_token(client_id, client_secret, email, password):
     url = "https://api.artsy.net/oauth2/access_token"
 
@@ -52,6 +51,8 @@ def get_access_token(client_id, client_secret, email, password):
         return response.json()["access_token"]
     else:
         response.raise_for_status()
+
+
 def fetch_xapp_token(client_id, client_secret, api_url):
     try:
         response = requests.post(api_url + 'tokens/xapp_token',
@@ -64,6 +65,7 @@ def fetch_xapp_token(client_id, client_secret, api_url):
     except Exception as e:
         print("An error occurred:", str(e))
         return None
+
 
 def generate_ascii_picture(image_path):
     img = Image.open(image_path)
@@ -86,6 +88,7 @@ def generate_ascii_picture(image_path):
     new_img = new_img.resize((math.floor(500 * new_width / new_height), 500))
     new_img.save("picture/ascii_artwork.jpg")
 
+
 def save_artwork_artsy(artwork_id, access_token):
     try:
         print('TOKEN', access_token)
@@ -102,7 +105,7 @@ def save_artwork_artsy(artwork_id, access_token):
                                      "variables": {
                                          "input": {
                                              "artworkIDs": [
-                                                artwork_id
+                                                 artwork_id
                                              ],
                                              "addToCollectionIDs": [
                                                  "50284c1c-ea80-4147-85d3-886361d22663"
@@ -121,7 +124,6 @@ def save_artwork_artsy(artwork_id, access_token):
     except Exception as e:
         print("An error occurred:", str(e))
         return None
-
 
 
 def get_random_artwork(xapp_token, api_url):
@@ -192,6 +194,5 @@ def get_random_artwork(xapp_token, api_url):
         print("An error occurred:", str(e))
         return None
 
-get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
 
-# get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
