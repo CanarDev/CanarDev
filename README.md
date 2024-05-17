@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Masked Ball at the Opera
+## Montmartre le 14 Juillet (Bastille Day in Montmartre)
 
 ### Artwork Details
 
-- Date: 1873
-- Category: Painting
-- Medium: Oil on canvas
+- Date: 1892
+- Category: Print
+- Medium: Transfer lithograph with added crayon, ink, scraping, and stumping on the stone in black on heavy wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-masked-ball-at-the-opera).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/felix-hilaire-buhot-montmartre-le-14-juillet-bastille-day-in-montmartre).
 
 ___
 
