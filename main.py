@@ -46,7 +46,7 @@ def get_access_token():
 
     response = requests.post(url, data=payload)
 
-    if response.status_code == 200:
+    if response.status_code == 201:
         print("Access token fetched")
         return response.json()["access_token"]
     else:
@@ -210,4 +210,6 @@ def get_random_artwork(xapp_token, api_url):
         return None
 
 
-get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+# get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+get_access_token()
+
