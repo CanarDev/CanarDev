@@ -1,4 +1,3 @@
-import sys
 import random
 import requests
 import os
@@ -7,7 +6,7 @@ import math
 from PIL import Image, ImageDraw, ImageFont
 
 # Define the API URL
-API_URL = os.environ.get("API_URL")
+API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
@@ -48,7 +47,7 @@ def get_access_token(client_id, client_secret, email, password):
     response = requests.post(url, data=payload)
 
     if response.status_code == 200:
-        return response.json()["access_token"]
+        return response.json().get("access_token")
     else:
         response.raise_for_status()
 
@@ -196,3 +195,4 @@ def get_random_artwork(xapp_token, api_url):
 
 
 get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+# get_access_token(CLIENT_ID, CLIENT_SECRET, USER_EMAIL, USER_PASSWORD)
