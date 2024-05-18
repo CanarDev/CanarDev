@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## Mascarade
+## Foot Soldier Standing by a Tree
 
 ### Artwork Details
 
-- Date: ca. 1831
+- Date: 1520
 - Category: Print
-- Medium: Lithograph
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/paul-gavarni-mascarade).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-foot-soldier-standing-by-a-tree).
 
 ### Project Description
 
