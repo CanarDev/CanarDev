@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## The Old Soldier - Berncastel
+## Kalaat el Hosn (Castle of the Knights, Syria)
 
 ### Artwork Details
 
-- Date: 1861/1862
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite on brown wove paper
+- Date: 1859
+- Category: Photography
+- Medium: Albumen print
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alfred-cornelius-howland-the-old-soldier-berncastel).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-de-clercq-kalaat-el-hosn-castle-of-the-knights-syria).
 
 ### Project Description
 

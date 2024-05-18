@@ -208,11 +208,11 @@ def get_random_artwork(xapp_token, api_url):
 
                 print("Created folder for previous artwork")
 
-            new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
-            ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg")
-            print("Saved previous artwork")
+                new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
+                ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg")
+                print("Saved previous artwork")
 
-            previous_artwork_gif()
+                previous_artwork_gif()
 
             if os.path.exists("README.md"):
                 os.remove("README.md")
