@@ -30,10 +30,17 @@ jobs:
           sudo apt-get install -y wget unzip
           sudo apt-get install -y chromium-browser
           CHROME_VERSION=$(chromium-browser --version | grep -oP "\d+\.\d+\.\d+\.\d+")
-          wget -O /tmp/chromedriver.zip "https://chromedriver.storage.googleapis.com/$(wget -qO- https://chromedriver.storage.googleapis.com/LATEST_RELEASE)/chromedriver_linux64.zip"
+          echo "Chrome version: $CHROME_VERSION"
+          CHROMEDRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          if [ -z "$CHROMEDRIVER_VERSION" ]; then
+            CHROMEDRIVER_VERSION=$(wget -qO- https://chromedriver.storage.googleapis.com/LATEST_RELEASE)
+          fi
+          echo "ChromeDriver version: $CHROMEDRIVER_VERSION"
+          wget -O /tmp/chromedriver.zip "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
           unzip /tmp/chromedriver.zip -d /tmp
           sudo mv /tmp/chromedriver /usr/local/bin/chromedriver
           sudo chmod +x /usr/local/bin/chromedriver
+          chromedriver --version  # Verify installation
 
       - name: generate new Readme
         run: python main.py
