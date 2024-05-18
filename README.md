@@ -9,11 +9,11 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Cardinal Antonio Barberini
+## Persian Sibyl
 
 ### Artwork Details
 
-- Date: 1664
+- Date: early 15th century
 - Category: Print
 - Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-cardinal-antonio-barberini-3).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-baccio-baldini-persian-sibyl).
 
 ___
 
