@@ -4,9 +4,14 @@ import os
 import numpy as np
 import math
 from PIL import Image, ImageDraw, ImageFont
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
+DRIVER_PATH = '/Users/vincentnavarro/Downloads/chromedriver'
 # CLIENT_ID = os.environ.get("CLIENT_ID")
 # CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 # CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
@@ -39,26 +44,47 @@ CARACTER_BRIGHTNESS = {
 }
 
 
-def get_access_token():
-    url = "https://api.artsy.net/oauth2/access_token"
+def get_new_access_token():
+    """
+    Open the given URL, sign in, and retrieve the access token.
 
-    payload = {
-        "client_id": CLIENT_ID,
-        "client_secret": CLIENT_SECRET,
-        "grant_type": "credentials",
-        "email": USER_EMAIL,
-        "password": USER_PASSWORD
-    }
+    :param url: The URL of the site to log into.
+    :param username: Your username for the site.
+    :param password: Your password for the site.
+    :param driver_path: The path to the WebDriver executable.
+    :return: The access token.
+    """
+    # Initialize the WebDriver
+    driver = webdriver.Chrome()
 
-    response = requests.post(url, data=payload)
+    try:
+        # Open the URL
+        driver.get("https://www.artsy.net/login?intent=login&contextModule=header")
 
-    print(response)
+        # Wait for the page to load
+        time.sleep(5)
 
-    if response.status_code == 201:
-        print("Access token fetched")
-        return response.json()["access_token"]
-    else:
-        response.raise_for_status()
+        # Find the login elements and perform login
+        # Update these locators based on the actual structure of the login page
+        email_field = driver.find_element(By.NAME, 'email')  # Replace with the actual field name or identifier
+        password_field = driver.find_element(By.NAME, 'password')  # Replace with the actual field name or identifier
+        login_button = driver.find_element(By.XPATH, '//*[@id="main"]/div/div/div/div/form/button')  # Replace with the actual path to the login button
+
+        # Enter the credentials
+        email_field.send_keys(USER_EMAIL)
+        password_field.send_keys(USER_PASSWORD)
+        login_button.click()
+
+        # Wait for login to complete
+        time.sleep(5)
+
+        # Evaluate the JavaScript to get the access token
+        access_token = driver.execute_script('return sd.CURRENT_USER.accessToken')
+        return access_token
+
+    finally:
+        # Close the WebDriver
+        driver.quit()
 
 
 def delete_access_token(access_token):
@@ -91,6 +117,7 @@ def fetch_xapp_token(client_id, client_secret, api_url):
 
 
 def generate_ascii_picture(image_path):
+    print("Generating ASCII artwork")
     img = Image.open(image_path)
     width, height = img.size
     new_width = width * 4
@@ -110,17 +137,17 @@ def generate_ascii_picture(image_path):
 
     new_img = new_img.resize((math.floor(500 * new_width / new_height), 500))
     new_img.save("picture/ascii_artwork.jpg")
+    print("ASCII artwork generated")
 
 
 def save_artwork_artsy(artwork_id, access_token):
     try:
-        print('TOKEN', access_token)
+        print("Saving artwork to Artsy")
         response = requests.post("https://metaphysics-production.artsy.net/v2",
                                  headers={
                                      "content-type": "application/json",
-                                     "x-access-token": access_token,
-                                     "x-original-session-id": "7371bbe0-10a0-11ef-8591-c9cef036965c",
-                                     "x-user-id": CURRENT_USER_ID
+                                     "X-Access-Token": access_token,
+                                     "X-User-Id": CURRENT_USER_ID
                                  },
                                  json={
                                      "id": "useSelectArtworkListsMutation",
@@ -132,12 +159,15 @@ def save_artwork_artsy(artwork_id, access_token):
                                              ],
                                              "addToCollectionIDs": [
                                                  "50284c1c-ea80-4147-85d3-886361d22663"
+                                             ],
+                                             "removeFromCollectionIDs": [
+                                                 "c0c36ddf-7053-4f30-a1e7-6e85a3d53e74"
                                              ]
                                          }
                                      }
                                  })
+
         if response.status_code == 200:
-            print(response.json())
             print("Artwork saved to Artsy")
 
         else:
@@ -154,6 +184,7 @@ def get_random_artwork(xapp_token, api_url):
         url = api_url + 'artworks?offset=' + str(random.randint(0, 10000)) + '&size=1&page=1'
         response = requests.get(url, headers={"X-Api-Key": xapp_token})
         if response.status_code == 200:
+            print("Fetched artwork")
             artwork = response.json()
             title = artwork["_embedded"]["artworks"][0]["title"]
             date = artwork["_embedded"]["artworks"][0]["date"] or "Unknown"
@@ -163,33 +194,26 @@ def get_random_artwork(xapp_token, api_url):
             art_link = artwork["_embedded"]["artworks"][0]["_links"]["permalink"]["href"]
             artwork_id = artwork["_embedded"]["artworks"][0]["id"]
 
-            access_token = response.headers.get("X-Access-Token")
-            print("access_token", access_token)
-
-            print("category", category)
-            print('id', artwork_id)
-            print('xapp_token', xapp_token)
-            print(artwork)
-
             image_url = artwork["_embedded"]["artworks"][0]["_links"]["image"]["href"]
             image_url = image_url.replace("{image_version}", "large")
 
             if os.path.exists("picture/artwork.jpg"):
                 os.remove("picture/artwork.jpg")
+                print("Removed existing image")
             image = requests.get(image_url)
 
             with open("picture/artwork.jpg", "wb") as f:
                 f.write(image.content)
+                print("setting up image")
 
             img = Image.open("picture/artwork.jpg")
             width, height = img.size
             new_image_width = math.floor(500 * width / height)
             img = img.resize((new_image_width, 500))
             img.save("picture/artwork.jpg")
+            print("Resized image")
 
             generate_ascii_picture("picture/artwork.jpg")
-
-            print("Downloaded image to /picture/artwork.jpg")
 
             if os.path.exists("README.md"):
                 os.remove("README.md")
@@ -207,8 +231,9 @@ def get_random_artwork(xapp_token, api_url):
                 with open("README.md", "w") as f:
                     f.write(template)
 
-            save_artwork_artsy(artwork_id, get_access_token())
+            access_token = get_new_access_token()
 
+            save_artwork_artsy(artwork_id, access_token)
 
         else:
             print("Failed to fetch artwork. Status code:", response.status_code)
@@ -219,4 +244,5 @@ def get_random_artwork(xapp_token, api_url):
 
 
 get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
-
+# save_artwork_artsy("6627a5cd5fabac00127b36b6", "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2NjQxZDY4YzIxMmNlNDc0OTY1M2ExZjciLCJzYWx0X2hhc2giOiI4ZmQ1NThjZDk4MTliOTg4NDgyNjNlYmYxY2Q2ZGJhOSIsInJvbGVzIjoidXNlciIsInBhcnRuZXJfaWRzIjpbXSwib3RwIjpmYWxzZSwiZXhwIjoxNzQ3NDg3NTUzLCJpYXQiOjE3MTU5NTE1NTMsImF1ZCI6IjI1YTA0MDhhLTQzOGMtNDI4My04YzMzLTgxNTYwNjEyNDIwOCIsImlzcyI6IkdyYXZpdHkiLCJqdGkiOiI2NjQ3NTdjMWNjZjljNDAwMGVlMzVlNmIifQ.fQcGEURVcdnTeszInlP8rXtECcPftE_STFjLt77I0cI")
+# get_access_token()
