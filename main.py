@@ -1,20 +1,17 @@
-import sys
 import random
-import argparse
 import requests
 import os
 import numpy as np
 import math
+import re
+import unicodedata
+from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
-import json
 
 # Define the API URL
-API_URL = os.environ.get("API_URL")
+API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
-CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
-USER_EMAIL = os.environ.get("USER_EMAIL")
-USER_PASSWORD = os.environ.get("USER_PASSWORD")
 
 # Define character brightness levels
 CARACTER_BRIGHTNESS = {
@@ -35,23 +32,7 @@ CARACTER_BRIGHTNESS = {
     124: '+', 125: '*', 126: '?', 127: '!'
 }
 
-def get_access_token(client_id, client_secret, email, password):
-    url = "https://api.artsy.net/oauth2/access_token"
 
-    payload = {
-        "client_id": client_id,
-        "client_secret": client_secret,
-        "grant_type": "credentials",
-        "email": email,
-        "password": password
-    }
-
-    response = requests.post(url, data=payload)
-
-    if response.status_code == 200:
-        return response.json()["access_token"]
-    else:
-        response.raise_for_status()
 def fetch_xapp_token(client_id, client_secret, api_url):
     try:
         response = requests.post(api_url + 'tokens/xapp_token',
@@ -65,7 +46,63 @@ def fetch_xapp_token(client_id, client_secret, api_url):
         print("An error occurred:", str(e))
         return None
 
-def generate_ascii_picture(image_path):
+
+def slugify(text):
+
+    # Normalize the text to NFKD (Normalization Form KD)
+    text = unicodedata.normalize('NFKD', text)
+
+    # Encode the text to ASCII bytes and decode back to a string, ignoring non-ASCII characters
+    text = text.encode('ascii', 'ignore').decode('ascii')
+
+    # Convert to lowercase
+    text = text.lower()
+
+    # Replace non-alphanumeric characters with hyphens
+    text = re.sub(r'[^a-z0-9]+', '-', text)
+
+    # Remove leading and trailing hyphens
+    text = text.strip('-')
+
+    return text
+
+def duration(array):
+    return len(array) * [random.randint(6000, 10000) // 24]
+
+
+def previous_artwork_gif():
+    print("Creating GIF of previous artworks")
+    artworks = []
+    ascii_artworks = []
+    for folder in os.listdir("previousArtworks"):
+        if os.path.isdir("previousArtworks/" + folder):
+            artwork = Image.open("previousArtworks/" + folder + "/artwork.jpg")
+            ascii_artwork = Image.open("previousArtworks/" + folder + "/ascii_artwork.jpg")
+            artworks.append(artwork)
+            ascii_artworks.append(ascii_artwork)
+
+    # all images should have the same size
+    max_width = max(artwork.size[0] for artwork in artworks)
+    max_height = max(artwork.size[1] for artwork in artworks)
+
+    for i, artwork in enumerate(artworks):
+        new_artwork = Image.new("RGB", (max_width, max_height), color="white")
+        new_artwork.paste(artwork, ((max_width - artwork.size[0]) // 2, (max_height - artwork.size[1]) // 2))
+        artworks[i] = new_artwork
+
+    for i, ascii_artwork in enumerate(ascii_artworks):
+        new_ascii_artwork = Image.new("RGB", (max_width, max_height), color="white")
+        new_ascii_artwork.paste(ascii_artwork, ((max_width - ascii_artwork.size[0]) // 2, (max_height - ascii_artwork.size[1]) // 2))
+        ascii_artworks[i] = new_ascii_artwork
+
+    artworks[0].save("previousArtworks/previous_artworks.gif", save_all=True, append_images=artworks[1:], duration=duration(artworks), loop=0)
+    ascii_artworks[0].save("previousArtworks/previous_ascii_artworks.gif", save_all=True, append_images=ascii_artworks[1:], duration=duration(ascii_artworks), loop=0)
+
+    print("GIF created")
+
+
+def generate_and_save_ascii_picture(image_path):
+    print("Generating ASCII artwork")
     img = Image.open(image_path)
     width, height = img.size
     new_width = width * 4
@@ -83,45 +120,30 @@ def generate_ascii_picture(image_path):
             ascii_char = CARACTER_BRIGHTNESS[brightness]
             draw.text((x, y), ascii_char, fill="black", spacing=60)
 
-    new_img = new_img.resize((math.floor(500 * new_width / new_height), 500))
-    new_img.save("picture/ascii_artwork.jpg")
+    new_img = new_img.resize((math.floor(400 * new_width / new_height), 400))
+    new_img.save("currentArtwork/ascii_artwork.jpg")
+    print("ASCII artwork generated")
 
-def save_artwork_artsy(artwork_id, access_token):
-    try:
-        print('TOKEN', access_token)
-        response = requests.post("https://metaphysics-production.artsy.net/v2",
-                                 headers={
-                                     "content-type": "application/json",
-                                     "x-access-token": access_token,
-                                     "x-original-session-id": "7371bbe0-10a0-11ef-8591-c9cef036965c",
-                                     "x-user-id": CURRENT_USER_ID
-                                 },
-                                 json={
-                                     "id": "useSelectArtworkListsMutation",
-                                     "query": "mutation useSelectArtworkListsMutation(\n  $input: ArtworksCollectionsBatchUpdateInput!\n) {\n  artworksCollectionsBatchUpdate(input: $input) {\n    responseOrError {\n      __typename\n      ... on ArtworksCollectionsBatchUpdateSuccess {\n        addedToArtworkLists: addedToCollections {\n          internalID\n          default\n          ...ArtworkListItem_item\n          id\n        }\n        removedFromArtworkLists: removedFromCollections {\n          internalID\n          default\n          ...ArtworkListItem_item\n          id\n        }\n      }\n      ... on ArtworksCollectionsBatchUpdateFailure {\n        mutationError {\n          statusCode\n        }\n      }\n    }\n  }\n}\n\nfragment ArtworkListItem_item on Collection {\n  default\n  name\n  internalID\n  artworksCount(onlyVisible: true)\n  shareableWithPartners\n  artworksConnection(first: 4) {\n    edges {\n      node {\n        image {\n          url(version: \"square\")\n        }\n        id\n      }\n    }\n  }\n}\n",
-                                     "variables": {
-                                         "input": {
-                                             "artworkIDs": [
-                                                artwork_id
-                                             ],
-                                             "addToCollectionIDs": [
-                                                 "50284c1c-ea80-4147-85d3-886361d22663"
-                                             ]
-                                         }
-                                     }
-                                 })
-        if response.status_code == 200:
-            print(response.json())
-            print("Artwork saved to Artsy")
+    return new_img
 
-        else:
-            print(response)
-            print("Failed to save artwork to Artsy. Status code:", response.status_code)
-            return None
-    except Exception as e:
-        print("An error occurred:", str(e))
-        return None
 
+def duplicate_readme(template_path, readme_path, title, date, rights, medium, category, art_link):
+
+    if os.path.exists(readme_path):
+        os.remove(readme_path)
+
+    with open(template_path, "r") as f:
+        template = f.read()
+
+        template = template.replace("{{ name }}", title)
+        template = template.replace("{{ date }}", date)
+        template = template.replace("{{ picture_rights }}", rights)
+        template = template.replace("{{ medium }}", medium)
+        template = template.replace("{{ category }}", category)
+        template = template.replace("{{ art_link }}", art_link)
+
+        with open(readme_path, "w") as f:
+            f.write(template)
 
 
 def get_random_artwork(xapp_token, api_url):
@@ -129,6 +151,7 @@ def get_random_artwork(xapp_token, api_url):
         url = api_url + 'artworks?offset=' + str(random.randint(0, 10000)) + '&size=1&page=1'
         response = requests.get(url, headers={"X-Api-Key": xapp_token})
         if response.status_code == 200:
+            print("Fetched artwork")
             artwork = response.json()
             title = artwork["_embedded"]["artworks"][0]["title"]
             date = artwork["_embedded"]["artworks"][0]["date"] or "Unknown"
@@ -138,33 +161,58 @@ def get_random_artwork(xapp_token, api_url):
             art_link = artwork["_embedded"]["artworks"][0]["_links"]["permalink"]["href"]
             artwork_id = artwork["_embedded"]["artworks"][0]["id"]
 
-            access_token = response.headers.get("X-Access-Token")
-            print("access_token", access_token)
-
-            print("category", category)
-            print('id', artwork_id)
-            print('xapp_token', xapp_token)
-            print(artwork)
-
             image_url = artwork["_embedded"]["artworks"][0]["_links"]["image"]["href"]
             image_url = image_url.replace("{image_version}", "large")
 
-            if os.path.exists("picture/artwork.jpg"):
-                os.remove("picture/artwork.jpg")
+            if os.path.exists("currentArtwork/artwork.jpg"):
+                os.remove("currentArtwork/artwork.jpg")
+                print("Removed current artwork")
             image = requests.get(image_url)
 
-            with open("picture/artwork.jpg", "wb") as f:
+            with open("currentArtwork/artwork.jpg", "wb") as f:
                 f.write(image.content)
+                print("setting up image")
 
-            img = Image.open("picture/artwork.jpg")
-            width, height = img.size
-            new_image_width = math.floor(500 * width / height)
-            img = img.resize((new_image_width, 500))
-            img.save("picture/artwork.jpg")
+            new_artwork = Image.open("currentArtwork/artwork.jpg")
+            width, height = new_artwork.size
+            new_image_width = math.floor(400 * width / height)
+            new_artwork = new_artwork.resize((new_image_width, 400))
+            new_artwork.save("currentArtwork/artwork.jpg")
+            print("Resized image")
 
-            generate_ascii_picture("picture/artwork.jpg")
+            ascii_artwork = generate_and_save_ascii_picture("currentArtwork/artwork.jpg")
 
-            print("Downloaded image to /picture/artwork.jpg")
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            folder_artwork_title = slugify(title)
+            new_folder_name = current_date + "-" + folder_artwork_title
+
+            if not os.path.exists("previousArtworks/" + new_folder_name):
+                os.makedirs("previousArtworks/" + new_folder_name)
+                # Create md file with artwork details
+
+                if os.path.exists("previousArtworks/" + new_folder_name + "/README.md"):
+                    os.remove("previousArtworks/" + new_folder_name + "/README.md")
+
+                with open("previousArtworks/template-current.md", "r") as f:
+                    template = f.read()
+
+                    template = template.replace("{{ name }}", title)
+                    template = template.replace("{{ date }}", date)
+                    template = template.replace("{{ picture_rights }}", rights)
+                    template = template.replace("{{ medium }}", medium)
+                    template = template.replace("{{ category }}", category)
+                    template = template.replace("{{ art_link }}", art_link)
+
+                    with open("previousArtworks/" + new_folder_name + "/README.md", "w") as f:
+                        f.write(template)
+
+                print("Created folder for previous artwork")
+
+                new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
+                ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg")
+                print("Saved previous artwork")
+
+                previous_artwork_gif()
 
             if os.path.exists("README.md"):
                 os.remove("README.md")
@@ -182,8 +230,6 @@ def get_random_artwork(xapp_token, api_url):
                 with open("README.md", "w") as f:
                     f.write(template)
 
-            save_artwork_artsy(artwork_id, get_access_token(CLIENT_ID, CLIENT_SECRET, USER_EMAIL, USER_PASSWORD))
-
 
         else:
             print("Failed to fetch artwork. Status code:", response.status_code)
@@ -192,6 +238,5 @@ def get_random_artwork(xapp_token, api_url):
         print("An error occurred:", str(e))
         return None
 
-get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
 
-# get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)

@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## {{ name }}
+## Cephalus Punished at the Hunt
 
 ### Artwork Details
 
-- Date: {{ date }}
-- Category: {{ category }}
-- Medium: {{ medium }}
-- Image rights: {{ picture_rights }}
-Additional details about the artwork can be found [here]({{ art_link }}).
+- Date: ca. 1520/1522
+- Category: Painting
+- Medium: Fresco
+- Image rights: Courtesy National Gallery of Art, Washington
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bernardino-luini-cephalus-punished-at-the-hunt).
 
 ### Project Description
 
