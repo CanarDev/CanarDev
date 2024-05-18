@@ -71,6 +71,8 @@ def get_new_access_token():
 
         # Wait for login to complete
         time.sleep(5)
+        # print(driver.page_source)
+        print(driver.current_url)
 
         # Evaluate the JavaScript to get the access token
         current_user = driver.execute_script('return sd.CURRENT_USER')
