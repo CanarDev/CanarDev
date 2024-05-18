@@ -40,6 +40,10 @@ jobs:
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          CURRENT_USER_ID: ${{ secrets.CURRENT_USER_ID }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          USER_PASSWORD: ${{ secrets.CURRENT_USER_PASSWORD }}
+
       - name: Push new README.md
         run: |
           git config user.name 'github-actions[bot]'

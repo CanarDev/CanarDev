@@ -12,7 +12,7 @@ import time
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
-DRIVER_PATH = '/Users/vincentnavarro/Downloads/chromedriver'
+DRIVER_PATH = "/usr/local/bin/chromedriver"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
