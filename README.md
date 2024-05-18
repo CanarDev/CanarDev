@@ -12,15 +12,15 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Coronation of the Virgin with the Trinity  and Saints
+## Elisha Watching Elijah in the Fiery Chariot
 
 ### Artwork Details
 
-- Date: ca. 1440
+- Date: ca. 1600
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Miniature on vellum
+- Medium: Pen and brown ink on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/olivetan-master-coronation-of-the-virgin-with-the-trinity-and-saints).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-jakob-nuscheler-elisha-watching-elijah-in-the-fiery-chariot).
 
 ### Project Description
 
