@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## Jan Asselyn
+## Gothic Ornament with a Lady and a Parrot
 
 ### Artwork Details
 
-- Date: ca. 1647
-- Category: Print
-- Medium: Etching, drypoint and burin
+- Date: ca. 1495
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink over black chalk
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rembrandt-van-rijn-jan-asselyn).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-lcz-gothic-ornament-with-a-lady-and-a-parrot).
 
 ### Project Description
 
