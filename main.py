@@ -67,7 +67,7 @@ def slugify(text):
     return text
 
 def duration(array):
-    return len(array) * [random.randint(6000, 10000) // 24]
+    return len(array) * [random.randint(12000, 18000) // 24]
 
 
 def previous_artwork_gif():
