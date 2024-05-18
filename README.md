@@ -12,15 +12,15 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Elisha Watching Elijah in the Fiery Chariot
+## Antique Battle Scene (?)
 
 ### Artwork Details
 
-- Date: ca. 1600
+- Date: Unknown
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink on laid paper
+- Medium: Graphite on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-jakob-nuscheler-elisha-watching-elijah-in-the-fiery-chariot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-flaxman-antique-battle-scene).
 
 ### Project Description
 
