@@ -49,19 +49,7 @@ def fetch_xapp_token(client_id, client_secret, api_url):
 
 
 def slugify(text):
-    """
-    Convert a string into a slug by:
-    1. Converting to lowercase.
-    2. Removing non-ASCII characters.
-    3. Replacing non-alphanumeric characters with hyphens.
-    4. Removing leading and trailing hyphens.
 
-    Parameters:
-    text (str): The input string to be slugified.
-
-    Returns:
-    str: The slugified string.
-    """
     # Normalize the text to NFKD (Normalization Form KD)
     text = unicodedata.normalize('NFKD', text)
 
@@ -140,7 +128,7 @@ def generate_and_save_ascii_picture(image_path):
     return new_img
 
 
-def duplicate_readme(template_path, readme_path, title, date, rights, medium, category, art_link, currentArtworkPath=None):
+def duplicate_readme(template_path, readme_path, title, date, rights, medium, category, art_link):
 
     if os.path.exists(readme_path):
         os.remove(readme_path)
@@ -202,8 +190,7 @@ def get_random_artwork(xapp_token, api_url):
             if not os.path.exists("previousArtworks/" + new_folder_name):
                 os.makedirs("previousArtworks/" + new_folder_name)
                 # Create md file with artwork details
-
-
+                duplicate_readme("previousArtworks/template-current.md", "previousArtworks/" + new_folder_name + "/README.md", title, date, rights, medium, category, art_link)
                 print("Created folder for previous artwork")
 
             new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
@@ -214,9 +201,6 @@ def get_random_artwork(xapp_token, api_url):
 
             # set /README.md
             duplicate_readme("template.md", "README.md", title, date, rights, medium, category, art_link)
-
-            # set /currentArtwork/README.md
-            duplicate_readme("previousArtworks/template-current.md", "previousArtworks/" + new_folder_name + "/README.md", title, date, rights, medium, category, art_link)
 
 
         else:
