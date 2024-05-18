@@ -12,7 +12,6 @@ import time
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
-DRIVER_PATH = "/usr/local/bin/chromedriver"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
@@ -49,7 +48,7 @@ def get_new_access_token():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--remote-debugging-port=9222")
 
-    service = Service(DRIVER_PATH)
+    service = Service("/usr/local/bin/chromedriver")
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     try:
