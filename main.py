@@ -73,6 +73,8 @@ def get_new_access_token():
         time.sleep(5)
 
         # Evaluate the JavaScript to get the access token
+        current_user = driver.execute_script('return sd.CURRENT_USER')
+        print(current_user)
         access_token = driver.execute_script('return sd.CURRENT_USER.accessToken')
         return access_token
 
@@ -228,6 +230,8 @@ def get_random_artwork(xapp_token, api_url):
             access_token = get_new_access_token()
 
             save_artwork_artsy(artwork_id, access_token)
+
+            delete_access_token(access_token)
 
         else:
             print("Failed to fetch artwork. Status code:", response.status_code)
