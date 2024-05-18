@@ -1,6 +1,9 @@
 <html>
 
-![Artwork](artwork.jpg) ![Artwork](ascii_artwork.jpg)
+<div align="center">
+    <img width="49%" src="artwork.jpg" alt="artwork"/>
+    <img width="49%" src="ascii_artwork.jpg" alt="artwork ASCII"/>
+</div>
 
 # Foot Soldier Standing by a Tree
 
