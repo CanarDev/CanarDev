@@ -27,7 +27,7 @@ jobs:
       - name: Set up ChromeDriver
         uses: nanasess/setup-chromedriver@v1
         with:
-          chrome-version: 'latest'  # Ensure this matches the Chrome version
+          chromedriver-version: 'latest'  # Ensure this matches the Chrome version
 
       - name: generate new Readme
         run: python main.py
