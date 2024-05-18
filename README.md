@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Eve
+## Cardinal Antonio Barberini
 
 ### Artwork Details
 
-- Date: in or after 1895
+- Date: 1664
 - Category: Print
-- Medium: Woodcut on japan paper
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/paul-gauguin-eve).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-cardinal-antonio-barberini-3).
 
 ___
 
