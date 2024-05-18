@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## Cephalus Punished at the Hunt
+## Mascarade
 
 ### Artwork Details
 
-- Date: ca. 1520/1522
-- Category: Painting
-- Medium: Fresco
+- Date: ca. 1831
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bernardino-luini-cephalus-punished-at-the-hunt).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/paul-gavarni-mascarade).
 
 ### Project Description
 
