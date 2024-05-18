@@ -7,7 +7,7 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 a bit of data spelunking.
 ___
 
-![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
+![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
 ## {{ name }}
 
@@ -17,6 +17,7 @@ ___
 - Category: {{ category }}
 - Medium: {{ medium }}
 - Image rights: {{ picture_rights }}
+Additional details about the artwork can be found [here]({{ art_link }}).
 
 ### Project Description
 
@@ -26,7 +27,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here]({{ art_link }}).
+![Artwork](previousArtworks/previous_artworks.gif) ![Artwork](previousArtworks/previous_ascii_artworks.gif)
 
 ___
 

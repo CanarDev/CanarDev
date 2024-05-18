@@ -3,20 +3,15 @@ import requests
 import os
 import numpy as np
 import math
+import re
+import unicodedata
+from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-import time
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
-CURRENT_USER_ID = os.environ.get("CURRENT_USER_ID")
-USER_EMAIL = os.environ.get("USER_EMAIL")
-USER_PASSWORD = os.environ.get("USER_PASSWORD")
 
 # Define character brightness levels
 CARACTER_BRIGHTNESS = {
@@ -38,68 +33,6 @@ CARACTER_BRIGHTNESS = {
 }
 
 
-def get_new_access_token():
-
-    # Initialize the WebDriver
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--remote-debugging-port=9222")
-
-    service = Service("/usr/bin/chromedriver")
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-
-    try:
-        # Open the URL
-        driver.get("https://www.artsy.net/login?intent=login&contextModule=header")
-
-        # Wait for the page to load
-        time.sleep(5)
-
-        # Find the login elements and perform login
-        # Update these locators based on the actual structure of the login page
-        email_field = driver.find_element(By.NAME, 'email')  # Replace with the actual field name or identifier
-        password_field = driver.find_element(By.NAME, 'password')  # Replace with the actual field name or identifier
-        login_button = driver.find_element(By.XPATH, '//*[@id="main"]/div/div/div/div/form/button')  # Replace with the actual path to the login button
-
-        # Enter the credentials
-        email_field.send_keys(USER_EMAIL)
-        password_field.send_keys(USER_PASSWORD)
-        login_button.click()
-
-        # Wait for login to complete
-        time.sleep(5)
-        # print(driver.page_source)
-        print(driver.current_url)
-
-        # Evaluate the JavaScript to get the access token
-        current_user = driver.execute_script('return sd.CURRENT_USER')
-        print(current_user)
-        access_token = driver.execute_script('return sd.CURRENT_USER.accessToken')
-        return access_token
-
-    finally:
-        # Close the WebDriver
-        driver.quit()
-
-
-def delete_access_token(access_token):
-    url = API_URL + "tokens/access_token"
-
-    headers = {
-        "X-Access-Token": access_token
-    }
-
-    response = requests.delete(url, headers=headers)
-
-    if response.status_code == 200:
-        print("Access token deleted")
-    else:
-        response.raise_for_status()
-
-
 def fetch_xapp_token(client_id, client_secret, api_url):
     try:
         response = requests.post(api_url + 'tokens/xapp_token',
@@ -114,7 +47,73 @@ def fetch_xapp_token(client_id, client_secret, api_url):
         return None
 
 
-def generate_ascii_picture(image_path):
+def slugify(text):
+    """
+    Convert a string into a slug by:
+    1. Converting to lowercase.
+    2. Removing non-ASCII characters.
+    3. Replacing non-alphanumeric characters with hyphens.
+    4. Removing leading and trailing hyphens.
+
+    Parameters:
+    text (str): The input string to be slugified.
+
+    Returns:
+    str: The slugified string.
+    """
+    # Normalize the text to NFKD (Normalization Form KD)
+    text = unicodedata.normalize('NFKD', text)
+
+    # Encode the text to ASCII bytes and decode back to a string, ignoring non-ASCII characters
+    text = text.encode('ascii', 'ignore').decode('ascii')
+
+    # Convert to lowercase
+    text = text.lower()
+
+    # Replace non-alphanumeric characters with hyphens
+    text = re.sub(r'[^a-z0-9]+', '-', text)
+
+    # Remove leading and trailing hyphens
+    text = text.strip('-')
+
+    return text
+
+def duration(array):
+    return len(array) * [random.randint(6000, 10000) // 24]
+
+
+def previous_artwork_gif():
+    print("Creating GIF of previous artworks")
+    artworks = []
+    ascii_artworks = []
+    for folder in os.listdir("previousArtworks"):
+        if os.path.isdir("previousArtworks/" + folder):
+            artwork = Image.open("previousArtworks/" + folder + "/artwork.jpg")
+            ascii_artwork = Image.open("previousArtworks/" + folder + "/ascii_artwork.jpg")
+            artworks.append(artwork)
+            ascii_artworks.append(ascii_artwork)
+
+    # all images should have the same size
+    max_width = max(artwork.size[0] for artwork in artworks)
+    max_height = max(artwork.size[1] for artwork in artworks)
+
+    for i, artwork in enumerate(artworks):
+        new_artwork = Image.new("RGB", (max_width, max_height), color="white")
+        new_artwork.paste(artwork, ((max_width - artwork.size[0]) // 2, (max_height - artwork.size[1]) // 2))
+        artworks[i] = new_artwork
+
+    for i, ascii_artwork in enumerate(ascii_artworks):
+        new_ascii_artwork = Image.new("RGB", (max_width, max_height), color="white")
+        new_ascii_artwork.paste(ascii_artwork, ((max_width - ascii_artwork.size[0]) // 2, (max_height - ascii_artwork.size[1]) // 2))
+        ascii_artworks[i] = new_ascii_artwork
+
+    artworks[0].save("previousArtworks/previous_artworks.gif", save_all=True, append_images=artworks[1:], duration=duration(artworks), loop=0)
+    ascii_artworks[0].save("previousArtworks/previous_ascii_artworks.gif", save_all=True, append_images=ascii_artworks[1:], duration=duration(ascii_artworks), loop=0)
+
+    print("GIF created")
+
+
+def generate_and_save_ascii_picture(image_path):
     print("Generating ASCII artwork")
     img = Image.open(image_path)
     width, height = img.size
@@ -133,48 +132,30 @@ def generate_ascii_picture(image_path):
             ascii_char = CARACTER_BRIGHTNESS[brightness]
             draw.text((x, y), ascii_char, fill="black", spacing=60)
 
-    new_img = new_img.resize((math.floor(500 * new_width / new_height), 500))
-    new_img.save("picture/ascii_artwork.jpg")
+    new_img = new_img.resize((math.floor(400 * new_width / new_height), 400))
+    new_img.save("currentArtwork/ascii_artwork.jpg")
     print("ASCII artwork generated")
 
+    return new_img
 
-def save_artwork_artsy(artwork_id, access_token):
-    try:
-        print("Saving artwork to Artsy")
-        response = requests.post("https://metaphysics-production.artsy.net/v2",
-                                 headers={
-                                     "content-type": "application/json",
-                                     "X-Access-Token": access_token,
-                                     "X-User-Id": CURRENT_USER_ID
-                                 },
-                                 json={
-                                     "id": "useSelectArtworkListsMutation",
-                                     "query": "mutation useSelectArtworkListsMutation(\n  $input: ArtworksCollectionsBatchUpdateInput!\n) {\n  artworksCollectionsBatchUpdate(input: $input) {\n    responseOrError {\n      __typename\n      ... on ArtworksCollectionsBatchUpdateSuccess {\n        addedToArtworkLists: addedToCollections {\n          internalID\n          default\n          ...ArtworkListItem_item\n          id\n        }\n        removedFromArtworkLists: removedFromCollections {\n          internalID\n          default\n          ...ArtworkListItem_item\n          id\n        }\n      }\n      ... on ArtworksCollectionsBatchUpdateFailure {\n        mutationError {\n          statusCode\n        }\n      }\n    }\n  }\n}\n\nfragment ArtworkListItem_item on Collection {\n  default\n  name\n  internalID\n  artworksCount(onlyVisible: true)\n  shareableWithPartners\n  artworksConnection(first: 4) {\n    edges {\n      node {\n        image {\n          url(version: \"square\")\n        }\n        id\n      }\n    }\n  }\n}\n",
-                                     "variables": {
-                                         "input": {
-                                             "artworkIDs": [
-                                                 artwork_id
-                                             ],
-                                             "addToCollectionIDs": [
-                                                 "50284c1c-ea80-4147-85d3-886361d22663"
-                                             ],
-                                             "removeFromCollectionIDs": [
-                                                 "c0c36ddf-7053-4f30-a1e7-6e85a3d53e74"
-                                             ]
-                                         }
-                                     }
-                                 })
 
-        if response.status_code == 200:
-            print("Artwork saved to Artsy")
+def duplicate_readme(template_path, readme_path, title, date, rights, medium, category, art_link, currentArtworkPath=None):
 
-        else:
-            print(response)
-            print("Failed to save artwork to Artsy. Status code:", response.status_code)
-            return None
-    except Exception as e:
-        print("An error occurred:", str(e))
-        return None
+    if os.path.exists(readme_path):
+        os.remove(readme_path)
+
+    with open(template_path, "r") as f:
+        template = f.read()
+
+        template = template.replace("{{ name }}", title)
+        template = template.replace("{{ date }}", date)
+        template = template.replace("{{ picture_rights }}", rights)
+        template = template.replace("{{ medium }}", medium)
+        template = template.replace("{{ category }}", category)
+        template = template.replace("{{ art_link }}", art_link)
+
+        with open(readme_path, "w") as f:
+            f.write(template)
 
 
 def get_random_artwork(xapp_token, api_url):
@@ -195,45 +176,47 @@ def get_random_artwork(xapp_token, api_url):
             image_url = artwork["_embedded"]["artworks"][0]["_links"]["image"]["href"]
             image_url = image_url.replace("{image_version}", "large")
 
-            if os.path.exists("picture/artwork.jpg"):
-                os.remove("picture/artwork.jpg")
-                print("Removed existing image")
+            if os.path.exists("currentArtwork/artwork.jpg"):
+                os.remove("currentArtwork/artwork.jpg")
+                print("Removed current artwork")
             image = requests.get(image_url)
 
-            with open("picture/artwork.jpg", "wb") as f:
+            with open("currentArtwork/artwork.jpg", "wb") as f:
                 f.write(image.content)
                 print("setting up image")
 
-            img = Image.open("picture/artwork.jpg")
-            width, height = img.size
-            new_image_width = math.floor(500 * width / height)
-            img = img.resize((new_image_width, 500))
-            img.save("picture/artwork.jpg")
+            new_artwork = Image.open("currentArtwork/artwork.jpg")
+            width, height = new_artwork.size
+            new_image_width = math.floor(400 * width / height)
+            new_artwork = new_artwork.resize((new_image_width, 400))
+            new_artwork.save("currentArtwork/artwork.jpg")
             print("Resized image")
 
-            generate_ascii_picture("picture/artwork.jpg")
+            ascii_artwork = generate_and_save_ascii_picture("currentArtwork/artwork.jpg")
 
-            if os.path.exists("README.md"):
-                os.remove("README.md")
+            current_date = datetime.now().strftime("%Y-%m-%d")
+            folder_artwork_title = slugify(title)
+            new_folder_name = current_date + "-" + folder_artwork_title
 
-            with open("template.md", "r") as f:
-                template = f.read()
+            if not os.path.exists("previousArtworks/" + new_folder_name):
+                os.makedirs("previousArtworks/" + new_folder_name)
+                # Create md file with artwork details
 
-                template = template.replace("{{ name }}", title)
-                template = template.replace("{{ date }}", date)
-                template = template.replace("{{ picture_rights }}", rights)
-                template = template.replace("{{ medium }}", medium)
-                template = template.replace("{{ category }}", category)
-                template = template.replace("{{ art_link }}", art_link)
 
-                with open("README.md", "w") as f:
-                    f.write(template)
+                print("Created folder for previous artwork")
 
-            access_token = get_new_access_token()
+            new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
+            ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg")
+            print("Saved previous artwork")
 
-            save_artwork_artsy(artwork_id, access_token)
+            previous_artwork_gif()
 
-            delete_access_token(access_token)
+            # set /README.md
+            duplicate_readme("template.md", "README.md", title, date, rights, medium, category, art_link)
+
+            # set /currentArtwork/README.md
+            duplicate_readme("previousArtworks/template-current.md", "previousArtworks/" + new_folder_name + "/README.md", title, date, rights, medium, category, art_link)
+
 
         else:
             print("Failed to fetch artwork. Status code:", response.status_code)
@@ -244,5 +227,3 @@ def get_random_artwork(xapp_token, api_url):
 
 
 get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
-# save_artwork_artsy("6627a5cd5fabac00127b36b6", "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI2NjQxZDY4YzIxMmNlNDc0OTY1M2ExZjciLCJzYWx0X2hhc2giOiI4ZmQ1NThjZDk4MTliOTg4NDgyNjNlYmYxY2Q2ZGJhOSIsInJvbGVzIjoidXNlciIsInBhcnRuZXJfaWRzIjpbXSwib3RwIjpmYWxzZSwiZXhwIjoxNzQ3NDg3NTUzLCJpYXQiOjE3MTU5NTE1NTMsImF1ZCI6IjI1YTA0MDhhLTQzOGMtNDI4My04YzMzLTgxNTYwNjEyNDIwOCIsImlzcyI6IkdyYXZpdHkiLCJqdGkiOiI2NjQ3NTdjMWNjZjljNDAwMGVlMzVlNmIifQ.fQcGEURVcdnTeszInlP8rXtECcPftE_STFjLt77I0cI")
-# get_access_token()

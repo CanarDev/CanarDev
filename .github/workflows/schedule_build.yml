@@ -21,11 +21,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Set up ChromeDriver
-        uses: nanasess/setup-chromedriver@v1
-        with:
-          chrome-version: 'latest'  # Ensure this matches the Chrome version
-
       - name: generate new Readme
         run: python main.py
         env:

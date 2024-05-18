@@ -24,36 +24,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Install Google Chrome
-        run: |
-          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-
-      - name: Install ChromeDriver
-        run: |
-          CHROME_VERSION=$(google-chrome --version | grep -oP "\d+\.\d+\.\d+\.\d+")
-          echo "Chrome version: $CHROME_VERSION"
-          CHROME_MAJOR_VERSION=$(echo $CHROME_VERSION | cut -d. -f1)
-          echo "Chrome major version: $CHROME_MAJOR_VERSION"
-          CHROMEDRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_MAJOR_VERSION" || wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE")
-          echo "ChromeDriver version: $CHROMEDRIVER_VERSION"
-          wget -O /tmp/chromedriver.zip "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
-          unzip /tmp/chromedriver.zip -d /tmp
-          sudo mv /tmp/chromedriver /usr/local/bin/chromedriver
-          sudo chmod +x /usr/local/bin/chromedriver
-          chromedriver --version  # Verify installation
-
-
       - name: Generate new README
         run: python main.py
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          CURRENT_USER_ID: ${{ secrets.CURRENT_USER_ID }}
-          USER_EMAIL: ${{ secrets.USER_EMAIL }}
-          USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
 
       - name: Push new README.md
         run: |
