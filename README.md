@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## Kalaat el Hosn (Castle of the Knights, Syria)
+## A Picturesque Landscape
 
 ### Artwork Details
 
-- Date: 1859
-- Category: Photography
-- Medium: Albumen print
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Brush and black ink with gray washes over graphite on light ocher prepared laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-de-clercq-kalaat-el-hosn-castle-of-the-knights-syria).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-gilpin-a-picturesque-landscape).
 
 ### Project Description
 
