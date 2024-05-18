@@ -9,11 +9,11 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## Study of a Nude Figure (Etude de figure nue)
+## Peasant Leaning on His Doorway
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1672
 - Category: Print
 - Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-study-of-a-nude-figure-etude-de-figure-nue).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/adriaen-van-ostade-peasant-leaning-on-his-doorway).
 
 ___
 
