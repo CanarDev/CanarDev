@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## A Picturesque Landscape
+## Cephalus Punished at the Hunt
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Brush and black ink with gray washes over graphite on light ocher prepared laid paper
+- Date: ca. 1520/1522
+- Category: Painting
+- Medium: Fresco
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-gilpin-a-picturesque-landscape).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bernardino-luini-cephalus-punished-at-the-hunt).
 
 ### Project Description
 
