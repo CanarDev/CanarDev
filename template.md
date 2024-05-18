@@ -7,7 +7,10 @@ Currently spellbinding folks at [GRAUW.](https://grauw.fr), I'm well-versed in w
 a bit of data spelunking.
 ___
 
-![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
+<div align="center">
+    <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/artwork.jpg" alt="artwork"/>
+    <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
+</div>
 
 ## {{ name }}
 
@@ -27,7 +30,10 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-![Artwork](previousArtworks/previous_artworks.gif) ![Artwork](previousArtworks/previous_ascii_artworks.gif)
+<div align="center">
+    <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/previousArtworks/previous_artworks.gif" alt="previous artworks"/>
+    <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/previousArtworks/previous_ascii_artworks.gif" alt="previous ASCII artworks"/>
+</div>
 
 ___
 
