@@ -6,10 +6,6 @@ import math
 from PIL import Image, ImageDraw, ImageFont
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
 import time
 
 # Define the API URL
@@ -48,25 +44,17 @@ CARACTER_BRIGHTNESS = {
 
 
 def get_new_access_token():
+    """
+    Open the given URL, sign in, and retrieve the access token.
 
-    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
-
-    chrome_options = Options()
-    options = [
-        "--headless",
-        "--disable-gpu",
-        "--window-size=1920,1200",
-        "--ignore-certificate-errors",
-        "--disable-extensions",
-        "--no-sandbox",
-        "--disable-dev-shm-usage"
-    ]
-
-    for option in options:
-        chrome_options.add_argument(option)
-
+    :param url: The URL of the site to log into.
+    :param username: Your username for the site.
+    :param password: Your password for the site.
+    :param driver_path: The path to the WebDriver executable.
+    :return: The access token.
+    """
     # Initialize the WebDriver
-    driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+    driver = webdriver.Chrome()
 
     try:
         # Open the URL
