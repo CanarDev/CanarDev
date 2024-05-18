@@ -9,13 +9,13 @@ ___
 
 ![Artwork](picture/artwork.jpg) ![Artwork](picture/ascii_artwork.jpg)
 
-## A Ferry on the Königsee
+## Study of a Nude Figure (Etude de figure nue)
 
 ### Artwork Details
 
-- Date: 1827/1839
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash over graphite on wove paper
+- Date: Unknown
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
 ### Project Description
@@ -26,7 +26,7 @@ duplicate the picture in ASCII mode, infusing a digital twist into the artistic 
 aim to explore the intersection of art and technology, showcasing the beauty of different artistic creations while
 leveraging programming to automate the rotation process.
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/friedrich-gauermann-a-ferry-on-the-konigsee).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-study-of-a-nude-figure-etude-de-figure-nue).
 
 ___
 
