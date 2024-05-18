@@ -13,6 +13,7 @@ API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
+
 # Define character brightness levels
 CARACTER_BRIGHTNESS = {
     0: 'F', 1: 'T', 2: 'C', 3: 'L', 4: 'W', 5: 'E', 6: 'Y', 7: 'X', 8: 'U', 9: 'A',
