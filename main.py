@@ -13,7 +13,6 @@ API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
-
 # Define character brightness levels
 CARACTER_BRIGHTNESS = {
     0: 'F', 1: 'T', 2: 'C', 3: 'L', 4: 'W', 5: 'E', 6: 'Y', 7: 'X', 8: 'U', 9: 'A',
@@ -190,7 +189,23 @@ def get_random_artwork(xapp_token, api_url):
             if not os.path.exists("previousArtworks/" + new_folder_name):
                 os.makedirs("previousArtworks/" + new_folder_name)
                 # Create md file with artwork details
-                duplicate_readme("previousArtworks/template-current.md", "previousArtworks/" + new_folder_name + "/README.md", title, date, rights, medium, category, art_link)
+
+                if os.path.exists("previousArtworks/" + new_folder_name + "/README.md"):
+                    os.remove("previousArtworks/" + new_folder_name + "/README.md")
+
+                with open("previousArtworks/template-current.md", "r") as f:
+                    template = f.read()
+
+                    template = template.replace("{{ name }}", title)
+                    template = template.replace("{{ date }}", date)
+                    template = template.replace("{{ picture_rights }}", rights)
+                    template = template.replace("{{ medium }}", medium)
+                    template = template.replace("{{ category }}", category)
+                    template = template.replace("{{ art_link }}", art_link)
+
+                    with open("previousArtworks/" + new_folder_name + "/README.md", "w") as f:
+                        f.write(template)
+
                 print("Created folder for previous artwork")
 
             new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
@@ -199,8 +214,21 @@ def get_random_artwork(xapp_token, api_url):
 
             previous_artwork_gif()
 
-            # set /README.md
-            duplicate_readme("template.md", "README.md", title, date, rights, medium, category, art_link)
+            if os.path.exists("README.md"):
+                os.remove("README.md")
+
+            with open("template.md", "r") as f:
+                template = f.read()
+
+                template = template.replace("{{ name }}", title)
+                template = template.replace("{{ date }}", date)
+                template = template.replace("{{ picture_rights }}", rights)
+                template = template.replace("{{ medium }}", medium)
+                template = template.replace("{{ category }}", category)
+                template = template.replace("{{ art_link }}", art_link)
+
+                with open("README.md", "w") as f:
+                    f.write(template)
 
 
         else:
