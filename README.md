@@ -9,15 +9,15 @@ ___
 
 ![Artwork](currentArtwork/artwork.jpg) ![Artwork](currentArtwork/ascii_artwork.jpg)
 
-## Gothic Ornament with a Lady and a Parrot
+## The Old Soldier - Berncastel
 
 ### Artwork Details
 
-- Date: ca. 1495
+- Date: 1861/1862
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink over black chalk
+- Medium: Graphite on brown wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-lcz-gothic-ornament-with-a-lady-and-a-parrot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alfred-cornelius-howland-the-old-soldier-berncastel).
 
 ### Project Description
 
