@@ -12,15 +12,15 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Antique Battle Scene (?)
+## Hardouin de Perefixe
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite on laid paper
+- Date: 1662
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-flaxman-antique-battle-scene).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-hardouin-de-perefixe-3).
 
 ### Project Description
 
