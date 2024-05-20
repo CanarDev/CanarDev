@@ -12,15 +12,15 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Hardouin de Perefixe
+## Lady Catherine Howard
 
 ### Artwork Details
 
-- Date: 1662
+- Date: Unknown
 - Category: Print
-- Medium: Engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-hardouin-de-perefixe-3).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wenceslaus-hollar-lady-catherine-howard).
 
 ### Project Description
 
