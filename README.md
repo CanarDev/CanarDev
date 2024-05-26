@@ -12,15 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le harde
+## The Cannon
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1641
 - Category: Print
 - Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/karl-bodmer-le-harde).
+
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-the-cannon).
 
 ### Project Description
 
