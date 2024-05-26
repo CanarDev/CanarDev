@@ -20,6 +20,7 @@ ___
 - Category: {{ category }}
 - Medium: {{ medium }}
 - Image rights: {{ picture_rights }}
+
 Additional details about the artwork can be found [here]({{ art_link }}).
 
 ### Project Description
