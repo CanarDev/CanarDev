@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Cannon
+## Clement de Jonghe
 
 ### Artwork Details
 
-- Date: ca. 1641
+- Date: 1651
 - Category: Print
-- Medium: Etching
+- Medium: Etching, drypoint and burin
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-the-cannon).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/clement-de-jonghe-1).
 
 ### Project Description
 
