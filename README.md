@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Clement de Jonghe
+## Joshua, King David and Judas Maccabeus
 
 ### Artwork Details
 
-- Date: 1651
-- Category: Print
-- Medium: Etching, drypoint and burin
+- Date: 1492
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink over traces of black chalk on on laid paper ruled in leadpoint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/clement-de-jonghe-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/primary-master-of-the-strassburg-chronicle-joshua-king-david-and-judas-maccabeus).
 
 ### Project Description
 
