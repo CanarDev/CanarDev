@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of a Woman
+## The Raising of Lazarus: Small Plate
 
 ### Artwork Details
 
-- Date: ca. 1850
-- Category: Photography
-- Medium: Salted paper print
+- Date: 1642
+- Category: Print
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/frank-chauvassaignes-portrait-of-a-woman).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-raising-of-lazarus-small-plate).
 
 ### Project Description
 
