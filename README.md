@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Joshua, King David and Judas Maccabeus
+## Portrait of a Woman
 
 ### Artwork Details
 
-- Date: 1492
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink over traces of black chalk on on laid paper ruled in leadpoint
+- Date: ca. 1850
+- Category: Photography
+- Medium: Salted paper print
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/primary-master-of-the-strassburg-chronicle-joshua-king-david-and-judas-maccabeus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/frank-chauvassaignes-portrait-of-a-woman).
 
 ### Project Description
 
