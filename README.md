@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Raising of Lazarus: Small Plate
+## Urbis Venetiarum Prospectus Celebriores, Ex Antonii Canal Tabulis XXXVIII. Aere Expressi ab Antonio Visentini in Partes Tres Distributi. Pars Prima [-Pars Tertia]
 
 ### Artwork Details
 
-- Date: 1642
-- Category: Print
-- Medium: Etching on laid paper
+- Date: published 1742
+- Category: Other
+- Medium: 3 parts in 1 vol: ill: etched portaits of canaletto and visentini plus 38 etchings (all full-page, versos blank) by visentini
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-raising-of-lazarus-small-plate).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/antonio-visentini-author-urbis-venetiarum-prospectus-celebriores-ex-antonii-canal-tabulis-xxxviii-aere-expressi-ab-antonio-visentini-in-partes-tres-distributi-pars-prima-pars-tertia).
 
 ### Project Description
 
