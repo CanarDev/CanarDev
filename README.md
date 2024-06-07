@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Urbis Venetiarum Prospectus Celebriores, Ex Antonii Canal Tabulis XXXVIII. Aere Expressi ab Antonio Visentini in Partes Tres Distributi. Pars Prima [-Pars Tertia]
+## Mercury and Argus
 
 ### Artwork Details
 
-- Date: published 1742
-- Category: Other
-- Medium: 3 parts in 1 vol: ill: etched portaits of canaletto and visentini plus 38 etchings (all full-page, versos blank) by visentini
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with gray-brown wash on laid paper squared with brown ink
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/antonio-visentini-author-urbis-venetiarum-prospectus-celebriores-ex-antonii-canal-tabulis-xxxviii-aere-expressi-ab-antonio-visentini-in-partes-tres-distributi-pars-prima-pars-tertia).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-joachim-anthonisz-wtewael-mercury-and-argus).
 
 ### Project Description
 
