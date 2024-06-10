@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mercury and Argus
+## Studies for Judith and Holofernes, David and Goliath, and Other Compositions [recto]
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1582
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with gray-brown wash on laid paper squared with brown ink
+- Medium: Pen and brown ink with brown wash on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-joachim-anthonisz-wtewael-mercury-and-argus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/studies-for-judith-and-holofernes-david-and-goliath-and-other-compositions-recto).
 
 ### Project Description
 
