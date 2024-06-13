@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Studies for Judith and Holofernes, David and Goliath, and Other Compositions [recto]
+## Les Chanteurs de rue
 
 ### Artwork Details
 
-- Date: ca. 1582
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash on laid paper
+- Date: 1862
+- Category: Print
+- Medium: Wood engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/studies-for-judith-and-holofernes-david-and-goliath-and-other-compositions-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-maurand-after-honore-daumier-les-chanteurs-de-rue).
 
 ### Project Description
 
