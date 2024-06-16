@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les Chanteurs de rue
+## Le curieux
 
 ### Artwork Details
 
-- Date: 1862
+- Date: Unknown
 - Category: Print
-- Medium: Wood engraving
+- Medium: Etching and engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-maurand-after-honore-daumier-les-chanteurs-de-rue).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-maleuvre-after-pierre-antoine-baudouin-le-curieux).
 
 ### Project Description
 
