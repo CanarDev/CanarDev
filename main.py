@@ -67,7 +67,7 @@ def slugify(text):
     return text
 
 def duration(array):
-    return len(array) * 4500 // 24
+    return len(array) * 2250 // 24
 
 
 def previous_artwork_gif():
