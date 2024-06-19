@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le curieux
+## The Crawlers
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching and engraving
+- Date: ca. 1877
+- Category: Photography
+- Medium: Woodburytype
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-maleuvre-after-pierre-antoine-baudouin-le-curieux).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-thomson-the-crawlers).
 
 ### Project Description
 
