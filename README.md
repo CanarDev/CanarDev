@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Crawlers
+## "Baef Schol-becx" and "Spruyt Vroegh-bedorven"
 
 ### Artwork Details
 
-- Date: ca. 1877
-- Category: Photography
-- Medium: Woodburytype
+- Date: ca. 1564/1565
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-thomson-the-crawlers).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-and-lucas-van-doetechum-after-pieter-bruegel-the-elder-baef-schol-becx-and-spruyt-vroegh-bedorven).
 
 ### Project Description
 
