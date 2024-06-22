@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## "Baef Schol-becx" and "Spruyt Vroegh-bedorven"
+## Shallow bowl with Hercules overcoming Antaeus
 
 ### Artwork Details
 
-- Date: ca. 1564/1565
-- Category: Print
-- Medium: Etching
+- Date: 1520
+- Category: Design/Decorative Art
+- Medium: Tin-glazed earthenware (maiolica)
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-and-lucas-van-doetechum-after-pieter-bruegel-the-elder-baef-schol-becx-and-spruyt-vroegh-bedorven).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/workshop-of-maestro-giorgio-andreoli-of-gubbio-shallow-bowl-with-hercules-overcoming-antaeus).
 
 ### Project Description
 
