@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Shallow bowl with Hercules overcoming Antaeus
+## Two Ornamental Bands with Chained Leopards and Eagles
 
 ### Artwork Details
 
-- Date: 1520
-- Category: Design/Decorative Art
-- Medium: Tin-glazed earthenware (maiolica)
+- Date: probably 1648
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/workshop-of-maestro-giorgio-andreoli-of-gubbio-shallow-bowl-with-hercules-overcoming-antaeus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-two-ornamental-bands-with-chained-leopards-and-eagles).
 
 ### Project Description
 
