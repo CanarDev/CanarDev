@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Two Ornamental Bands with Chained Leopards and Eagles
+## Seated Female Figure for "San Francisco"
 
 ### Artwork Details
 
-- Date: probably 1648
-- Category: Print
-- Medium: Etching
+- Date: probably c. 1856
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-two-ornamental-bands-with-chained-leopards-and-eagles).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-seated-female-figure-for-san-francisco).
 
 ### Project Description
 
