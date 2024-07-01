@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Seated Female Figure for "San Francisco"
+## Forest Interior
 
 ### Artwork Details
 
-- Date: probably c. 1856
+- Date: ca. 1610
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite
+- Medium: Pen and brown ink and wash over graphite with white heightening on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-seated-female-figure-for-san-francisco).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/flemish-17th-century-forest-interior).
 
 ### Project Description
 
