@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Forest Interior
+## The Doll House
 
 ### Artwork Details
 
-- Date: ca. 1610
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink and wash over graphite with white heightening on laid paper
+- Date: Unknown
+- Category: Print
+- Medium: Etching on chine applique
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/flemish-17th-century-forest-interior).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-everett-millais-the-doll-house).
 
 ### Project Description
 
