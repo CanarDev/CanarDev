@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Doll House
+## Man and Woman
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Etching on chine applique
+- Medium: Photomechanical process
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-everett-millais-the-doll-house).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-man-and-woman).
 
 ### Project Description
 
