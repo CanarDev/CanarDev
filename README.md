@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Man and Woman
+## Loading a Ship
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: probably c. 1654/1655
 - Category: Print
-- Medium: Photomechanical process
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-man-and-woman).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-loading-a-ship).
 
 ### Project Description
 
