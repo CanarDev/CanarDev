@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Loading a Ship
+## The Rest on the Flight into Egypt
 
 ### Artwork Details
 
-- Date: probably c. 1654/1655
+- Date: Unknown
 - Category: Print
-- Medium: Etching
+- Medium: Etching (counterproof)
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-loading-a-ship).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-bourdon-the-rest-on-the-flight-into-egypt).
 
 ### Project Description
 
