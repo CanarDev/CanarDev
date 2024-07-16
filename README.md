@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Rest on the Flight into Egypt
+## View of the River Rhine
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Etching (counterproof)
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-bourdon-the-rest-on-the-flight-into-egypt).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-van-aken-after-herman-saftleven-view-of-the-river-rhine-1).
 
 ### Project Description
 
