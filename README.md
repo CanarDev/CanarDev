@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## View of the River Rhine
+## Miss Davidson Reid
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching on laid paper
+- Date: ca. 1800/1806
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-van-aken-after-herman-saftleven-view-of-the-river-rhine-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-sir-henry-raeburn-miss-davidson-reid).
 
 ### Project Description
 
