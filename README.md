@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Miss Davidson Reid
+## Woman Walking to the Right
 
 ### Artwork Details
 
-- Date: ca. 1800/1806
-- Category: Painting
-- Medium: Oil on canvas
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Black chalk with gray wash and white heightening on light brown paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-sir-henry-raeburn-miss-davidson-reid).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-baglione-woman-walking-to-the-right).
 
 ### Project Description
 
