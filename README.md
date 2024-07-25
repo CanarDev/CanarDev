@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Woman Walking to the Right
+## St. Thecla; St. Linus; Sts. Andochius and Thyrsus; St. Cleophas
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Black chalk with gray wash and white heightening on light brown paper
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-baglione-woman-walking-to-the-right).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-st-thecla-st-linus-sts-andochius-and-thyrsus-st-cleophas).
 
 ### Project Description
 
