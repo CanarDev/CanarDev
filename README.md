@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Two French Soldiers near a Notice Board
+## Hothocleana
 
 ### Artwork Details
 
-- Date: ca. 1914/1919
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Brush and black ink with brown wash on wove paper
+- Date: ca. 1850s
+- Category: Photography
+- Medium: Cyanotype
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-two-french-soldiers-near-a-notice-board).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/british-19th-century-hothocleana).
 
 ### Project Description
 
