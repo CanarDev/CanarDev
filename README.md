@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Hothocleana
+## Beggar Leaning on a Stick, Facing Left
 
 ### Artwork Details
 
-- Date: ca. 1850s
-- Category: Photography
-- Medium: Cyanotype
+- Date: ca. 1630
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/british-19th-century-hothocleana).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/beggar-leaning-on-a-stick-facing-left).
 
 ### Project Description
 
