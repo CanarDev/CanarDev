@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Beggar Leaning on a Stick, Facing Left
+## Les hirondelles de mer
 
 ### Artwork Details
 
-- Date: ca. 1630
+- Date: 1895
 - Category: Print
-- Medium: Etching
+- Medium: Lithograph in black on velin paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/beggar-leaning-on-a-stick-facing-left).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-les-hirondelles-de-mer).
 
 ### Project Description
 
