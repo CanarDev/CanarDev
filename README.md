@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les hirondelles de mer
+## Arcadian Landscape
 
 ### Artwork Details
 
-- Date: 1895
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph in black on velin paper
+- Medium: Woodcut on blue paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-les-hirondelles-de-mer).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hendrik-goltzius-arcadian-landscape).
 
 ### Project Description
 
