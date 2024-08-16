@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Mark with Two Bishops and Putti
+## Wolfgang Wilhelm
 
 ### Artwork Details
 
-- Date: ca. 1580
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash, heightened with white, over black chalk on light brown (formerly blue) laid paper
+- Date: Unknown
+- Category: Print
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacopo-palma-il-giovane-saint-mark-with-two-bishops-and-putti).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/balthasar-moncornet-wolfgang-wilhelm).
 
 ### Project Description
 
