@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Wolfgang Wilhelm
+## Fontenelle
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: in or after 1796
 - Category: Print
-- Medium: Engraving on laid paper
+- Medium: Engraving on laid paper [final state]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/balthasar-moncornet-wolfgang-wilhelm).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-gabriel-langlois-after-guillaume-voiriot-after-jean-jacques-forty-fontenelle-1).
 
 ### Project Description
 
