@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Fontenelle
+## Fiero monstruo! (Fierce Monster!)
 
 ### Artwork Details
 
-- Date: in or after 1796
+- Date: 1810/1820
 - Category: Print
-- Medium: Engraving on laid paper [final state]
+- Medium: Etching, drypoint and burin [trial proof printed posthumously calcografia in or after 1870]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-gabriel-langlois-after-guillaume-voiriot-after-jean-jacques-forty-fontenelle-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francisco-de-goya-fiero-monstruo-fierce-monster-1).
 
 ### Project Description
 
