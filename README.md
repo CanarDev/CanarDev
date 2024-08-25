@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Fiero monstruo! (Fierce Monster!)
+## Little Arthur
 
 ### Artwork Details
 
-- Date: 1810/1820
+- Date: ca. 1857/1858
 - Category: Print
-- Medium: Etching, drypoint and burin [trial proof printed posthumously calcografia in or after 1870]
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francisco-de-goya-fiero-monstruo-fierce-monster-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-abbott-mcneill-whistler-little-arthur).
 
 ### Project Description
 
