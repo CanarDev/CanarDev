@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Little Arthur
+## Portrait of a Gentleman
 
 ### Artwork Details
 
-- Date: ca. 1857/1858
+- Date: probably 18th century
 - Category: Print
-- Medium: Etching
+- Medium: Etching and engraving on papier colle
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-abbott-mcneill-whistler-little-arthur).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/probably-british-18th-century-portrait-of-a-gentleman).
 
 ### Project Description
 
