@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of a Gentleman
+## Saint Barbara
 
 ### Artwork Details
 
-- Date: probably 18th century
+- Date: 1460/1470
 - Category: Print
-- Medium: Etching and engraving on papier colle
+- Medium: Woodcut in brown, hand-colored in red lake, yellow, green, blue, ochre, and gold
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/probably-british-18th-century-portrait-of-a-gentleman).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-barbara).
 
 ### Project Description
 
