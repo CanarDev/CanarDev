@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Barbara
+## A Man Born Blind Receives Sight
 
 ### Artwork Details
 
-- Date: 1460/1470
+- Date: probably c. 1576/1580
 - Category: Print
-- Medium: Woodcut in brown, hand-colored in red lake, yellow, green, blue, ochre, and gold
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-barbara).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonard-gaultier-a-man-born-blind-receives-sight).
 
 ### Project Description
 
