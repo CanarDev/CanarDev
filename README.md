@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Man Born Blind Receives Sight
+## The Christ Child Trampling on Sin
 
 ### Artwork Details
 
-- Date: probably c. 1576/1580
+- Date: Unknown
 - Category: Print
-- Medium: Engraving
+- Medium: Etching and engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonard-gaultier-a-man-born-blind-receives-sight).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-bourdon-the-christ-child-trampling-on-sin).
 
 ### Project Description
 
