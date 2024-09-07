@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Christ Child Trampling on Sin
+## Two Women Chatting by the Sea, St. Thomas
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching and engraving
+- Date: 1856
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-bourdon-the-christ-child-trampling-on-sin).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/camille-pissarro-two-women-chatting-by-the-sea-st-thomas).
 
 ### Project Description
 
