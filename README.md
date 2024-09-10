@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Two Women Chatting by the Sea, St. Thomas
+## The Angel Carrying off Habakkuk by His Hair, Surrounded by an Elaborate Rococo Frame
 
 ### Artwork Details
 
-- Date: 1856
-- Category: Painting
-- Medium: Oil on canvas
+- Date: ca. 1750
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink with gray wash over graphite, heightened with white and incised throughout, on two joined sheets of blue laid paper, verso reddened for transfer
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/camille-pissarro-two-women-chatting-by-the-sea-st-thomas).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johann-wolfgang-baumgartner-the-angel-carrying-off-habakkuk-by-his-hair-surrounded-by-an-elaborate-rococo-frame).
 
 ### Project Description
 
