@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Angel Carrying off Habakkuk by His Hair, Surrounded by an Elaborate Rococo Frame
+## R. Strong
 
 ### Artwork Details
 
-- Date: ca. 1750
+- Date: 1810
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink with gray wash over graphite, heightened with white and incised throughout, on two joined sheets of blue laid paper, verso reddened for transfer
+- Medium: Graphite and black crayon on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johann-wolfgang-baumgartner-the-angel-carrying-off-habakkuk-by-his-hair-surrounded-by-an-elaborate-rococo-frame).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-rembrandt-peale-r-strong).
 
 ### Project Description
 
