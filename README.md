@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## R. Strong
+## Saint Anthony
 
 ### Artwork Details
 
-- Date: 1810
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite and black crayon on wove paper
+- Date: ca. 1521
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-rembrandt-peale-r-strong).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-anthony).
 
 ### Project Description
 
