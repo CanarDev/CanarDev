@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Anthony
+## Sailors Seated on a Bank
 
 ### Artwork Details
 
-- Date: ca. 1521
+- Date: Unknown
 - Category: Print
-- Medium: Engraving
+- Medium: Etching on laid paper [restrike]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-anthony).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-sailors-seated-on-a-bank).
 
 ### Project Description
 
