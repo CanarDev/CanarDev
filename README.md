@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Steep Path
+## Moat at Fort Marion, Florida
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching
+- Date: in or before 1874
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite with gray wash on tan paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/herman-van-swanevelt-the-steep-path).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-wells-champney-moat-at-fort-marion-florida).
 
 ### Project Description
 
