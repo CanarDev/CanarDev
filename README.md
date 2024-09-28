@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Moat at Fort Marion, Florida
+## La chaumière au poirier (Cottage with Pear Tree)
 
 ### Artwork Details
 
-- Date: in or before 1874
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite with gray wash on tan paper
+- Date: published 1849
+- Category: Print
+- Medium: Etching on chine collé
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-wells-champney-moat-at-fort-marion-florida).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eugene-blery-la-chaumiere-au-poirier-cottage-with-pear-tree).
 
 ### Project Description
 
