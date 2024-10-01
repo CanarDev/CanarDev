@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## La chaumière au poirier (Cottage with Pear Tree)
+## Pierre Payen
 
 ### Artwork Details
 
-- Date: published 1849
+- Date: 1659
 - Category: Print
-- Medium: Etching on chine collé
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eugene-blery-la-chaumiere-au-poirier-cottage-with-pear-tree).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-pierre-payen).
 
 ### Project Description
 
