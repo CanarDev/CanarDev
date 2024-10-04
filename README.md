@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Pierre Payen
+## Peppina
 
 ### Artwork Details
 
-- Date: 1659
+- Date: 1919
 - Category: Print
-- Medium: Engraving
+- Medium: Etching and drypoint in black on cream laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-pierre-payen).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albert-besnard-peppina).
 
 ### Project Description
 
