@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Jean Dolent
+## Successeur de Charlemagne
 
 ### Artwork Details
 
-- Date: 1898
+- Date: 1871
 - Category: Print
-- Medium: Lithograph
+- Medium: Gillotype on newsprint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eugene-carriere-jean-dolent).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-successeur-de-charlemagne).
 
 ### Project Description
 
