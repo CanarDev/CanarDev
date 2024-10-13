@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Successeur de Charlemagne
+## La chaumière au puits (Cottage with Well)
 
 ### Artwork Details
 
-- Date: 1871
+- Date: published 1849
 - Category: Print
-- Medium: Gillotype on newsprint
+- Medium: Etching on chine collé
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-successeur-de-charlemagne).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eugene-blery-la-chaumiere-au-puits-cottage-with-well).
 
 ### Project Description
 
