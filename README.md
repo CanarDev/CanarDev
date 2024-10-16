@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## La chaumière au puits (Cottage with Well)
+## The Card Game (Der kleine l'Hombre Tisch)
 
 ### Artwork Details
 
-- Date: published 1849
+- Date: 1758
 - Category: Print
-- Medium: Etching on chine collé
+- Medium: Etching and aquatint with engraving in brown on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eugene-blery-la-chaumiere-au-puits-cottage-with-well).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/daniel-nikolaus-chodowiecki-the-card-game-der-kleine-lhombre-tisch).
 
 ### Project Description
 
