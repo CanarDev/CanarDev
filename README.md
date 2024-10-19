@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Card Game (Der kleine l'Hombre Tisch)
+## Abbess
 
 ### Artwork Details
 
-- Date: 1758
+- Date: Unknown
 - Category: Print
-- Medium: Etching and aquatint with engraving in brown on laid paper
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/daniel-nikolaus-chodowiecki-the-card-game-der-kleine-lhombre-tisch).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-holbein-the-younger-abbess).
 
 ### Project Description
 
