@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Abbess
+## The Tribute Money
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1523
 - Category: Print
 - Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-holbein-the-younger-abbess).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lucas-van-leyden-the-tribute-money).
 
 ### Project Description
 
