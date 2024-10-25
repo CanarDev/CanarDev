@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Tribute Money
+## Parte di Foro di Nerva
 
 ### Artwork Details
 
-- Date: ca. 1523
+- Date: 1748
 - Category: Print
-- Medium: Woodcut
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lucas-van-leyden-the-tribute-money).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-battista-piranesi-parte-di-foro-di-nerva).
 
 ### Project Description
 
