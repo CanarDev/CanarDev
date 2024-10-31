@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Title Page for "Jeu des Mythologie"
+## River Stour
 
 ### Artwork Details
 
-- Date: 1644
+- Date: in or after 1830
 - Category: Print
-- Medium: Etching
+- Medium: Mezzotint [progress proof]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-title-page-for-jeu-des-mythologie).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/david-lucas-after-john-constable-river-stour).
 
 ### Project Description
 
