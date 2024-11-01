@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## River Stour
+## Mercury Putting Argus to Sleep
 
 ### Artwork Details
 
-- Date: in or after 1830
+- Date: Unknown
 - Category: Print
-- Medium: Mezzotint [progress proof]
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/david-lucas-after-john-constable-river-stour).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/workshop-of-hendrik-goltzius-after-hendrik-goltzius-mercury-putting-argus-to-sleep).
 
 ### Project Description
 
