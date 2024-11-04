@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mercury Putting Argus to Sleep
+## Study of a Nude Figure (Etude de figure nue)
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Engraving on laid paper
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/workshop-of-hendrik-goltzius-after-hendrik-goltzius-mercury-putting-argus-to-sleep).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-study-of-a-nude-figure-etude-de-figure-nue).
 
 ### Project Description
 
