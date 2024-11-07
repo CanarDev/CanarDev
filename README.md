@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Study of a Nude Figure (Etude de figure nue)
+## Ornament Panel: Satyr Holding a Violin
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1505/1515
 - Category: Print
-- Medium: Etching
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-study-of-a-nude-figure-etude-de-figure-nue).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-pietro-birago-and-zoan-andrea-ornament-panel-satyr-holding-a-violin).
 
 ### Project Description
 
