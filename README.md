@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Ornament Panel: Satyr Holding a Violin
+## Saint Sebastian
 
 ### Artwork Details
 
-- Date: ca. 1505/1515
+- Date: 1514
 - Category: Print
-- Medium: Engraving
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-pietro-birago-and-zoan-andrea-ornament-panel-satyr-holding-a-violin).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-baldung-saint-sebastian-1).
 
 ### Project Description
 
