@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Sebastian
+## Walking in the Vineyard 
 
 ### Artwork Details
 
-- Date: 1514
-- Category: Print
-- Medium: Woodcut
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 1897-1899
+- Category: Painting
+- Medium: Oil on canvas
+- Image rights: Image provided by the Los Angeles County Museum of Art
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-baldung-saint-sebastian-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-vuillard-walking-in-the-vineyard).
 
 ### Project Description
 
