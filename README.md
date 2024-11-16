@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Walking in the Vineyard 
+## Sorrento
 
 ### Artwork Details
 
-- Date: ca. 1897-1899
-- Category: Painting
-- Medium: Oil on canvas
-- Image rights: Image provided by the Los Angeles County Museum of Art
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Black and white chalk on tan laid paper
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-vuillard-walking-in-the-vineyard).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francois-edouard-bertin-sorrento).
 
 ### Project Description
 
