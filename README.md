@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Charles Henri, Comte d'Estaing
+## John Frederic the Magnanimous, in Electoral Robes
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Color aquatint
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/p-frieselhem-charles-henri-comte-destaing).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-lucas-cranach-the-younger-john-frederic-the-magnanimous-in-electoral-robes).
 
 ### Project Description
 
