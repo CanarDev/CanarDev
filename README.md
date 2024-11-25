@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## John Frederic the Magnanimous, in Electoral Robes
+## Sitta europea
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Woodcut
+- Medium: Hand-colored etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-lucas-cranach-the-younger-john-frederic-the-magnanimous-in-electoral-robes).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sitta-europea).
 
 ### Project Description
 
