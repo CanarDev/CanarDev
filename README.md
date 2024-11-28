@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Sitta europea
+## Frédéric Auguste III, roi de Pologne
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Hand-colored etching on laid paper
+- Medium: Engraving on laid paper [proof]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sitta-europea).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-drevet-after-francois-de-troy-frederic-auguste-iii-roi-de-pologne).
 
 ### Project Description
 
