@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Frédéric Auguste III, roi de Pologne
+## A Painter and Visitors in a Studio
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Engraving on laid paper [proof]
+- Date: ca. 1835
+- Category: Painting
+- Medium: Oil on paper on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/pierre-drevet-after-francois-de-troy-frederic-auguste-iii-roi-de-pologne).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/unknown-19th-century-a-painter-and-visitors-in-a-studio).
 
 ### Project Description
 
