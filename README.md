@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Painter and Visitors in a Studio
+## Cardinal Jules Mazarin
 
 ### Artwork Details
 
-- Date: ca. 1835
-- Category: Painting
-- Medium: Oil on paper on canvas
+- Date: 1661
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/unknown-19th-century-a-painter-and-visitors-in-a-studio).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/peter-ludwig-van-schuppen-after-pierre-mignard-i-cardinal-jules-mazarin).
 
 ### Project Description
 
