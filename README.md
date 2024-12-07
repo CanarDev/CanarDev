@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Cardinal Jules Mazarin
+## The Parents Bestow Gifts
 
 ### Artwork Details
 
-- Date: 1661
+- Date: Unknown
 - Category: Print
-- Medium: Engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/peter-ludwig-van-schuppen-after-pierre-mignard-i-cardinal-jules-mazarin).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-the-parents-bestow-gifts).
 
 ### Project Description
 
