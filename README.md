@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Parents Bestow Gifts
+## The Mocking of Christ
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1513
 - Category: Print
-- Medium: Etching
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-the-parents-bestow-gifts).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacob-cornelisz-van-oostsanen-the-mocking-of-christ).
 
 ### Project Description
 
