@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Mocking of Christ
+## Dying for Love, or Captain Careless shot flying by a Girl of Fifteen, who Unexpectedly Popped her Head out of a Casement
 
 ### Artwork Details
 
-- Date: 1513
+- Date: 1810
 - Category: Print
-- Medium: Woodcut
+- Medium: Hand-colored etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacob-cornelisz-van-oostsanen-the-mocking-of-christ).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-dying-for-love-or-captain-careless-shot-flying-by-a-girl-of-fifteen-who-unexpectedly-popped-her-head-out-of-a-casement).
 
 ### Project Description
 
