@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Dying for Love, or Captain Careless shot flying by a Girl of Fifteen, who Unexpectedly Popped her Head out of a Casement
+## Dance of Death II
 
 ### Artwork Details
 
-- Date: 1810
+- Date: 1562
 - Category: Print
-- Medium: Hand-colored etching
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-dying-for-love-or-captain-careless-shot-flying-by-a-girl-of-fifteen-who-unexpectedly-popped-her-head-out-of-a-casement).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-ac-dance-of-death-ii).
 
 ### Project Description
 
