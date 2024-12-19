@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Dance of Death II
+## The Shade
 
 ### Artwork Details
 
-- Date: 1562
-- Category: Print
-- Medium: Engraving
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: first modeled ca. 1880, enlarged ca. 1901, this cast 1969
+- Category: Sculpture
+- Medium: Bronze
+- Image rights: Image provided by the Los Angeles County Museum of Art
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-ac-dance-of-death-ii).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-the-shade).
 
 ### Project Description
 
