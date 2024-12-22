@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Shade
+## Hadleigh Castle (Large Plate)
 
 ### Artwork Details
 
-- Date: first modeled ca. 1880, enlarged ca. 1901, this cast 1969
-- Category: Sculpture
-- Medium: Bronze
-- Image rights: Image provided by the Los Angeles County Museum of Art
+- Date: 1830 and 1832
+- Category: Print
+- Medium: Mezzotint [progress proof]
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-the-shade).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/david-lucas-after-john-constable-hadleigh-castle-large-plate-1).
 
 ### Project Description
 
