@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Hadleigh Castle (Large Plate)
+## Battle of the Sea Gods [left half]
 
 ### Artwork Details
 
-- Date: 1830 and 1832
+- Date: ca. 1485/1488
 - Category: Print
-- Medium: Mezzotint [progress proof]
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/david-lucas-after-john-constable-hadleigh-castle-large-plate-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/andrea-mantegna-battle-of-the-sea-gods-left-half).
 
 ### Project Description
 
