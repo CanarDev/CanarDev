@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Barthe
+## Shipping in the Port of London [recto]
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Lithograph
+- Date: ca. 1884
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite and black chalk on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/probably-french-19th-century-barthe).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/felix-hilaire-buhot-shipping-in-the-port-of-london-recto).
 
 ### Project Description
 
