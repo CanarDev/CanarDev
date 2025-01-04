@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Shipping in the Port of London [recto]
+## Le Retour de l'age d'or
 
 ### Artwork Details
 
-- Date: ca. 1884
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite and black chalk on wove paper
+- Date: 1856
+- Category: Print
+- Medium: Lithograph on newsprint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/felix-hilaire-buhot-shipping-in-the-port-of-london-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-le-retour-de-lage-dor).
 
 ### Project Description
 
