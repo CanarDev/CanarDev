@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Retour de l'age d'or
+## Portrait of a Man Standing
 
 ### Artwork Details
 
-- Date: 1856
-- Category: Print
-- Medium: Lithograph on newsprint
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Black and red chalk on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-le-retour-de-lage-dor).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthony-van-dyck-portrait-of-a-man-standing).
 
 ### Project Description
 
