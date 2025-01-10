@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of a Man Standing
+## Cartouches Modernes orné avec des [diferentes Figures] (Plate VI-1 from the set)
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Black and red chalk on laid paper
+- Category: Print
+- Medium: Counterproof of an etching with drawing in pen and black ink and gray wash, on laid paper incised with grounding in red chalk for transfer on verso
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthony-van-dyck-portrait-of-a-man-standing).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johann-esaias-nilson-cartouches-modernes-orne-avec-des-diferentes-figures-plate-vi-1-from-the-set).
 
 ### Project Description
 
