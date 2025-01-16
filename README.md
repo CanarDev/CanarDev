@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Seated Young Woman Wearing a Fashionable Hat
+## Siesta of a Harvester (Sieste d'un faucheur)
 
 ### Artwork Details
 
-- Date: 1800/1803
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Black chalk on very light green laid paper
+- Date: Unknown
+- Category: Print
+- Medium: Drypoint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/carl-wilhelm-kolbe-a-seated-young-woman-wearing-a-fashionable-hat).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-siesta-of-a-harvester-sieste-dun-faucheur).
 
 ### Project Description
 
