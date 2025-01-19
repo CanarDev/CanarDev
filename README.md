@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Siesta of a Harvester (Sieste d'un faucheur)
+## Bagpiper
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1514
 - Category: Print
-- Medium: Drypoint
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-siesta-of-a-harvester-sieste-dun-faucheur).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albrecht-durer-bagpiper).
 
 ### Project Description
 
