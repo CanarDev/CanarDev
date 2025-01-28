@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Rake's Progress: pl.6
+## Peasant with Sack
 
 ### Artwork Details
 
-- Date: 1735
+- Date: 1621
 - Category: Print
-- Medium: Etching and engraving
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-hogarth-a-rakes-progress-pl-dot-6).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-eckman-after-jacques-callot-peasant-with-sack).
 
 ### Project Description
 
