@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Peasant with Sack
+## Christ Washing the Disciples' Feet
 
 ### Artwork Details
 
-- Date: 1621
-- Category: Print
-- Medium: Woodcut
+- Date: ca. 1520/1525
+- Category: Painting
+- Medium: Oil on panel
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-eckman-after-jacques-callot-peasant-with-sack).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/garofalo-christ-washing-the-disciples-feet).
 
 ### Project Description
 
