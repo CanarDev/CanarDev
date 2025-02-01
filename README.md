@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ Washing the Disciples' Feet
+## Saint Sebastian
 
 ### Artwork Details
 
-- Date: ca. 1520/1525
-- Category: Painting
-- Medium: Oil on panel
+- Date: Unknown
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/garofalo-christ-washing-the-disciples-feet).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/simone-cantarini-saint-sebastian).
 
 ### Project Description
 
