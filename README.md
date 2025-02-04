@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Sebastian
+## Le Talion; La Cage; Ceux qui restent; Fortune
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1898
 - Category: Print
-- Medium: Etching
+- Medium: Lithograph in black on wove paper [proof before letters]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/simone-cantarini-saint-sebastian).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-anquetin-le-talion-la-cage-ceux-qui-restent-fortune).
 
 ### Project Description
 
