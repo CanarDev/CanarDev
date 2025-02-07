@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Talion; La Cage; Ceux qui restent; Fortune
+## Planks Attached to Four Trees
 
 ### Artwork Details
 
-- Date: 1898
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph in black on wove paper [proof before letters]
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-anquetin-le-talion-la-cage-ceux-qui-restent-fortune).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthonie-waterloo-planks-attached-to-four-trees).
 
 ### Project Description
 
