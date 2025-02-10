@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Planks Attached to Four Trees
+## A Money Scrivener
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1801
 - Category: Print
-- Medium: Etching
+- Medium: Hand-colored etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthonie-waterloo-planks-attached-to-four-trees).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-a-money-scrivener).
 
 ### Project Description
 
