@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Money Scrivener
+## Victor Hugo, De Trois Quarts
 
 ### Artwork Details
 
-- Date: 1801
+- Date: 1884
 - Category: Print
-- Medium: Hand-colored etching
+- Medium: Drypoint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-a-money-scrivener).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-victor-hugo-de-trois-quarts).
 
 ### Project Description
 
