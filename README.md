@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Victor Hugo, De Trois Quarts
+## Extent of Motion Shown in Two Figures
 
 ### Artwork Details
 
-- Date: 1884
+- Date: published 1829
 - Category: Print
-- Medium: Drypoint
+- Medium: Lithograph [proof before letters]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-victor-hugo-de-trois-quarts).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/george-scharf-after-john-flaxman-extent-of-motion-shown-in-two-figures).
 
 ### Project Description
 
