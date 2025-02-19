@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Extent of Motion Shown in Two Figures
+## The Holy Family with Two Saints
 
 ### Artwork Details
 
-- Date: published 1829
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph [proof before letters]
+- Medium: Chiaroscuro woodcut printed from two blocks: black line block and yellow-brown tone block
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/george-scharf-after-john-flaxman-extent-of-motion-shown-in-two-figures).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/antonio-da-trento-after-parmigianino-the-holy-family-with-two-saints-1).
 
 ### Project Description
 
