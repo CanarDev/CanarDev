@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Holy Family with Two Saints
+## Madonna and Child with Saint Martina and Saint Agnes
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Chiaroscuro woodcut printed from two blocks: black line block and yellow-brown tone block
+- Date: 1597/1599
+- Category: Painting
+- Medium: Oil on canvas, wooden strip added at bottom
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/antonio-da-trento-after-parmigianino-the-holy-family-with-two-saints-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/el-greco-madonna-and-child-with-saint-martina-and-saint-agnes).
 
 ### Project Description
 
