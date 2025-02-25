@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Madonna and Child with Saint Martina and Saint Agnes
+## A un peuple libre
 
 ### Artwork Details
 
-- Date: 1597/1599
-- Category: Painting
-- Medium: Oil on canvas, wooden strip added at bottom
+- Date: Unknown
+- Category: Print
+- Medium: Etching and engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/el-greco-madonna-and-child-with-saint-martina-and-saint-agnes).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-dambrun-after-jean-michel-moreau-a-un-peuple-libre).
 
 ### Project Description
 
