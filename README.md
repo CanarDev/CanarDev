@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A un peuple libre
+## Small Town (Town Gate at Gorkum?)
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Etching and engraving on laid paper
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-dambrun-after-jean-michel-moreau-a-un-peuple-libre).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-hackaert-small-town-town-gate-at-gorkum).
 
 ### Project Description
 
