@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Small Town (Town Gate at Gorkum?)
+## Coat of Arms with a Cock
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1543
 - Category: Print
-- Medium: Etching
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-hackaert-small-town-town-gate-at-gorkum).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-coat-of-arms-with-a-cock).
 
 ### Project Description
 
