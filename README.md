@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Coat of Arms with a Cock
+## Pedimented Windows
 
 ### Artwork Details
 
-- Date: 1543
+- Date: ca. 1594
 - Category: Print
-- Medium: Engraving
+- Medium: Etching with engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-coat-of-arms-with-a-cock).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wendel-dietterlin-author-and-anonymous-etcher-pedimented-windows).
 
 ### Project Description
 
