@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Pedimented Windows
+## The Door, St. Bartholomew's
 
 ### Artwork Details
 
-- Date: ca. 1594
+- Date: 1909
 - Category: Print
-- Medium: Etching with engraving on laid paper
+- Medium: Color etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wendel-dietterlin-author-and-anonymous-etcher-pedimented-windows).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-frederick-william-mielatz-the-door-st-bartholomews).
 
 ### Project Description
 
