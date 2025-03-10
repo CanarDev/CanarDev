@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Door, St. Bartholomew's
+## Section of the Crossing and the West End of a Cathedral for Berlin
 
 ### Artwork Details
 
-- Date: 1909
-- Category: Print
-- Medium: Color etching
+- Date: 1827
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite and watercolor on wove paper, laid down on presentation mount
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-frederick-william-mielatz-the-door-st-bartholomews).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/karl-friedrich-schinkel-section-of-the-crossing-and-the-west-end-of-a-cathedral-for-berlin).
 
 ### Project Description
 
