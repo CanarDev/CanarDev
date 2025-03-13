@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Section of the Crossing and the West End of a Cathedral for Berlin
+## In Greece
 
 ### Artwork Details
 
-- Date: 1827
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite and watercolor on wove paper, laid down on presentation mount
+- Date: 1897
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/karl-friedrich-schinkel-section-of-the-crossing-and-the-west-end-of-a-cathedral-for-berlin).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-in-greece).
 
 ### Project Description
 
