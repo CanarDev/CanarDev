@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## In Greece
+## The Old Musician
 
 ### Artwork Details
 
-- Date: 1897
-- Category: Print
-- Medium: Lithograph
+- Date: 1862
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-in-greece).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-the-old-musician).
 
 ### Project Description
 
