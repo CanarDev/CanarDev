@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Old Musician
+## The Manager's Window, Gaiety Theatre
 
 ### Artwork Details
 
-- Date: 1862
-- Category: Painting
-- Medium: Oil on canvas
+- Date: 1896
+- Category: Print
+- Medium: Lithograph in black on cream japanese paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-the-old-musician).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-managers-window-gaiety-theatre).
 
 ### Project Description
 
