@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Manager's Window, Gaiety Theatre
+## The Fair at Impruneta
 
 ### Artwork Details
 
-- Date: 1896
-- Category: Print
-- Medium: Lithograph in black on cream japanese paper
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown wash over black chalk, squared in red chalk
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-managers-window-gaiety-theatre).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/remigio-cantagallina-the-fair-at-impruneta).
 
 ### Project Description
 
