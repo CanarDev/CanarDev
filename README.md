@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Fair at Impruneta
+## Head of Souliote (Tete de Souliote)
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash over black chalk, squared in red chalk
+- Category: Print
+- Medium: Etching and drypoint?
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/remigio-cantagallina-the-fair-at-impruneta).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-head-of-souliote-tete-de-souliote).
 
 ### Project Description
 
