@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Head of Souliote (Tete de Souliote)
+## Hieronymus van Beverningk
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Etching and drypoint?
+- Medium: Mezzotint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-head-of-souliote-tete-de-souliote).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/abraham-blooteling-hieronymus-van-beverningk).
 
 ### Project Description
 
