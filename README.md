@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Et le diable qui les seduisait, fut jete dans l'etang de feu et de soufre, ou es la b ete et le faux prophete (And the devil thatdeceived them was cast into the lake of fire and  brimstone, where the beast and the false prophet are)
+## Statue of a Vizier, Usurped by Pa-di-iset
 
 ### Artwork Details
 
-- Date: 1899
-- Category: Print
-- Medium: Lithograph
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 1780-1700 B.C.
+- Category: Sculpture
+- Medium: Graywacke
+- Image rights: Image Provided by The Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/odilon-redon-et-le-diable-qui-les-seduisait-fut-jete-dans-letang-de-feu-et-de-soufre-ou-es-la-b-ete-et-le-faux-prophete-and-the-devil-thatdeceived-them-was-cast-into-the-lake-of-fire-and-brimstone-where-the-beast-and-the-false-prophet-are).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/statue-of-a-vizier-usurped-by-pa-di-iset).
 
 ### Project Description
 
