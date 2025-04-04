@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Statue of a Vizier, Usurped by Pa-di-iset
+## Hieronymus van Beverningk
 
 ### Artwork Details
 
-- Date: ca. 1780-1700 B.C.
-- Category: Sculpture
-- Medium: Graywacke
-- Image rights: Image Provided by The Walters Art Museum
+- Date: Unknown
+- Category: Print
+- Medium: Mezzotint
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/statue-of-a-vizier-usurped-by-pa-di-iset).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/abraham-blooteling-hieronymus-van-beverningk).
 
 ### Project Description
 
