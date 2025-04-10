@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Hieronymus van Beverningk
+## Seated Woman with Peasant Boy Holding a Basket
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: published 1735
 - Category: Print
-- Medium: Mezzotint
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/abraham-blooteling-hieronymus-van-beverningk).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francois-boucher-after-abraham-bloemaert-seated-woman-with-peasant-boy-holding-a-basket).
 
 ### Project Description
 
