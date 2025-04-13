@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Seated Woman with Peasant Boy Holding a Basket
+## The Watermill
 
 ### Artwork Details
 
-- Date: published 1735
+- Date: probably c. 1633/1635
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francois-boucher-after-abraham-bloemaert-seated-woman-with-peasant-boy-holding-a-basket).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-or-follower-of-jacques-callot-the-watermill).
 
 ### Project Description
 
