@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Watermill
+## Program Design for the Théâtre Libre [recto]
 
 ### Artwork Details
 
-- Date: probably c. 1633/1635
-- Category: Print
-- Medium: Etching
+- Date: ca. 1890
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Watercolor over graphite on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-or-follower-of-jacques-callot-the-watermill).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-vuillard-program-design-for-the-theatre-libre-recto).
 
 ### Project Description
 
