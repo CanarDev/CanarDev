@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Program Design for the Théâtre Libre [recto]
+## Discovery of the Criminal Soldiers
 
 ### Artwork Details
 
-- Date: ca. 1890
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Watercolor over graphite on wove paper
+- Date: ca. 1633
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-vuillard-program-design-for-the-theatre-libre-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-discovery-of-the-criminal-soldiers).
 
 ### Project Description
 
