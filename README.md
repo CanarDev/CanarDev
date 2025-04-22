@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Discovery of the Criminal Soldiers
+## Pierre Maugis
 
 ### Artwork Details
 
-- Date: ca. 1633
+- Date: Unknown
 - Category: Print
-- Medium: Etching
+- Medium: Engraving and etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-discovery-of-the-criminal-soldiers).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-morin-after-philippe-de-champaigne-pierre-maugis).
 
 ### Project Description
 
