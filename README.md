@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Pierre Maugis
+## The Lion
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1754
 - Category: Print
-- Medium: Engraving and etching
+- Medium: Chiaroscuro woodcut on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-morin-after-philippe-de-champaigne-pierre-maugis).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-baptist-jackson-the-lion).
 
 ### Project Description
 
