@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Lion
+## Portrait of the Emperor Marcus Aurelius
 
 ### Artwork Details
 
-- Date: 1754
-- Category: Print
-- Medium: Chiaroscuro woodcut on laid paper
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 161-180
+- Category: Sculpture
+- Medium: Marble
+- Image rights: Image Provided by The Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-baptist-jackson-the-lion).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/portrait-of-the-emperor-marcus-aurelius).
 
 ### Project Description
 
