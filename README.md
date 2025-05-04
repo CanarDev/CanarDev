@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of the Emperor Marcus Aurelius
+## Le Repas du lion
 
 ### Artwork Details
 
-- Date: 161-180
-- Category: Sculpture
-- Medium: Marble
-- Image rights: Image Provided by The Walters Art Museum
+- Date: 1897
+- Category: Print
+- Medium: Collotype in red on wove paper
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/portrait-of-the-emperor-marcus-aurelius).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-auguste-rodin-le-repas-du-lion-1).
 
 ### Project Description
 
