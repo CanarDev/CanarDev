@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Repas du lion
+## The Triumph of Love 
 
 ### Artwork Details
 
-- Date: 1897
-- Category: Print
-- Medium: Collotype in red on wove paper
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 1480
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Ink and paint on parchment
+- Image rights: Image Provided by The Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-auguste-rodin-le-repas-du-lion-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bartolomeo-sanvito-the-triumph-of-love).
 
 ### Project Description
 
