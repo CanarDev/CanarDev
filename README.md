@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Triumph of Love 
+## Quiet Canal
 
 ### Artwork Details
 
-- Date: ca. 1480
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Ink and paint on parchment
-- Image rights: Image Provided by The Walters Art Museum
+- Date: 1880
+- Category: Print
+- Medium: Etching and drypoint
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bartolomeo-sanvito-the-triumph-of-love).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/quiet-canal-1).
 
 ### Project Description
 
