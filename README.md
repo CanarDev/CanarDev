@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Quiet Canal
+## Les Bouquets, ou la Fete de la Grand'Maman
 
 ### Artwork Details
 
-- Date: 1880
+- Date: 1788
 - Category: Print
-- Medium: Etching and drypoint
+- Medium: Color aquatint and etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/quiet-canal-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/philibert-louis-debucourt-les-bouquets-ou-la-fete-de-la-grandmaman).
 
 ### Project Description
 
