@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les Bouquets, ou la Fete de la Grand'Maman
+## Meleagro et Tideo Argonotes condotti da Cupido
 
 ### Artwork Details
 
-- Date: 1788
+- Date: Unknown
 - Category: Print
-- Medium: Color aquatint and etching
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/philibert-louis-debucourt-les-bouquets-ou-la-fete-de-la-grandmaman).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/balthasar-moncornet-after-remigio-cantagallina-meleagro-et-tideo-argonotes-condotti-da-cupido).
 
 ### Project Description
 
