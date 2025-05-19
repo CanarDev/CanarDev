@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Meleagro et Tideo Argonotes condotti da Cupido
+## Farms
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: in or before 1676
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Etching retouched with engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/balthasar-moncornet-after-remigio-cantagallina-meleagro-et-tideo-argonotes-condotti-da-cupido).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-van-doetechum-the-elder-and-lucas-van-doetechum-after-master-of-the-small-landscapes-farms-2).
 
 ### Project Description
 
