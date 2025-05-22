@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Farms
+## Animal Locomotion, Plate 523
 
 ### Artwork Details
 
-- Date: in or before 1676
-- Category: Print
-- Medium: Etching retouched with engraving
+- Date: 1887
+- Category: Photography
+- Medium: Collotype
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-van-doetechum-the-elder-and-lucas-van-doetechum-after-master-of-the-small-landscapes-farms-2).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eadweard-muybridge-animal-locomotion-plate-523).
 
 ### Project Description
 
