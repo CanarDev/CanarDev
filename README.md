@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Possibly William Sheldon
+## Ain iunger Khnacht von Znaym ...
 
 ### Artwork Details
 
-- Date: ca. 1831
-- Category: Painting
-- Medium: Oil on wood
+- Date: ca. 1503
+- Category: Print
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/asahel-powers-possibly-william-sheldon).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-miracles-of-mariazell-ain-iunger-khnacht-von-znaym-dot-dot-dot).
 
 ### Project Description
 
