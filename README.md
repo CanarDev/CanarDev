@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Ain iunger Khnacht von Znaym ...
+## Large Spaniard (Le grand Espagnol)
 
 ### Artwork Details
 
-- Date: ca. 1503
+- Date: Unknown
 - Category: Print
-- Medium: Woodcut
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-miracles-of-mariazell-ain-iunger-khnacht-von-znaym-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-large-spaniard-le-grand-espagnol).
 
 ### Project Description
 
