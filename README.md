@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Large Spaniard (Le grand Espagnol)
+## Christ and the Woman Taken in Adultery
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching
+- Date: 16th century
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown and gray wash on laidpaper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-large-spaniard-le-grand-espagnol).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/netherlandish-16th-century-christ-and-the-woman-taken-in-adultery).
 
 ### Project Description
 
