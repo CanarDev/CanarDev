@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ and the Woman Taken in Adultery
+## Aperçois-tu un lieu civilisé...
 
 ### Artwork Details
 
-- Date: 16th century
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown and gray wash on laidpaper
+- Date: 1849
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/netherlandish-16th-century-christ-and-the-woman-taken-in-adultery).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-apercois-tu-un-lieu-civilise-dot-dot-dot).
 
 ### Project Description
 
