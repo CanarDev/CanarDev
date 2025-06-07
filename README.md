@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Aperçois-tu un lieu civilisé...
+## Horatius Cocles
 
 ### Artwork Details
 
-- Date: 1849
+- Date: late 18th or early 19th century
 - Category: Print
-- Medium: Lithograph
+- Medium: Niello print
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-apercois-tu-un-lieu-civilise-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/italian-18th-or-19th-century-horatius-cocles).
 
 ### Project Description
 
