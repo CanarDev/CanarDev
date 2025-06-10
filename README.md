@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Horatius Cocles
+## Roman Sacrifice
 
 ### Artwork Details
 
-- Date: late 18th or early 19th century
+- Date: 1780
 - Category: Print
-- Medium: Niello print
+- Medium: Chiaroscuro aquatint in dark and light brown
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/italian-18th-or-19th-century-horatius-cocles).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/katharina-prestel-after-abraham-bloemaert-roman-sacrifice).
 
 ### Project Description
 
