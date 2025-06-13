@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Roman Sacrifice
+## Bend in the River (Un coin de riviere)
 
 ### Artwork Details
 
-- Date: 1780
+- Date: Unknown
 - Category: Print
-- Medium: Chiaroscuro aquatint in dark and light brown
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/katharina-prestel-after-abraham-bloemaert-roman-sacrifice).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-bend-in-the-river-un-coin-de-riviere-1).
 
 ### Project Description
 
