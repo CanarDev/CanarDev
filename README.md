@@ -12,7 +12,7 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Bend in the River (Un coin de riviere)
+## The Sentry Box on the Wall
 
 ### Artwork Details
 
@@ -21,7 +21,7 @@ ___
 - Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-bend-in-the-river-un-coin-de-riviere-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthonie-waterloo-the-sentry-box-on-the-wall).
 
 ### Project Description
 
