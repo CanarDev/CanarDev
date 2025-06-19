@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Sentry Box on the Wall
+## A travers les ateliers
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1862
 - Category: Print
-- Medium: Etching
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anthonie-waterloo-the-sentry-box-on-the-wall).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-a-travers-les-ateliers).
 
 ### Project Description
 
