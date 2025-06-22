@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A travers les ateliers
+## Village with Pond
 
 ### Artwork Details
 
-- Date: 1862
+- Date: ca. 1782
 - Category: Print
-- Medium: Lithograph
+- Medium: Transfer technique (aquatint?) and roulette with burnished highlights
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-a-travers-les-ateliers).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/cornelis-ploos-van-amstel-and-cornelis-brouwer-after-allart-van-everdingen-village-with-pond-9).
 
 ### Project Description
 
