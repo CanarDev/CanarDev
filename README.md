@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Village with Pond
+## Gentleman with Cane
 
 ### Artwork Details
 
-- Date: ca. 1782
+- Date: ca. 1617
 - Category: Print
-- Medium: Transfer technique (aquatint?) and roulette with burnished highlights
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/cornelis-ploos-van-amstel-and-cornelis-brouwer-after-allart-van-everdingen-village-with-pond-9).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-gentleman-with-cane).
 
 ### Project Description
 
