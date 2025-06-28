@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Gentleman with Cane
+## Hampton Court (Second View)
 
 ### Artwork Details
 
-- Date: ca. 1617
-- Category: Print
-- Medium: Etching
+- Date: 1862
+- Category: Photography
+- Medium: Albumen print
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-gentleman-with-cane).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/victor-albert-prout-hampton-court-second-view).
 
 ### Project Description
 
