@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Hampton Court (Second View)
+## The Dead Toreador
 
 ### Artwork Details
 
-- Date: 1862
-- Category: Photography
-- Medium: Albumen print
+- Date: 1864
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/victor-albert-prout-hampton-court-second-view).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-the-dead-toreador).
 
 ### Project Description
 
