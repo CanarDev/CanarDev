@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Dead Toreador
+## May Ball
 
 ### Artwork Details
 
-- Date: 1864
-- Category: Painting
-- Medium: Oil on canvas
+- Date: 1763
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink with brown and gray wash, watercolor, and gouache, heightened with white gouache on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edouard-manet-the-dead-toreador).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-michel-moreau-may-ball).
 
 ### Project Description
 
