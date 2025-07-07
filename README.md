@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## May Ball
+## The Cat of the Prophet (Die Katze des Propheten)
 
 ### Artwork Details
 
-- Date: 1763
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink with brown and gray wash, watercolor, and gouache, heightened with white gouache on laid paper
+- Date: 1919
+- Category: Print
+- Medium: Drypoint in black on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-michel-moreau-may-ball).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-the-cat-of-the-prophet-die-katze-des-propheten).
 
 ### Project Description
 
