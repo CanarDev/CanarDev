@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Cat of the Prophet (Die Katze des Propheten)
+## Coast Scene with an Artist (Le dessinateur)
 
 ### Artwork Details
 
-- Date: 1919
+- Date: ca. 1638/1641
 - Category: Print
-- Medium: Drypoint in black on wove paper
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-the-cat-of-the-prophet-die-katze-des-propheten).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-lorrain-coast-scene-with-an-artist-le-dessinateur).
 
 ### Project Description
 
