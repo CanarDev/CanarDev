@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Coast Scene with an Artist (Le dessinateur)
+## Self-Portrait (Selbstbildnis (Kopf))
 
 ### Artwork Details
 
-- Date: ca. 1638/1641
+- Date: 1916
 - Category: Print
-- Medium: Etching
+- Medium: Drypoint in black on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-lorrain-coast-scene-with-an-artist-le-dessinateur).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-self-portrait-selbstbildnis-kopf).
 
 ### Project Description
 
