@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Lute Player
+## The Prince at the Bird-Catching
 
 ### Artwork Details
 
-- Date: 18th century
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash on laid paper
+- Date: 1514/1516
+- Category: Print
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-orazio-gentileschi-the-lute-player).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonhard-beck-the-prince-at-the-bird-catching).
 
 ### Project Description
 
