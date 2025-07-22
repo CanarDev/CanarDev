@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Prince at the Bird-Catching
+## Figure of a Man
 
 ### Artwork Details
 
-- Date: 1514/1516
-- Category: Print
-- Medium: Woodcut
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown wash over black chalk
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonhard-beck-the-prince-at-the-bird-catching).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-polidoro-da-caravaggio-figure-of-a-man).
 
 ### Project Description
 
