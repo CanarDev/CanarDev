@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Figure of a Man
+## The Great Red Dragon and the Woman Clothed with the Sun
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1805
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash over black chalk
+- Medium: Pen and ink with watercolor over graphite
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-polidoro-da-caravaggio-figure-of-a-man).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-blake-1757-1827-the-great-red-dragon-and-the-woman-clothed-with-the-sun).
 
 ### Project Description
 
