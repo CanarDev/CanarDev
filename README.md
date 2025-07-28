@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Great Red Dragon and the Woman Clothed with the Sun
+## Knight and Lady on Horseback
 
 ### Artwork Details
 
-- Date: 1805
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and ink with watercolor over graphite
+- Date: ca. 1500
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-blake-1757-1827-the-great-red-dragon-and-the-woman-clothed-with-the-sun).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-mz-knight-and-lady-on-horseback).
 
 ### Project Description
 
