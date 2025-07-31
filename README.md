@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Knight and Lady on Horseback
+## The Healing of Palladia by Saint Cosmas and Saint Damian
 
 ### Artwork Details
 
-- Date: ca. 1500
-- Category: Print
-- Medium: Engraving
+- Date: ca. 1438/1440
+- Category: Painting
+- Medium: Tempera (and oil?) on panel
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-mz-knight-and-lady-on-horseback).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/fra-angelico-the-healing-of-palladia-by-saint-cosmas-and-saint-damian).
 
 ### Project Description
 
