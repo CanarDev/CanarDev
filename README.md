@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Healing of Palladia by Saint Cosmas and Saint Damian
+## Landscape with a Lake
 
 ### Artwork Details
 
-- Date: ca. 1438/1440
-- Category: Painting
-- Medium: Tempera (and oil?) on panel
+- Date: Unknown
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/fra-angelico-the-healing-of-palladia-by-saint-cosmas-and-saint-damian).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-landscape-with-a-lake).
 
 ### Project Description
 
