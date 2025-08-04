@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Landscape with a Lake
+## Stage Design: A Piazza with a Domed Church and an Obelisk
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching
+- Date: 1783
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown wash over graphite on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-landscape-with-a-lake).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giuseppino-galliari-stage-design-a-piazza-with-a-domed-church-and-an-obelisk).
 
 ### Project Description
 
