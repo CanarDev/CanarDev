@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Stage Design: A Piazza with a Domed Church and an Obelisk
+## Two Doorways
 
 ### Artwork Details
 
-- Date: 1783
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash over graphite on laid paper
+- Date: 1880
+- Category: Print
+- Medium: Etching in brownish-black ink
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giuseppino-galliari-stage-design-a-piazza-with-a-domed-church-and-an-obelisk).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/two-doorways-1).
 
 ### Project Description
 
