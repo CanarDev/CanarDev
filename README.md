@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## L'oisseau prive
+## The Anatomy Lesson of Dr. Nicolaes Tulp
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Color aquatint and etching
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 1632
+- Category: Painting
+- Medium: Oil on canvas
+- Image rights: Source: Wikimedia Commons / Public Domain
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-francois-janinet-after-jean-jacques-lagrenee-loisseau-prive).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp).
 
 ### Project Description
 
