@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Anatomy Lesson of Dr. Nicolaes Tulp
+## The True Effigy of Saint Francis
 
 ### Artwork Details
 
-- Date: 1632
-- Category: Painting
-- Medium: Oil on canvas
-- Image rights: Source: Wikimedia Commons / Public Domain
+- Date: Unknown
+- Category: Print
+- Medium: Etching
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rembrandt-van-rijn-the-anatomy-lesson-of-dr-nicolaes-tulp).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-the-true-effigy-of-saint-francis).
 
 ### Project Description
 
