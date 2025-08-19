@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The True Effigy of Saint Francis
+## Monk Gazing Upward (Mönch mit Erhobenem Blick)
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1916
 - Category: Print
-- Medium: Etching
+- Medium: Drypoint in black on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-the-true-effigy-of-saint-francis).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-monk-gazing-upward-monch-mit-erhobenem-blick).
 
 ### Project Description
 
