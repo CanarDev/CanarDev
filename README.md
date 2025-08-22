@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Monk Gazing Upward (Mönch mit Erhobenem Blick)
+## Portal of the Hôtel d'Uzès, rue Montmartre, Paris
 
 ### Artwork Details
 
-- Date: 1916
-- Category: Print
-- Medium: Drypoint in black on wove paper
+- Date: 1768 or 1784
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink with watercolor on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-monk-gazing-upward-monch-mit-erhobenem-blick).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/studio-of-claude-nicolas-ledoux-portal-of-the-hotel-duzes-rue-montmartre-paris).
 
 ### Project Description
 
