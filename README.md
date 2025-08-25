@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portal of the Hôtel d'Uzès, rue Montmartre, Paris
+## The Road to Rocquencourt
 
 ### Artwork Details
 
-- Date: 1768 or 1784
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink with watercolor on laid paper
+- Date: 1909
+- Category: Print
+- Medium: Drypoint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/studio-of-claude-nicolas-ledoux-portal-of-the-hotel-duzes-rue-montmartre-paris).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-the-road-to-rocquencourt).
 
 ### Project Description
 
