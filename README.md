@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Road to Rocquencourt
+## Virgo Nuptialis Argentinensis
 
 ### Artwork Details
 
-- Date: 1909
+- Date: Unknown
 - Category: Print
-- Medium: Drypoint
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-the-road-to-rocquencourt).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wenceslaus-hollar-virgo-nuptialis-argentinensis).
 
 ### Project Description
 
