@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Virgo Nuptialis Argentinensis
+## Coat of Arms of Hector Pomer
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1525
 - Category: Print
-- Medium: Etching
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wenceslaus-hollar-virgo-nuptialis-argentinensis).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-coat-of-arms-of-hector-pomer).
 
 ### Project Description
 
