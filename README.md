@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Coat of Arms of Hector Pomer
+## Martyrdom of the Ten Thousand [recto]
 
 ### Artwork Details
 
-- Date: 1525
-- Category: Print
-- Medium: Woodcut
+- Date: ca. 1513
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Red chalk on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-coat-of-arms-of-hector-pomer).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/vittore-carpaccio-martyrdom-of-the-ten-thousand-recto).
 
 ### Project Description
 
