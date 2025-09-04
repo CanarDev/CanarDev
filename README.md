@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Martyrdom of the Ten Thousand [recto]
+## The Raising of Lazarus
 
 ### Artwork Details
 
-- Date: ca. 1513
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Red chalk on laid paper
+- Date: ca. 1600
+- Category: Print
+- Medium: Engraving with pen and ink and wash
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/vittore-carpaccio-martyrdom-of-the-ten-thousand-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-muller-after-abraham-bloemaert-the-raising-of-lazarus).
 
 ### Project Description
 
