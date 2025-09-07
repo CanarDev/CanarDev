@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Raising of Lazarus
+## Crown with Goddesses and Floral Elements
 
 ### Artwork Details
 
-- Date: ca. 1600
-- Category: Print
-- Medium: Engraving with pen and ink and wash
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 10th-9th century B.C.
+- Category: Sculpture
+- Medium: Gold
+- Image rights: Image provided by the Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jan-muller-after-abraham-bloemaert-the-raising-of-lazarus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/crown-with-goddesses-and-floral-elements).
 
 ### Project Description
 
