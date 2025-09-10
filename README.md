@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Crown with Goddesses and Floral Elements
+## The Lime-Burner
 
 ### Artwork Details
 
-- Date: 10th-9th century B.C.
-- Category: Sculpture
-- Medium: Gold
-- Image rights: Image provided by the Walters Art Museum
+- Date: 1859
+- Category: Print
+- Medium: Etching
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/crown-with-goddesses-and-floral-elements).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-lime-burner).
 
 ### Project Description
 
