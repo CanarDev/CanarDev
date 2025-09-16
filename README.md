@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Zintilomo (Gentleman)
+## Cabinet with Chinese and American Motifs
 
 ### Artwork Details
 
-- Date: ca. 1465
-- Category: Print
-- Medium: Engraving with traces of gilding
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 1690-1700
+- Category: Design/Decorative Art
+- Medium: Wood (pine) with paint and gilt
+- Image rights: Image provided by the Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-e-series-tarocchi-zintilomo-gentleman).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/cabinet-with-chinese-and-american-motifs).
 
 ### Project Description
 
