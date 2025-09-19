@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Cabinet with Chinese and American Motifs
+## Kingdom of the Sun
 
 ### Artwork Details
 
-- Date: 1690-1700
-- Category: Design/Decorative Art
-- Medium: Wood (pine) with paint and gilt
-- Image rights: Image provided by the Walters Art Museum
+- Date: 1919
+- Category: Print
+- Medium: Soft ground etching, with drypoint and aquatint
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/cabinet-with-chinese-and-american-motifs).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/arthur-bowen-davies-kingdom-of-the-sun).
 
 ### Project Description
 
