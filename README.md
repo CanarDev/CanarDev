@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Kingdom of the Sun
+## Trinitatis delicia Virgo Maria
 
 ### Artwork Details
 
-- Date: 1919
+- Date: Unknown
 - Category: Print
-- Medium: Soft ground etching, with drypoint and aquatint
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/arthur-bowen-davies-kingdom-of-the-sun).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/marco-alvise-pitteri-after-giovanni-battista-piazzetta-trinitatis-delicia-virgo-maria).
 
 ### Project Description
 
