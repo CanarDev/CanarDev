@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Trinitatis delicia Virgo Maria
+## Butterfly Hunting
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1806
 - Category: Print
-- Medium: Engraving
+- Medium: Hand-colored etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/marco-alvise-pitteri-after-giovanni-battista-piazzetta-trinitatis-delicia-virgo-maria).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-butterfly-hunting).
 
 ### Project Description
 
