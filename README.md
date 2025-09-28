@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Butterfly Hunting
+## Saint George and the Dragon
 
 ### Artwork Details
 
-- Date: 1806
-- Category: Print
-- Medium: Hand-colored etching
+- Date: ca. 1432/1435
+- Category: Painting
+- Medium: Oil on panel
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-rowlandson-butterfly-hunting).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rogier-van-der-weyden-saint-george-and-the-dragon).
 
 ### Project Description
 
