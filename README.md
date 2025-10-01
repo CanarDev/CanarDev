@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint George and the Dragon
+## The Assumption of the Virgin
 
 ### Artwork Details
 
-- Date: ca. 1432/1435
+- Date: ca. 1630/1632
 - Category: Painting
-- Medium: Oil on panel
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rogier-van-der-weyden-saint-george-and-the-dragon).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/nicolas-poussin-the-assumption-of-the-virgin).
 
 ### Project Description
 
