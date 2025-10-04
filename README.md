@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Assumption of the Virgin
+## A Scene from The Beggar's Opera
 
 ### Artwork Details
 
-- Date: ca. 1630/1632
+- Date: 1728/1729
 - Category: Painting
 - Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/nicolas-poussin-the-assumption-of-the-virgin).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-hogarth-a-scene-from-the-beggars-opera).
 
 ### Project Description
 
