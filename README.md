@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A Scene from The Beggar's Opera
+## The Miracle before the Blessed Sacrament (fourth plate)
 
 ### Artwork Details
 
-- Date: 1728/1729
-- Category: Painting
-- Medium: Oil on canvas
+- Date: 1912/1913
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-hogarth-a-scene-from-the-beggars-opera).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-the-miracle-before-the-blessed-sacrament-fourth-plate-1).
 
 ### Project Description
 
