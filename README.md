@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Miracle before the Blessed Sacrament (fourth plate)
+## Shiva&#x27;s Family
 
 ### Artwork Details
 
-- Date: 1912/1913
-- Category: Print
-- Medium: Etching
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: mid-10th century
+- Category: Sculpture
+- Medium: Sandstone
+- Image rights: Image provided by the Los Angeles County Museum of Art
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-the-miracle-before-the-blessed-sacrament-fourth-plate-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/shivas-family).
 
 ### Project Description
 
