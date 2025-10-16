@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ Bearing the Cross (Kreuztragung)
+## Christ Carrying the Cross
 
 ### Artwork Details
 
-- Date: 1916
+- Date: 1509
 - Category: Print
-- Medium: Drypoint in black on wove paper
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-christ-bearing-the-cross-kreuztragung).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lucas-van-leyden-christ-carrying-the-cross).
 
 ### Project Description
 
