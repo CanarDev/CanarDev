@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ Carrying the Cross
+## The Marriage of the Virgin
 
 ### Artwork Details
 
-- Date: 1509
+- Date: ca. 1490/1500
 - Category: Print
 - Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lucas-van-leyden-christ-carrying-the-cross).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/israhel-van-meckenem-after-hans-holbein-the-elder-the-marriage-of-the-virgin).
 
 ### Project Description
 
