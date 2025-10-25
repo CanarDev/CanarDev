@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mattias de' Medici
+## Laissez dire un peu de mal de vous...
 
 ### Artwork Details
 
-- Date: ca. 1660
-- Category: Painting
-- Medium: Oil on canvas
+- Date: 1847
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/studio-of-justus-sustermans-mattias-de-medici).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-laissez-dire-un-peu-de-mal-de-vous-dot-dot-dot).
 
 ### Project Description
 
