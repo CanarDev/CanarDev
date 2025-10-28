@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Laissez dire un peu de mal de vous...
+## Moor in a Turban Trimmed with Five Feathers
 
 ### Artwork Details
 
-- Date: 1847
+- Date: 1649/1650
 - Category: Print
-- Medium: Lithograph
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-laissez-dire-un-peu-de-mal-de-vous-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-moor-in-a-turban-trimmed-with-five-feathers).
 
 ### Project Description
 
