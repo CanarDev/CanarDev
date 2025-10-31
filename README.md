@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Moor in a Turban Trimmed with Five Feathers
+## Pierre-Napoléon Bonaparte
 
 ### Artwork Details
 
-- Date: 1649/1650
+- Date: 1849
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-moor-in-a-turban-trimmed-with-five-feathers).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-pierre-napoleon-bonaparte).
 
 ### Project Description
 
