@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Pierre-Napoléon Bonaparte
+## La Lutschinen sortant du Glacier inférieur du Grindelwald
 
 ### Artwork Details
 
-- Date: 1849
+- Date: 1785
 - Category: Print
-- Medium: Lithograph
+- Medium: Wash manner printed in four colors on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-pierre-napoleon-bonaparte).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-melchior-descourtis-after-caspar-wolf-la-lutschinen-sortant-du-glacier-inferieur-du-grindelwald).
 
 ### Project Description
 
