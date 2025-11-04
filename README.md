@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## La Lutschinen sortant du Glacier inférieur du Grindelwald
+## The Agony in the Garden
 
 ### Artwork Details
 
-- Date: 1785
-- Category: Print
-- Medium: Wash manner printed in four colors on wove paper
+- Date: probably 1491
+- Category: Painting
+- Medium: Tempera on panel
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-melchior-descourtis-after-caspar-wolf-la-lutschinen-sortant-du-glacier-inferieur-du-grindelwald).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/benvenuto-di-giovanni-the-agony-in-the-garden).
 
 ### Project Description
 
