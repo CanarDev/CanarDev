@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Agony in the Garden
+## Satyr Leaning on a Column
 
 ### Artwork Details
 
-- Date: probably 1491
-- Category: Painting
-- Medium: Tempera on panel
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Black and white chalk
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/benvenuto-di-giovanni-the-agony-in-the-garden).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anton-domenico-gabbiani-satyr-leaning-on-a-column).
 
 ### Project Description
 
