@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Satyr Leaning on a Column
+## Saint Sebastian
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Black and white chalk
+- Date: ca. 1470/1480
+- Category: Print
+- Medium: Niello print
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/anton-domenico-gabbiani-satyr-leaning-on-a-column).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-francesco-francia-saint-sebastian).
 
 ### Project Description
 
