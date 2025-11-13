@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Sebastian
+## Cardinal Antonio Barberini
 
 ### Artwork Details
 
-- Date: ca. 1470/1480
+- Date: 1664
 - Category: Print
-- Medium: Niello print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-francesco-francia-saint-sebastian).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-cardinal-antonio-barberini-3).
 
 ### Project Description
 
