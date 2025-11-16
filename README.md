@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Cardinal Antonio Barberini
+## Dance of Death III
 
 ### Artwork Details
 
-- Date: 1664
+- Date: 1562
 - Category: Print
 - Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-nanteuil-cardinal-antonio-barberini-3).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-ac-dance-of-death-iii).
 
 ### Project Description
 
