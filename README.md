@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Dance of Death III
+## Oboe Player
 
 ### Artwork Details
 
-- Date: 1562
+- Date: 1782
 - Category: Print
-- Medium: Engraving
+- Medium: Etching, drypoint, and roulette touched with gray wash on laid paper [proof]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-ac-dance-of-death-iii).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-jacques-de-boissieu-oboe-player).
 
 ### Project Description
 
