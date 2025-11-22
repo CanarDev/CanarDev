@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Oboe Player
+## Mulier Religiosa Antuerpiensis
 
 ### Artwork Details
 
-- Date: 1782
+- Date: Unknown
 - Category: Print
-- Medium: Etching, drypoint, and roulette touched with gray wash on laid paper [proof]
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-jacques-de-boissieu-oboe-player).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wenceslaus-hollar-mulier-religiosa-antuerpiensis).
 
 ### Project Description
 
