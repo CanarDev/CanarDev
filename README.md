@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mulier Religiosa Antuerpiensis
+## Man Reclining on the Ground and the Corner of a Bed [verso]
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching
+- Date: 1758/1765
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Counterproof in black and white chalks on brown laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/wenceslaus-hollar-mulier-religiosa-antuerpiensis).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-deshays-man-reclining-on-the-ground-and-the-corner-of-a-bed-verso).
 
 ### Project Description
 
