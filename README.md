@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Man Reclining on the Ground and the Corner of a Bed [verso]
+## Gate to the Farmhouse, Pont-Aven
 
 ### Artwork Details
 
-- Date: 1758/1765
+- Date: 1890/1894
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Counterproof in black and white chalks on brown laid paper
+- Medium: Graphite and charcoal on tan paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-deshays-man-reclining-on-the-ground-and-the-corner-of-a-bed-verso).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-polhill-bevan-gate-to-the-farmhouse-pont-aven).
 
 ### Project Description
 
