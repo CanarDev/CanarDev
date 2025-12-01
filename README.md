@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Gate to the Farmhouse, Pont-Aven
+## Caliope (Calliope)
 
 ### Artwork Details
 
-- Date: 1890/1894
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite and charcoal on tan paper
+- Date: ca. 1465
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/robert-polhill-bevan-gate-to-the-farmhouse-pont-aven).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-e-series-tarocchi-caliope-calliope).
 
 ### Project Description
 
