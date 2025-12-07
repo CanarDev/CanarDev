@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Caliope (Calliope)
+## Laurent Cars
 
 ### Artwork Details
 
-- Date: ca. 1465
+- Date: Unknown
 - Category: Print
-- Medium: Engraving
+- Medium: Etching and engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-e-series-tarocchi-caliope-calliope).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/simon-charles-miger-after-jean-baptiste-perronneau-laurent-cars).
 
 ### Project Description
 
