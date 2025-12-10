@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Laurent Cars
+## Procession Entering a City
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching and engraving
+- Date: ca. 1369
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink and brown wash on laid paper mounted on original pale blue album sheet
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/simon-charles-miger-after-jean-baptiste-perronneau-laurent-cars).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-altichiero-da-zevio-procession-entering-a-city).
 
 ### Project Description
 
