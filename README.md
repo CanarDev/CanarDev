@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Procession Entering a City
+## Fesant toutes partie de la plus belle moitié...
 
 ### Artwork Details
 
-- Date: ca. 1369
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink and brown wash on laid paper mounted on original pale blue album sheet
+- Date: 1847
+- Category: Print
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-altichiero-da-zevio-procession-entering-a-city).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-fesant-toutes-partie-de-la-plus-belle-moitie-dot-dot-dot).
 
 ### Project Description
 
