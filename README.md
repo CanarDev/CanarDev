@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Fesant toutes partie de la plus belle moitié...
+## Victor Bouthillier
 
 ### Artwork Details
 
-- Date: 1847
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-fesant-toutes-partie-de-la-plus-belle-moitie-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/balthasar-moncornet-victor-bouthillier).
 
 ### Project Description
 
