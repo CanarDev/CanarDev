@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les Pecheurs (The Fishermen)
+## The Farmyard
 
 ### Artwork Details
 
-- Date: 1771
+- Date: published 1861
 - Category: Print
-- Medium: Etching and aquatint printed in brown ink
+- Medium: Etching on india paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-le-prince-les-pecheurs-the-fishermen).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rodolphe-bresdin-the-farmyard).
 
 ### Project Description
 
