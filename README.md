@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Farmyard
+## Solimano, Act II
 
 ### Artwork Details
 
-- Date: published 1861
+- Date: 1620
 - Category: Print
-- Medium: Etching on india paper
+- Medium: Etching and engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rodolphe-bresdin-the-farmyard).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-solimano-act-ii-1).
 
 ### Project Description
 
