@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Solimano, Act II
+## Presentation in the Temple
 
 ### Artwork Details
 
-- Date: 1620
+- Date: Unknown
 - Category: Print
-- Medium: Etching and engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-solimano-act-ii-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-mauperche-presentation-in-the-temple).
 
 ### Project Description
 
