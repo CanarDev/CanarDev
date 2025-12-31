@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Presentation in the Temple
+## Laffitte Street
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1892
 - Category: Print
-- Medium: Etching
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-mauperche-presentation-in-the-temple).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-laffitte-street).
 
 ### Project Description
 
