@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Laffitte Street
+## George Mills
 
 ### Artwork Details
 
-- Date: ca. 1892
-- Category: Print
-- Medium: Lithograph
+- Date: 1792
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pastel with gray and brown wash on two overlapped sheets of laid paper joined at the top
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-louis-forain-laffitte-street).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-downman-george-mills).
 
 ### Project Description
 
