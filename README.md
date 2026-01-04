@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## George Mills
+## Imaginary Portrait of an English Beauty
 
 ### Artwork Details
 
-- Date: 1792
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pastel with gray and brown wash on two overlapped sheets of laid paper joined at the top
+- Date: 1762
+- Category: Print
+- Medium: Mezzotint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-downman-george-mills).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/thomas-frye-imaginary-portrait-of-an-english-beauty).
 
 ### Project Description
 
