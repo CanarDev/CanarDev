@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Last Judgment
+## Christ before Caiaphas
 
 ### Artwork Details
 
-- Date: ca. 1809
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and ink with wash over graphite
+- Date: ca. 1513
+- Category: Print
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/william-blake-1757-1827-the-last-judgment).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albrecht-altdorfer-christ-before-caiaphas).
 
 ### Project Description
 
