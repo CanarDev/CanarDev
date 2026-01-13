@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ before Caiaphas
+## Adoremus!
 
 ### Artwork Details
 
-- Date: ca. 1513
+- Date: 1869
 - Category: Print
-- Medium: Woodcut
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albrecht-altdorfer-christ-before-caiaphas).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-adoremus).
 
 ### Project Description
 
