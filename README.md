@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Adoremus!
+## Les Roches noires près Trouville (Marèe Basse)
 
 ### Artwork Details
 
-- Date: 1869
+- Date: 1874
 - Category: Print
-- Medium: Lithograph
+- Medium: Etching on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-adoremus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/maxime-lalanne-les-roches-noires-pres-trouville-maree-basse).
 
 ### Project Description
 
