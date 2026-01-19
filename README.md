@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les Roches noires près Trouville (Marèe Basse)
+## Nous ne nous serions jamais douté tout de même...
 
 ### Artwork Details
 
-- Date: 1874
+- Date: 1870
 - Category: Print
-- Medium: Etching on wove paper
+- Medium: Gillotype on newsprint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/maxime-lalanne-les-roches-noires-pres-trouville-maree-basse).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-nous-ne-nous-serions-jamais-doute-tout-de-meme-dot-dot-dot).
 
 ### Project Description
 
