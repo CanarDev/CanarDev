@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Nous ne nous serions jamais douté tout de même...
+## Portrait Study - Mrs. Phillip
 
 ### Artwork Details
 
-- Date: 1870
+- Date: 1896
 - Category: Print
-- Medium: Gillotype on newsprint
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-nous-ne-nous-serions-jamais-doute-tout-de-meme-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/portrait-study-mrs-phillip).
 
 ### Project Description
 
