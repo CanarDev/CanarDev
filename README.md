@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait Study - Mrs. Phillip
+## Christ Ascending the Cross with Sin, Death, and the Devil
 
 ### Artwork Details
 
-- Date: 1896
+- Date: 1547
 - Category: Print
-- Medium: Lithograph
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/portrait-study-mrs-phillip).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-christ-ascending-the-cross-with-sin-death-and-the-devil).
 
 ### Project Description
 
