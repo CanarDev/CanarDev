@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Christ Ascending the Cross with Sin, Death, and the Devil
+## Greniers indigenes et habitations a Akaroa, presqu'Ile de Banks
 
 ### Artwork Details
 
-- Date: 1547
-- Category: Print
-- Medium: Etching
+- Date: 1860
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-christ-ascending-the-cross-with-sin-death-and-the-devil).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-greniers-indigenes-et-habitations-a-akaroa-presquile-de-banks).
 
 ### Project Description
 
