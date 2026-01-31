@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Greniers indigenes et habitations a Akaroa, presqu'Ile de Banks
+## Study for a Border Design
 
 ### Artwork Details
 
-- Date: 1860
+- Date: 1890/1897
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite
+- Medium: Pen and black ink and conté crayon on gray wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-greniers-indigenes-et-habitations-a-akaroa-presquile-de-banks).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-sprague-pearce-study-for-a-border-design-13).
 
 ### Project Description
 
