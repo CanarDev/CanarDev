@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Study for a Border Design
+## Portrait of a Lady
 
 ### Artwork Details
 
-- Date: 1890/1897
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink and conté crayon on gray wove paper
+- Date: ca. 1730/1735
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-sprague-pearce-study-for-a-border-design-13).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/joseph-highmore-portrait-of-a-lady).
 
 ### Project Description
 
