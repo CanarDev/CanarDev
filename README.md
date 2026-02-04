@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of a Lady
+## Joseph and Potiphar's Wife
 
 ### Artwork Details
 
-- Date: ca. 1730/1735
-- Category: Painting
-- Medium: Oil on canvas
+- Date: Unknown
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/joseph-highmore-portrait-of-a-lady).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/marcantonio-raimondi-after-raphael-joseph-and-potiphars-wife).
 
 ### Project Description
 
