@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Joseph and Potiphar's Wife
+## View of the Sea, Normandy
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Print
-- Medium: Engraving
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pastel on buff wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/marcantonio-raimondi-after-raphael-joseph-and-potiphars-wife).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alexandre-desgoffe-view-of-the-sea-normandy).
 
 ### Project Description
 
