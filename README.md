@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## View of the Sea, Normandy
+## Le Matin.  Cerf et Biches
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pastel on buff wove paper
+- Category: Print
+- Medium: Chiaroscuro lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alexandre-desgoffe-view-of-the-sea-normandy).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/karl-bodmer-le-matin-cerf-et-biches).
 
 ### Project Description
 
