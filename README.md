@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Matin.  Cerf et Biches
+## St. Agnes; The Marriage of the Virgin; St. Ildefonsus; St. Timothy
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Chiaroscuro lithograph
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/karl-bodmer-le-matin-cerf-et-biches).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-st-agnes-the-marriage-of-the-virgin-st-ildefonsus-st-timothy).
 
 ### Project Description
 
