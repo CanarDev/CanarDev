@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## St. Agnes; The Marriage of the Virgin; St. Ildefonsus; St. Timothy
+## Studies of Sudarium and Saint Agnes
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Print
-- Medium: Etching
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink with white chalk on laid paper prepared with red wash
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-st-agnes-the-marriage-of-the-virgin-st-ildefonsus-st-timothy).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-tobias-stimmer-studies-of-sudarium-and-saint-agnes).
 
 ### Project Description
 
