@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Studies of Sudarium and Saint Agnes
+## Carriage with Driver and Groom: Spring
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink with white chalk on laid paper prepared with red wash
+- Medium: Pen and brown ink and watercolor
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-tobias-stimmer-studies-of-sudarium-and-saint-agnes).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/constantin-guys-carriage-with-driver-and-groom-spring).
 
 ### Project Description
 
