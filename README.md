@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Carriage with Driver and Groom: Spring
+## Head of a Horse 
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink and watercolor
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 40
+- Category: Sculpture
+- Medium: Gilt bronze
+- Image rights: Image provided by the Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/constantin-guys-carriage-with-driver-and-groom-spring).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/head-of-a-horse).
 
 ### Project Description
 
