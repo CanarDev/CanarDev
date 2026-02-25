@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Head of a Horse 
+## The Rest on the Flight into Egypt
 
 ### Artwork Details
 
-- Date: ca. 40
-- Category: Sculpture
-- Medium: Gilt bronze
-- Image rights: Image provided by the Walters Art Museum
+- Date: ca. 1626
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown wash, squared with black chalk, on laid paper
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/head-of-a-horse).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/guercino-the-rest-on-the-flight-into-egypt).
 
 ### Project Description
 
