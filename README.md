@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Rest on the Flight into Egypt
+## Saint Ambrose Suppressing Heresy
 
 ### Artwork Details
 
-- Date: ca. 1626
+- Date: Unknown
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash, squared with black chalk, on laid paper
+- Medium: Pen and brown ink with gray wash heightened with white, squared in graphite; lower left corner redrawn on an insert
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/guercino-the-rest-on-the-flight-into-egypt).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/gottfried-bernhard-gotz-saint-ambrose-suppressing-heresy).
 
 ### Project Description
 
