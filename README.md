@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Ambrose Suppressing Heresy
+## Joseph and Potiphar's Wife - II (Joseph und Potiphars Weib II)
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with gray wash heightened with white, squared in graphite; lower left corner redrawn on an insert
+- Date: 1915
+- Category: Print
+- Medium: Drypoint in black on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/gottfried-bernhard-gotz-saint-ambrose-suppressing-heresy).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-joseph-and-potiphars-wife-ii-joseph-und-potiphars-weib-ii).
 
 ### Project Description
 
