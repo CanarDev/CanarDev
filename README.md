@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Joseph and Potiphar's Wife - II (Joseph und Potiphars Weib II)
+## Domenico di Giusto
 
 ### Artwork Details
 
-- Date: 1915
+- Date: 1619
 - Category: Print
-- Medium: Drypoint in black on laid paper
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/lovis-corinth-joseph-and-potiphars-wife-ii-joseph-und-potiphars-weib-ii).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-after-matteo-rosselli-domenico-di-giusto).
 
 ### Project Description
 
