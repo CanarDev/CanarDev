@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Domenico di Giusto
+## A King on a Throne, before him Four Men
 
 ### Artwork Details
 
-- Date: 1619
+- Date: 1514/1516
 - Category: Print
-- Medium: Engraving
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-after-matteo-rosselli-domenico-di-giusto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonhard-beck-a-king-on-a-throne-before-him-four-men).
 
 ### Project Description
 
