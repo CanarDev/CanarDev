@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## A King on a Throne, before him Four Men
+## Il me semble que j'aperçois...  un... chien... pas muselé!...
 
 ### Artwork Details
 
-- Date: 1514/1516
+- Date: 1852
 - Category: Print
-- Medium: Woodcut
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/leonhard-beck-a-king-on-a-throne-before-him-four-men).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-il-me-semble-que-japercois-dot-dot-dot-un-dot-dot-dot-chien-dot-dot-dot-pas-musele-dot-dot-dot).
 
 ### Project Description
 
