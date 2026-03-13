@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Il me semble que j'aperçois...  un... chien... pas muselé!...
+## Bust of a Young Woman
 
 ### Artwork Details
 
-- Date: 1852
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-il-me-semble-que-japercois-dot-dot-dot-un-dot-dot-dot-chien-dot-dot-dot-pas-musele-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/cornelis-bega-bust-of-a-young-woman).
 
 ### Project Description
 
