@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Les nymphes scrupuleuses
+## Jacques Thubeuf
 
 ### Artwork Details
 
-- Date: 1784
+- Date: Unknown
 - Category: Print
-- Medium: Etching and engraving
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/geraud-vidal-after-nicolas-lavreince-les-nymphes-scrupuleuses).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/michel-lasne-after-philippe-de-champaigne-jacques-thubeuf).
 
 ### Project Description
 
