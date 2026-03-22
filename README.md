@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Jacques Thubeuf
+## Le Dessert
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1862
 - Category: Print
-- Medium: Engraving on laid paper
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/michel-lasne-after-philippe-de-champaigne-jacques-thubeuf).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francois-bonvin-le-dessert-5).
 
 ### Project Description
 
