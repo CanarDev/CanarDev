@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Dessert
+## Sibylla Cimmeria
 
 ### Artwork Details
 
-- Date: 1862
+- Date: 1625
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francois-bonvin-le-dessert-5).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-stella-sibylla-cimmeria).
 
 ### Project Description
 
