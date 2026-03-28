@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Sibylla Cimmeria
+## Venus Reclining in a Landscape
 
 ### Artwork Details
 
-- Date: 1625
+- Date: 1517
 - Category: Print
-- Medium: Woodcut
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-stella-sibylla-cimmeria).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-campagnola-venus-reclining-in-a-landscape).
 
 ### Project Description
 
