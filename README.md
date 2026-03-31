@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Venus Reclining in a Landscape
+## Landscape with Shepherds Driving Away a Wolf
 
 ### Artwork Details
 
-- Date: 1517
-- Category: Print
-- Medium: Engraving
+- Date: ca. 1540
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with touches of pale green wash on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-campagnola-venus-reclining-in-a-landscape).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-campagnola-landscape-with-shepherds-driving-away-a-wolf).
 
 ### Project Description
 
