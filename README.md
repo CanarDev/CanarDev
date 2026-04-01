@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Landscape with Shepherds Driving Away a Wolf
+## Mountain Waterfall
 
 ### Artwork Details
 
-- Date: ca. 1540
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with touches of pale green wash on laid paper
+- Date: 1838
+- Category: Print
+- Medium: Etching on chine collé
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-campagnola-landscape-with-shepherds-driving-away-a-wolf).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alexandre-calame-mountain-waterfall-1).
 
 ### Project Description
 
