@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mountain Waterfall
+## For the Track
 
 ### Artwork Details
 
-- Date: 1838
-- Category: Print
-- Medium: Etching on chine collé
+- Date: 1895
+- Category: Painting
+- Medium: Oil on canvas
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alexandre-calame-mountain-waterfall-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-frederick-peto-for-the-track).
 
 ### Project Description
 
