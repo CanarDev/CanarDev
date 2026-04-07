@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## For the Track
+## Figure Standing over Corpses, Blowing a Horn
 
 ### Artwork Details
 
-- Date: 1895
-- Category: Painting
-- Medium: Oil on canvas
+- Date: in or after 1795
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and gray ink with gray wash over graphite on wove paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-frederick-peto-for-the-track).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-flaxman-figure-standing-over-corpses-blowing-a-horn).
 
 ### Project Description
 
