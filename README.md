@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Figure Standing over Corpses, Blowing a Horn
+## L'Amant surpris
 
 ### Artwork Details
 
-- Date: in or after 1795
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and gray ink with gray wash over graphite on wove paper
+- Date: Unknown
+- Category: Print
+- Medium: Color aquatint and roulette
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/john-flaxman-figure-standing-over-corpses-blowing-a-horn).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-melchior-descourtis-after-jean-frederic-schall-lamant-surpris).
 
 ### Project Description
 
