@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## L'Amant surpris
+## Raising of Lazarus with Scenes from the Life of Christ
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Color aquatint and roulette
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-melchior-descourtis-after-jean-frederic-schall-lamant-surpris).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/romeyn-de-hooghe-raising-of-lazarus-with-scenes-from-the-life-of-christ).
 
 ### Project Description
 
