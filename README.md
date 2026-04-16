@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Raising of Lazarus with Scenes from the Life of Christ
+## The Dark Tower
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1919
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/romeyn-de-hooghe-raising-of-lazarus-with-scenes-from-the-life-of-christ).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/earl-horter-the-dark-tower).
 
 ### Project Description
 
