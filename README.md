@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Dark Tower
+## The Raising of Lazarus
 
 ### Artwork Details
 
-- Date: 1919
-- Category: Print
-- Medium: Etching
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 1630-1632
+- Category: Painting
+- Medium: Oil on wood
+- Image rights: Image provided by the Los Angeles County Museum of Art
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/earl-horter-the-dark-tower).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rembrandt-van-rijn-the-raising-of-lazarus).
 
 ### Project Description
 
