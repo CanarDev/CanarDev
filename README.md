@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Raising of Lazarus
+## George E. Lane, Jr.
 
 ### Artwork Details
 
-- Date: ca. 1630-1632
-- Category: Painting
-- Medium: Oil on wood
-- Image rights: Image provided by the Los Angeles County Museum of Art
+- Date: ca. 1855
+- Category: Photography
+- Medium: Ambrotype
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/rembrandt-van-rijn-the-raising-of-lazarus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/george-e-lane-jr).
 
 ### Project Description
 
