@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## George E. Lane, Jr.
+## The Public in the Salon of the Louvre, Viewing the Painting of the "Sacre"
 
 ### Artwork Details
 
-- Date: ca. 1855
-- Category: Photography
-- Medium: Ambrotype
+- Date: begun 1808
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and black ink with gray wash and watercolor over traces of graphite on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/george-e-lane-jr).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-leopold-boilly-the-public-in-the-salon-of-the-louvre-viewing-the-painting-of-the-sacre).
 
 ### Project Description
 
