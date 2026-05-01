@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Public in the Salon of the Louvre, Viewing the Painting of the "Sacre"
+## The Resurrection
 
 ### Artwork Details
 
-- Date: begun 1808
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and black ink with gray wash and watercolor over traces of graphite on laid paper
+- Date: 1596
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-leopold-boilly-the-public-in-the-salon-of-the-louvre-viewing-the-painting-of-the-sacre).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hendrik-goltzius-the-resurrection).
 
 ### Project Description
 
