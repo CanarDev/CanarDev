@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Resurrection
+## Ces pauvres animaux... n'se reconnaissent... plus...
 
 ### Artwork Details
 
-- Date: 1596
+- Date: 1852
 - Category: Print
-- Medium: Engraving
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hendrik-goltzius-the-resurrection).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-ces-pauvres-animaux-dot-dot-dot-nse-reconnaissent-dot-dot-dot-plus-dot-dot-dot).
 
 ### Project Description
 
