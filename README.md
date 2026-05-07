@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Ces pauvres animaux... n'se reconnaissent... plus...
+## Grande Arabesque, Third Time (First Arabesque Penchée)
 
 ### Artwork Details
 
-- Date: 1852
-- Category: Print
-- Medium: Lithograph
+- Date: ca. 1885/1890
+- Category: Sculpture
+- Medium: Greenish-brown and black plastiline
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-ces-pauvres-animaux-dot-dot-dot-nse-reconnaissent-dot-dot-dot-plus-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edgar-degas-grande-arabesque-third-time-first-arabesque-penchee).
 
 ### Project Description
 
