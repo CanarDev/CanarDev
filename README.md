@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Grande Arabesque, Third Time (First Arabesque Penchée)
+## View of the Forum from the Base of the Capitol
 
 ### Artwork Details
 
-- Date: ca. 1885/1890
-- Category: Sculpture
-- Medium: Greenish-brown and black plastiline
+- Date: probably 1550
+- Category: Print
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edgar-degas-grande-arabesque-third-time-first-arabesque-penchee).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hieronymus-cock-view-of-the-forum-from-the-base-of-the-capitol).
 
 ### Project Description
 
