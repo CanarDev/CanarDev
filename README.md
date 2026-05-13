@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## View of the Forum from the Base of the Capitol
+## Two Loving Pairs with Clown
 
 ### Artwork Details
 
-- Date: probably 1550
+- Date: 1535
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hieronymus-cock-view-of-the-forum-from-the-base-of-the-capitol).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-two-loving-pairs-with-clown).
 
 ### Project Description
 
