@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Two Loving Pairs with Clown
+## Drunkenness of Bacchus
 
 ### Artwork Details
 
-- Date: 1535
+- Date: Unknown
 - Category: Print
 - Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebald-beham-two-loving-pairs-with-clown).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jonas-suyderhoff-after-sir-peter-paul-rubens-drunkenness-of-bacchus).
 
 ### Project Description
 
