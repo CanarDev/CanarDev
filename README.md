@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Drunkenness of Bacchus
+## Farms
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: published in or before 1676
 - Category: Print
-- Medium: Engraving
+- Medium: Etching retouched with engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jonas-suyderhoff-after-sir-peter-paul-rubens-drunkenness-of-bacchus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-and-lucas-van-doetechum-after-master-of-the-small-landscapes-farms-1).
 
 ### Project Description
 
