@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Farms
+## Aristide Bruant, singer and composer, on a poster announcing his performance at the elegant night-club "Les Ambassadeurs" on the Champs Elysées, Paris
 
 ### Artwork Details
 
-- Date: published in or before 1676
-- Category: Print
-- Medium: Etching retouched with engraving
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 1892
+- Category: Posters
+- Medium: Lithograph
+- Image rights: Source: Wikimedia Commons / Public Domain
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johannes-and-lucas-van-doetechum-after-master-of-the-small-landscapes-farms-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-aristide-bruant-singer-and-composer-on-a-poster-announcing-his-performance-at-the-elegant-night-club-les-ambassadeurs-on-the-champs-elysees-paris).
 
 ### Project Description
 
