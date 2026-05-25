@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Aristide Bruant, singer and composer, on a poster announcing his performance at the elegant night-club "Les Ambassadeurs" on the Champs Elysées, Paris
+## Souvenir of Lake Maggiore (Souvenir du Lac Majeur)
 
 ### Artwork Details
 
-- Date: 1892
-- Category: Posters
-- Medium: Lithograph
-- Image rights: Source: Wikimedia Commons / Public Domain
+- Date: 1871
+- Category: Print
+- Medium: Cliche-verre
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-aristide-bruant-singer-and-composer-on-a-poster-announcing-his-performance-at-the-elegant-night-club-les-ambassadeurs-on-the-champs-elysees-paris).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-camille-corot-souvenir-of-lake-maggiore-souvenir-du-lac-majeur).
 
 ### Project Description
 
