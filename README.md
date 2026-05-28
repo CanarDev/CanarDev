@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Souvenir of Lake Maggiore (Souvenir du Lac Majeur)
+## Prima Causa (First Cause)
 
 ### Artwork Details
 
-- Date: 1871
+- Date: ca. 1465
 - Category: Print
-- Medium: Cliche-verre
+- Medium: Engraving with light gilding
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-camille-corot-souvenir-of-lake-maggiore-souvenir-du-lac-majeur).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-e-series-tarocchi-prima-causa-first-cause).
 
 ### Project Description
 
