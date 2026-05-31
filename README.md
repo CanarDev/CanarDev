@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Prima Causa (First Cause)
+## The Troubled Thames
 
 ### Artwork Details
 
-- Date: ca. 1465
+- Date: ca. 1875
 - Category: Print
-- Medium: Engraving with light gilding
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/master-of-the-e-series-tarocchi-prima-causa-first-cause).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-abbott-mcneill-whistler-the-troubled-thames).
 
 ### Project Description
 
