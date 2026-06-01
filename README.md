@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Troubled Thames
+## Saint Bernard with the Madonna and Child
 
 ### Artwork Details
 
-- Date: ca. 1875
+- Date: 1480/1500
 - Category: Print
-- Medium: Etching
+- Medium: Woodcut, hand-colored in red lake, yellow, green, black, and orange
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/james-abbott-mcneill-whistler-the-troubled-thames).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-bernard-with-the-madonna-and-child).
 
 ### Project Description
 
