@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Bernard with the Madonna and Child
+## Allegory of Fortune
 
 ### Artwork Details
 
-- Date: 1480/1500
+- Date: Unknown
 - Category: Print
-- Medium: Woodcut, hand-colored in red lake, yellow, green, black, and orange
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/saint-bernard-with-the-madonna-and-child).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/italian-16th-century-allegory-of-fortune).
 
 ### Project Description
 
