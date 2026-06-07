@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Allegory of Fortune
+## Le Grand Chatelet, Paris, vers 1780 (The Grand Chatelet, Paris, about 1780)
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1861
 - Category: Print
-- Medium: Engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/italian-16th-century-allegory-of-fortune).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-le-grand-chatelet-paris-vers-1780-the-grand-chatelet-paris-about-1780).
 
 ### Project Description
 
