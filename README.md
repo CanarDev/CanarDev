@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le Grand Chatelet, Paris, vers 1780 (The Grand Chatelet, Paris, about 1780)
+## Votive Plaque of King Tanyidamani
 
 ### Artwork Details
 
-- Date: 1861
-- Category: Print
-- Medium: Etching
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: ca. 100 BCE
+- Category: Sculpture
+- Medium: Dark red siltstone
+- Image rights: Image Provided by The Walters Art Museum
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/charles-meryon-le-grand-chatelet-paris-vers-1780-the-grand-chatelet-paris-about-1780).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/votive-plaque-of-king-tanyidamani).
 
 ### Project Description
 
