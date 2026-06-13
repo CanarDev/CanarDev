@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Votive Plaque of King Tanyidamani
+## The Holy Trinity
 
 ### Artwork Details
 
-- Date: ca. 100 BCE
-- Category: Sculpture
-- Medium: Dark red siltstone
-- Image rights: Image Provided by The Walters Art Museum
+- Date: 1542
+- Category: Print
+- Medium: Engraving
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/votive-plaque-of-king-tanyidamani).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johann-ladenspelder-the-holy-trinity).
 
 ### Project Description
 
