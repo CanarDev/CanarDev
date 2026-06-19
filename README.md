@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Holy Trinity
+## Jacob Wrestling with the Angel
 
 ### Artwork Details
 
-- Date: 1542
+- Date: 1548
 - Category: Print
-- Medium: Engraving
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/johann-ladenspelder-the-holy-trinity).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-jacob-wrestling-with-the-angel).
 
 ### Project Description
 
