@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Jacob Wrestling with the Angel
+## Saint Michael
 
 ### Artwork Details
 
-- Date: 1548
-- Category: Print
-- Medium: Etching
+- Date: ca. 1530
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/augustin-hirschvogel-jacob-wrestling-with-the-angel).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giulio-romano-saint-michael).
 
 ### Project Description
 
