@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint Michael
+## The Towing Path
 
 ### Artwork Details
 
-- Date: ca. 1530
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink
+- Date: 1864
+- Category: Print
+- Medium: Etching and drypoint (copper)
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giulio-romano-saint-michael).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francis-seymour-haden-the-towing-path).
 
 ### Project Description
 
