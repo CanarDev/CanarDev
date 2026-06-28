@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Towing Path
+## Rest along the Banks of the River (Repos au bord de la riviere)
 
 ### Artwork Details
 
-- Date: 1864
+- Date: Unknown
 - Category: Print
-- Medium: Etching and drypoint (copper)
+- Medium: Etching and drypoint?
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francis-seymour-haden-the-towing-path).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-rest-along-the-banks-of-the-river-repos-au-bord-de-la-riviere).
 
 ### Project Description
 
