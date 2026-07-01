@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Rest along the Banks of the River (Repos au bord de la riviere)
+## Expulsion from Paradise
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1540
 - Category: Print
-- Medium: Etching and drypoint?
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-rest-along-the-banks-of-the-river-repos-au-bord-de-la-riviere).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/heinrich-aldegrever-expulsion-from-paradise).
 
 ### Project Description
 
