@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Expulsion from Paradise
+## Ponte Lupo a Tivoli
 
 ### Artwork Details
 
-- Date: 1540
+- Date: 1792
 - Category: Print
-- Medium: Etching
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/heinrich-aldegrever-expulsion-from-paradise).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albert-christoph-dies-ponte-lupo-a-tivoli).
 
 ### Project Description
 
