@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Ornament with Naked Couple
+## The Body of President Sadi Carnot Borne to the Panthéon [obverse]
 
 ### Artwork Details
 
-- Date: 1532
-- Category: Print
-- Medium: Unknown
+- Date: 1894
+- Category: Sculpture
+- Medium: Bronze
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/heinrich-aldegrever-ornament-with-naked-couple).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/louis-oscar-roty-the-body-of-president-sadi-carnot-borne-to-the-pantheon-obverse-1).
 
 ### Project Description
 
