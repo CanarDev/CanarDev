@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Carrying the Wounded
+## The Infant Christ and Saint John Playing with the Lamb
 
 ### Artwork Details
 
-- Date: 1865
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite on wove paper
+- Date: Unknown
+- Category: Print
+- Medium: Woodcut
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/winslow-homer-carrying-the-wounded).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/christoffel-jegher-after-sir-peter-paul-rubens-the-infant-christ-and-saint-john-playing-with-the-lamb).
 
 ### Project Description
 
