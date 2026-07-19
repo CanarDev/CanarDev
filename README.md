@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Infant Christ and Saint John Playing with the Lamb
+## Bourgeoise with Muff, Facing Right
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Woodcut
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/christoffel-jegher-after-sir-peter-paul-rubens-the-infant-christ-and-saint-john-playing-with-the-lamb).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/israel-henriet-after-jacques-callot-bourgeoise-with-muff-facing-right).
 
 ### Project Description
 
