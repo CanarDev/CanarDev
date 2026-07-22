@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Bourgeoise with Muff, Facing Right
+## Une Panique de Lilliputiens...
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1851
 - Category: Print
-- Medium: Etching
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/israel-henriet-after-jacques-callot-bourgeoise-with-muff-facing-right).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-une-panique-de-lilliputiens-dot-dot-dot).
 
 ### Project Description
 
