@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Une Panique de Lilliputiens...
+## François-Théodore de Nesmond
 
 ### Artwork Details
 
-- Date: 1851
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-une-panique-de-lilliputiens-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-mellan-francois-theodore-de-nesmond).
 
 ### Project Description
 
