@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## François-Théodore de Nesmond
+## Design for a Border with a Portrait of Baron Cuvier
 
 ### Artwork Details
 
 - Date: Unknown
-- Category: Print
-- Medium: Engraving on laid paper
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite on tracing paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-mellan-francois-theodore-de-nesmond).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-arnout-design-for-a-border-with-a-portrait-of-baron-cuvier).
 
 ### Project Description
 
