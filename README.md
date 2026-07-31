@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Design for a Border with a Portrait of Baron Cuvier
+## Woman and Child (originally Première Impression d'Amour)
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite on tracing paper
+- Date: ca. 1885 (model), ca. 1900 (carved), 1901
+- Category: Sculpture
+- Medium: Marble
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jean-baptiste-arnout-design-for-a-border-with-a-portrait-of-baron-cuvier).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-woman-and-child-originally-premiere-impression-damour).
 
 ### Project Description
 
