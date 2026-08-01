@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Woman and Child (originally Première Impression d'Amour)
+## Vegetable Market at Pontoise (Marche aux legumes a Pontoise)
 
 ### Artwork Details
 
-- Date: ca. 1885 (model), ca. 1900 (carved), 1901
-- Category: Sculpture
-- Medium: Marble
+- Date: 1891
+- Category: Print
+- Medium: Etching and aquatint (zinc)[posthumous impression ]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/auguste-rodin-woman-and-child-originally-premiere-impression-damour).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/camille-pissarro-vegetable-market-at-pontoise-marche-aux-legumes-a-pontoise).
 
 ### Project Description
 
