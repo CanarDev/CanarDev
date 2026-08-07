@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Stage Design
+## Landscape with Houses
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with gray wash over graphite on laid paper
+- Date: 1673
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/gasparo-galliari-stage-design).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-le-clerc-i-landscape-with-houses).
 
 ### Project Description
 
