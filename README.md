@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Landscape with Houses
+## Orpheus [obverse]
 
 ### Artwork Details
 
-- Date: 1673
-- Category: Print
-- Medium: Etching
+- Date: ca. 1893
+- Category: Sculpture
+- Medium: Silver
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/sebastien-le-clerc-i-landscape-with-houses).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/marie-alexandre-lucien-coudray-orpheus-obverse).
 
 ### Project Description
 
