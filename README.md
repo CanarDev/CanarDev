@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Animal Locomotion, Plate 523
+## Large Pendant, In Circular Form, Nude Man Flanked by Two Herms
 
 ### Artwork Details
 
-- Date: 1887
-- Category: Photography
-- Medium: Collotype
+- Date: 1596
+- Category: Print
+- Medium: Engraving
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/eadweard-muybridge-animal-locomotion-plate-523).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/daniel-mignot-large-pendant-in-circular-form-nude-man-flanked-by-two-herms).
 
 ### Project Description
 
