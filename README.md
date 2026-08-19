@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Large Pendant, In Circular Form, Nude Man Flanked by Two Herms
+## Shallow bowl on low foot with the death of Laocoön and his two sons
 
 ### Artwork Details
 
-- Date: 1596
-- Category: Print
-- Medium: Engraving
+- Date: 1539
+- Category: Design/Decorative Art
+- Medium: Tin-glazed earthenware (maiolica)
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/daniel-mignot-large-pendant-in-circular-form-nude-man-flanked-by-two-herms).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-francesco-xanto-avelli-urbino-possibly-with-assistants-lustered-in-the-workshop-of-maestro-giorgio-andreoli-of-gubbio-or-possibly-in-urbino-shallow-bowl-on-low-foot-with-the-death-of-laocoon-and-his-two-sons).
 
 ### Project Description
 
