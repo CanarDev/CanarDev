@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Shallow bowl on low foot with the death of Laocoön and his two sons
+## Magician and Others Regarding a Serpent
 
 ### Artwork Details
 
-- Date: 1539
-- Category: Design/Decorative Art
-- Medium: Tin-glazed earthenware (maiolica)
+- Date: Unknown
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/attributed-to-francesco-xanto-avelli-urbino-possibly-with-assistants-lustered-in-the-workshop-of-maestro-giorgio-andreoli-of-gubbio-or-possibly-in-urbino-shallow-bowl-on-low-foot-with-the-death-of-laocoon-and-his-two-sons).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giambattista-tiepolo-magician-and-others-regarding-a-serpent).
 
 ### Project Description
 
