@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Magician and Others Regarding a Serpent
+## Interior of a Church
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: published 1819
 - Category: Print
-- Medium: Etching
+- Medium: Etching and mezzotint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giambattista-tiepolo-magician-and-others-regarding-a-serpent).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jmw-turner-interior-of-a-church-1).
 
 ### Project Description
 
