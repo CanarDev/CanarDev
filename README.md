@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Interior of a Church
+## Mountainous Landscape with the Parable of the Sower
 
 ### Artwork Details
 
-- Date: published 1819
+- Date: ca. 1572/1573
 - Category: Print
-- Medium: Etching and mezzotint
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jmw-turner-interior-of-a-church-1).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-battista-fontana-mountainous-landscape-with-the-parable-of-the-sower).
 
 ### Project Description
 
