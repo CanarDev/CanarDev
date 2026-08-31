@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Mountainous Landscape with the Parable of the Sower
+## (1er Bas Bleu) - Profitons de l'occasion...
 
 ### Artwork Details
 
-- Date: ca. 1572/1573
+- Date: 1852
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/giovanni-battista-fontana-mountainous-landscape-with-the-parable-of-the-sower).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-1er-bas-bleu-profitons-de-loccasion-dot-dot-dot).
 
 ### Project Description
 
