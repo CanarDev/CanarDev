@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## (1er Bas Bleu) - Profitons de l'occasion...
+## Head of Buddha Shakyamuni
 
 ### Artwork Details
 
-- Date: 1852
-- Category: Print
-- Medium: Lithograph
-- Image rights: Courtesy National Gallery of Art, Washington
+- Date: 375-400
+- Category: Sculpture
+- Medium: Terracotta
+- Image rights: Image provided by the Los Angeles County Museum of Art
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-1er-bas-bleu-profitons-de-loccasion-dot-dot-dot).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/head-of-buddha-shakyamuni).
 
 ### Project Description
 
