@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Head of Buddha Shakyamuni
+## Madonna and Child Enthroned with Saint Peter and Saint Paul
 
 ### Artwork Details
 
-- Date: 375-400
-- Category: Sculpture
-- Medium: Terracotta
-- Image rights: Image provided by the Los Angeles County Museum of Art
+- Date: ca. 1430
+- Category: Painting
+- Medium: Tempera (?) on panel
+- Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/head-of-buddha-shakyamuni).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-di-bartolo-madonna-and-child-enthroned-with-saint-peter-and-saint-paul).
 
 ### Project Description
 
