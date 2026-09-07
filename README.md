@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Madonna and Child Enthroned with Saint Peter and Saint Paul
+## Chateau with a Drawbridge
 
 ### Artwork Details
 
-- Date: ca. 1430
-- Category: Painting
-- Medium: Tempera (?) on panel
+- Date: 1635 or after
+- Category: Print
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/domenico-di-bartolo-madonna-and-child-enthroned-with-saint-peter-and-saint-paul).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-jacques-callot-chateau-with-a-drawbridge).
 
 ### Project Description
 
