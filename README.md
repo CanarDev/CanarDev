@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Chateau with a Drawbridge
+## The Apocalypse
 
 ### Artwork Details
 
-- Date: 1635 or after
+- Date: Unknown
 - Category: Print
-- Medium: Etching
+- Medium: Woodcut on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/after-jacques-callot-chateau-with-a-drawbridge).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-apocalypse).
 
 ### Project Description
 
