@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Apocalypse
+## Portrait of a Man
 
 ### Artwork Details
 
 - Date: Unknown
 - Category: Print
-- Medium: Woodcut on laid paper
+- Medium: Etching on laid paper [restrike]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-apocalypse).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-portrait-of-a-man).
 
 ### Project Description
 
