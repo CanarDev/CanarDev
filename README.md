@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Portrait of a Man
+## The Artist's Mother in a Cloth Headdress, Looking Down
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1633
 - Category: Print
-- Medium: Etching on laid paper [restrike]
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-portrait-of-a-man).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-artists-mother-in-a-cloth-headdress-looking-down).
 
 ### Project Description
 
