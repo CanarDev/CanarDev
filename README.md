@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Artist's Mother in a Cloth Headdress, Looking Down
+## Je ne pourrai jamais laver tout ça
 
 ### Artwork Details
 
-- Date: 1633
+- Date: 1872
 - Category: Print
-- Medium: Etching
+- Medium: Gillotype on newsprint
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/the-artists-mother-in-a-cloth-headdress-looking-down).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-je-ne-pourrai-jamais-laver-tout-ca).
 
 ### Project Description
 
