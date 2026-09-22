@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Je ne pourrai jamais laver tout ça
+## The Sacred Monograph with the Crucifixion  and Passion Symbols [recto]
 
 ### Artwork Details
 
-- Date: 1872
+- Date: in or after 1470
 - Category: Print
-- Medium: Gillotype on newsprint
+- Medium: Metalcut, hand-colored in light green, rose, and yellow
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/honore-daumier-je-ne-pourrai-jamais-laver-tout-ca).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-the-sacred-monograph-with-the-crucifixion-and-passion-symbols-recto).
 
 ### Project Description
 
