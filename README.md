@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Sacred Monograph with the Crucifixion  and Passion Symbols [recto]
+## Garzia dei Medici
 
 ### Artwork Details
 
-- Date: in or after 1470
+- Date: before 1691
 - Category: Print
-- Medium: Metalcut, hand-colored in light green, rose, and yellow
+- Medium: Engraving on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-the-sacred-monograph-with-the-crucifixion-and-passion-symbols-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/adriaen-haelwegh-garzia-dei-medici).
 
 ### Project Description
 
