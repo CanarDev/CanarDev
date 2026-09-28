@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Garzia dei Medici
+## The Embalming of Christ
 
 ### Artwork Details
 
-- Date: before 1691
+- Date: ca. 1480/1490
 - Category: Print
-- Medium: Engraving on laid paper
+- Medium: Woodcut, hand-colored in red lake, blue, green, yellow, and gold
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/adriaen-haelwegh-garzia-dei-medici).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-the-embalming-of-christ).
 
 ### Project Description
 
