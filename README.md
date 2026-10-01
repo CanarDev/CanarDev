@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Embalming of Christ
+## Saint-Antoine...A travers ses longs cheveux qui lui couvraient la figure, j'ai cru reconnaitre Ammonaria (Saint Anthony: "Beneathe her long hair , which covered her face, I thought I recognized Ammonaria)
 
 ### Artwork Details
 
-- Date: ca. 1480/1490
+- Date: 1889
 - Category: Print
-- Medium: Woodcut, hand-colored in red lake, blue, green, yellow, and gold
+- Medium: Lithograph
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-the-embalming-of-christ).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/odilon-redon-saint-antoine-dot-dot-dot-a-travers-ses-longs-cheveux-qui-lui-couvraient-la-figure-jai-cru-reconnaitre-ammonaria-saint-anthony-beneathe-her-long-hair-which-covered-her-face-i-thought-i-recognized-ammonaria).
 
 ### Project Description
 
