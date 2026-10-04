@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Saint-Antoine...A travers ses longs cheveux qui lui couvraient la figure, j'ai cru reconnaitre Ammonaria (Saint Anthony: "Beneathe her long hair , which covered her face, I thought I recognized Ammonaria)
+## The Triumph of Death: Death Prepares a Dwelling for the Homeless (Le triomphe de la Mort: Lamort a prepare une demeure a des abandonnees)
 
 ### Artwork Details
 
-- Date: 1889
+- Date: Unknown
 - Category: Print
-- Medium: Lithograph
+- Medium: Drypoint on light green paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/odilon-redon-saint-antoine-dot-dot-dot-a-travers-ses-longs-cheveux-qui-lui-couvraient-la-figure-jai-cru-reconnaitre-ammonaria-saint-anthony-beneathe-her-long-hair-which-covered-her-face-i-thought-i-recognized-ammonaria).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-the-triumph-of-death-death-prepares-a-dwelling-for-the-homeless-le-triomphe-de-la-mort-lamort-a-prepare-une-demeure-a-des-abandonnees).
 
 ### Project Description
 
