@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Triumph of Death: Death Prepares a Dwelling for the Homeless (Le triomphe de la Mort: Lamort a prepare une demeure a des abandonnees)
+## Rade de Bordeaux
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: 1868
 - Category: Print
-- Medium: Drypoint on light green paper
+- Medium: Etching on laid paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/alphonse-legros-the-triumph-of-death-death-prepares-a-dwelling-for-the-homeless-le-triomphe-de-la-mort-lamort-a-prepare-une-demeure-a-des-abandonnees).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/maxime-lalanne-rade-de-bordeaux).
 
 ### Project Description
 
