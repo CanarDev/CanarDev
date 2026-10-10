@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Rade de Bordeaux
+## At the Theatre-Libre: Antoine in "L'inquiétude" (Au Théatre-Libre: Antoine dans "L'inquiétude")
 
 ### Artwork Details
 
-- Date: 1868
+- Date: 1894
 - Category: Print
-- Medium: Etching on laid paper
+- Medium: Lithograph in black on velin paper
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/maxime-lalanne-rade-de-bordeaux).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-at-the-theatre-libre-antoine-in-linquietude-au-theatre-libre-antoine-dans-linquietude).
 
 ### Project Description
 
