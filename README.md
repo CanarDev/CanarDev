@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## At the Theatre-Libre: Antoine in "L'inquiétude" (Au Théatre-Libre: Antoine dans "L'inquiétude")
+## Studies of Glass Jars and Figures (recto)
 
 ### Artwork Details
 
-- Date: 1894
-- Category: Print
-- Medium: Lithograph in black on velin paper
+- Date: 1570s/1580s
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Pen and brown ink with brown wash on laid paper (recto); pen and brown ink over red chalk on laid paper (verso)
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/henri-de-toulouse-lautrec-at-the-theatre-libre-antoine-in-linquietude-au-theatre-libre-antoine-dans-linquietude).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/ambrogio-figino-studies-of-glass-jars-and-figures-recto).
 
 ### Project Description
 
