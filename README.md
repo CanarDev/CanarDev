@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Studies of Glass Jars and Figures (recto)
+## Rip Van Winkle
 
 ### Artwork Details
 
-- Date: 1570s/1580s
+- Date: ca. 1840
 - Category: Drawing, Collage or other Work on Paper
-- Medium: Pen and brown ink with brown wash on laid paper (recto); pen and brown ink over red chalk on laid paper (verso)
+- Medium: Graphite
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/ambrogio-figino-studies-of-glass-jars-and-figures-recto).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/asher-b-durand-rip-van-winkle).
 
 ### Project Description
 
