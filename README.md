@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Rip Van Winkle
+## Goatherd Piping to Four Goats
 
 ### Artwork Details
 
-- Date: ca. 1840
-- Category: Drawing, Collage or other Work on Paper
-- Medium: Graphite
+- Date: Unknown
+- Category: Print
+- Medium: Etching on blue paper with white heightening
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/asher-b-durand-rip-van-winkle).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francesco-londonio-goatherd-piping-to-four-goats).
 
 ### Project Description
 
