@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Goatherd Piping to Four Goats
+## Firing the Cannons
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1641
 - Category: Print
-- Medium: Etching on blue paper with white heightening
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/francesco-londonio-goatherd-piping-to-four-goats).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/stefano-della-bella-firing-the-cannons).
 
 ### Project Description
 
