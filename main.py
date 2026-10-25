@@ -3,34 +3,35 @@ import requests
 import os
 import numpy as np
 import math
+import sys
 import re
 import unicodedata
 from datetime import datetime
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 # Define the API URL
 API_URL = "https://api.artsy.net/api/"
 CLIENT_ID = os.environ.get("CLIENT_ID")
 CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
-# Define character brightness levels
-CARACTER_BRIGHTNESS = {
-    0: 'F', 1: 'T', 2: 'C', 3: 'L', 4: 'W', 5: 'E', 6: 'Y', 7: 'X', 8: 'U', 9: 'A',
-    10: 'Z', 11: 'M', 12: 'Q', 13: 'O', 14: 'N', 15: 'D', 16: 'B', 17: '#', 18: '$',
-    19: '&', 20: '@', 21: '%', 22: '^', 23: '(', 24: ')', 25: '[', 26: ']', 27: '{',
-    28: '}', 29: '<', 30: '>', 31: '_', 32: '"', 33: "'", 34: '`', 35: ' ', 36: '.',
-    37: ',', 38: ':', 39: ';', 40: '-', 41: '~', 42: '=', 43: '|', 44: '+', 45: '*',
-    46: '?', 47: '!', 48: '/', 49: '\\', 50: 'i', 51: 'l', 52: 't', 53: 'v', 54: 'x',
-    55: 'r', 56: 'c', 57: 'o', 58: 'f', 59: 'j', 60: 'u', 61: 'n', 62: 'x', 63: 'k',
-    64: 'h', 65: 'a', 66: 'e', 67: 'y', 68: 'z', 69: 'm', 70: 'w', 71: 'g', 72: 'p',
-    73: 'q', 74: 'd', 75: 'b', 76: 'R', 77: 'H', 78: 'S', 79: 'G', 80: 'F', 81: 'T',
-    82: 'C', 83: 'L', 84: 'W', 85: 'E', 86: 'Y', 87: 'X', 88: 'U', 89: 'A', 90: 'Z',
-    91: 'M', 92: 'Q', 93: 'O', 94: 'N', 95: 'D', 96: 'B', 97: '#', 98: '$', 99: '&',
-    100: '@', 101: '%', 102: '^', 103: '(', 104: ')', 105: '[', 106: ']', 107: '{',
-    108: '}', 109: '<', 110: '>', 111: '_', 112: '"', 113: "'", 114: '`', 115: ' ',
-    116: '.', 117: ',', 118: ':', 119: ';', 120: '-', 121: '~', 122: '=', 123: '|',
-    124: '+', 125: '*', 126: '?', 127: '!'
-}
+# ASCII rendering settings
+ASCII_CHARSET = "".join(chr(c) for c in range(32, 127))
+ASCII_FONT_SIZE = 14
+# Fewer but bigger characters: they stay readable once the image is displayed in the README
+ASCII_COLUMNS = 140  # along the longest side of the artwork
+# Characters are drawn with a darkened tone of their pixel, keeps the shading of the artwork
+ASCII_INK_TONE = 0.7
+ASCII_FONT_CANDIDATES = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+    "/System/Library/Fonts/Menlo.ttc",
+    "/System/Library/Fonts/Supplemental/Courier New.ttf",
+    "C:/Windows/Fonts/consola.ttf",
+]
+
+# GIF settings: every frame is fitted into the same square canvas
+GIF_SIZE = (540, 540)
+# Limits the palette so the GIF of hundreds of frames stays under GitHub limits
+GIF_COLORS = 64
 
 
 def fetch_xapp_token(client_id, client_secret, api_url):
@@ -70,58 +71,97 @@ def duration(array):
     return len(array) * 2250 // 24
 
 
+def fit_on_canvas(image, size):
+    image = image.convert("RGB")
+    ratio = min(size[0] / image.size[0], size[1] / image.size[1])
+    new_size = (max(1, round(image.size[0] * ratio)), max(1, round(image.size[1] * ratio)))
+    image = image.resize(new_size, Image.LANCZOS)
+    canvas = Image.new("RGB", size, color="white")
+    canvas.paste(image, ((size[0] - new_size[0]) // 2, (size[1] - new_size[1]) // 2))
+    return canvas
+
+
 def previous_artwork_gif():
     print("Creating GIF of previous artworks")
     artworks = []
     ascii_artworks = []
-    for folder in os.listdir("previousArtworks"):
+    for folder in sorted(os.listdir("previousArtworks")):
         if os.path.isdir("previousArtworks/" + folder):
-            artwork = Image.open("previousArtworks/" + folder + "/artwork.jpg")
-            ascii_artwork = Image.open("previousArtworks/" + folder + "/ascii_artwork.jpg")
-            artworks.append(artwork)
-            ascii_artworks.append(ascii_artwork)
+            artwork = fit_on_canvas(Image.open("previousArtworks/" + folder + "/artwork.jpg"), GIF_SIZE)
+            artworks.append(artwork.quantize(GIF_COLORS, dither=Image.Dither.NONE))
+            ascii_artwork = fit_on_canvas(Image.open("previousArtworks/" + folder + "/ascii_artwork.jpg"), GIF_SIZE)
+            # Black text on white only needs a few grey levels, keeps the GIF light
+            ascii_artworks.append(ascii_artwork.convert("L").quantize(16, dither=Image.Dither.NONE))
 
-    # all images should have the same size
-    max_width = max(artwork.size[0] for artwork in artworks)
-    max_height = max(artwork.size[1] for artwork in artworks)
-
-    for i, artwork in enumerate(artworks):
-        new_artwork = Image.new("RGB", (max_width, max_height), color="white")
-        new_artwork.paste(artwork, ((max_width - artwork.size[0]) // 2, (max_height - artwork.size[1]) // 2))
-        artworks[i] = new_artwork
-
-    for i, ascii_artwork in enumerate(ascii_artworks):
-        new_ascii_artwork = Image.new("RGB", (max_width, max_height), color="white")
-        new_ascii_artwork.paste(ascii_artwork, ((max_width - ascii_artwork.size[0]) // 2, (max_height - ascii_artwork.size[1]) // 2))
-        ascii_artworks[i] = new_ascii_artwork
-
-    artworks[0].save("previousArtworks/previous_artworks.gif", save_all=True, append_images=artworks[1:], duration=duration(artworks), loop=0)
-    ascii_artworks[0].save("previousArtworks/previous_ascii_artworks.gif", save_all=True, append_images=ascii_artworks[1:], duration=duration(ascii_artworks), loop=0)
+    artworks[0].save("previousArtworks/previous_artworks.gif", save_all=True, append_images=artworks[1:], duration=duration(artworks), loop=0, optimize=True)
+    ascii_artworks[0].save("previousArtworks/previous_ascii_artworks.gif", save_all=True, append_images=ascii_artworks[1:], duration=duration(ascii_artworks), loop=0, optimize=True)
 
     print("GIF created")
 
 
+def load_ascii_font():
+    for path in ASCII_FONT_CANDIDATES:
+        if os.path.exists(path):
+            return ImageFont.truetype(path, ASCII_FONT_SIZE)
+    return ImageFont.load_default(ASCII_FONT_SIZE)
+
+
+def build_char_ramp(font, cell_width, cell_height):
+    # Measure how much ink each character really puts in its cell, so the ramp matches the font
+    coverages = []
+    for char in ASCII_CHARSET:
+        cell = Image.new("L", (cell_width, cell_height), color=0)
+        ImageDraw.Draw(cell).text((0, 0), char, fill=255, font=font)
+        coverages.append((np.asarray(cell).mean(), char))
+    coverages.sort()
+
+    lowest, highest = coverages[0][0], coverages[-1][0]
+    densities = np.array([(c - lowest) / (highest - lowest) for c, _ in coverages])
+    chars = [char for _, char in coverages]
+
+    # Lookup table: pixel brightness (0-255) -> char whose ink density best matches its darkness
+    darkness = 1 - np.arange(256) / 255
+    indexes = np.abs(densities[None, :] - darkness[:, None]).argmin(axis=1)
+    return np.array(chars)[indexes]
+
+
+def generate_ascii_picture(image_path):
+    img = Image.open(image_path).convert("L")
+    # Spread the tones over the whole character ramp, otherwise mid-tones all end up as the same dense glyph
+    img = Image.blend(ImageOps.autocontrast(img, cutoff=1), ImageOps.equalize(img), 0.3)
+
+    font = load_ascii_font()
+    ascent, descent = font.getmetrics()
+    cell_width = max(1, round(font.getlength("M")))
+    cell_height = ascent + descent
+    ramp = build_char_ramp(font, cell_width, cell_height)
+
+    # Sample one pixel per character, compensating for the non-square character cells
+    width, height = img.size
+    columns = max(1, round(ASCII_COLUMNS * min(1, width / height)))
+    rows = max(1, round(columns * (height / width) * (cell_width / cell_height)))
+    # Sharpen after downscaling so contours survive the low character resolution
+    small = img.resize((columns, rows), Image.LANCZOS).filter(ImageFilter.UnsharpMask(radius=1, percent=120, threshold=2))
+    pixels = np.asarray(small)
+
+    text_img = Image.new("L", (columns * cell_width, rows * cell_height), color=255)
+    draw = ImageDraw.Draw(text_img)
+    for y in range(rows):
+        for x in range(columns):
+            brightness = pixels[y, x]
+            char = ramp[brightness]
+            if char != " ":
+                draw.text((x * cell_width, y * cell_height), char, fill=int(brightness * ASCII_INK_TONE), font=font)
+
+    # Keep exactly the same aspect ratio as the original artwork
+    output_size = (text_img.size[0], round(text_img.size[0] * height / width))
+    return text_img.resize(output_size, Image.LANCZOS).convert("RGB")
+
+
 def generate_and_save_ascii_picture(image_path):
     print("Generating ASCII artwork")
-    img = Image.open(image_path)
-    width, height = img.size
-    new_width = width * 4
-    new_height = height * 4
-    img = img.resize((new_width, new_height))
-    img = img.convert("L")
-    pixels = np.array(img)
-    new_img = Image.new("RGB", (new_width, new_height), color="white")
-    draw = ImageDraw.Draw(new_img)
-
-    for y in range(0, new_height, 6):
-        for x in range(0, new_width, 6):
-            avg_brightness = np.mean(pixels[y:y + 6, x:x + 6])
-            brightness = math.ceil(avg_brightness / 5)
-            ascii_char = CARACTER_BRIGHTNESS[brightness]
-            draw.text((x, y), ascii_char, fill="black", spacing=60)
-
-    new_img = new_img.resize((math.floor(400 * new_width / new_height), 400))
-    new_img.save("currentArtwork/ascii_artwork.jpg")
+    new_img = generate_ascii_picture(image_path)
+    new_img.save("currentArtwork/ascii_artwork.jpg", quality=95, subsampling=0)
     print("ASCII artwork generated")
 
     return new_img
@@ -173,14 +213,15 @@ def get_random_artwork(xapp_token, api_url):
                 f.write(image.content)
                 print("setting up image")
 
-            new_artwork = Image.open("currentArtwork/artwork.jpg")
+            # Build the ASCII version from the full resolution image for a sharper result
+            ascii_artwork = generate_and_save_ascii_picture("currentArtwork/artwork.jpg")
+
+            new_artwork = Image.open("currentArtwork/artwork.jpg").convert("RGB")
             width, height = new_artwork.size
             new_image_width = math.floor(400 * width / height)
-            new_artwork = new_artwork.resize((new_image_width, 400))
+            new_artwork = new_artwork.resize((new_image_width, 400), Image.LANCZOS)
             new_artwork.save("currentArtwork/artwork.jpg")
             print("Resized image")
-
-            ascii_artwork = generate_and_save_ascii_picture("currentArtwork/artwork.jpg")
 
             current_date = datetime.now().strftime("%Y-%m-%d")
             folder_artwork_title = slugify(title)
@@ -209,7 +250,7 @@ def get_random_artwork(xapp_token, api_url):
                 print("Created folder for previous artwork")
 
                 new_artwork.save("previousArtworks/" + new_folder_name + "/artwork.jpg")
-                ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg")
+                ascii_artwork.save("previousArtworks/" + new_folder_name + "/ascii_artwork.jpg", quality=95, subsampling=0)
                 print("Saved previous artwork")
 
                 previous_artwork_gif()
@@ -239,4 +280,17 @@ def get_random_artwork(xapp_token, api_url):
         return None
 
 
-get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
+def regenerate_previous_ascii_artworks():
+    print("Regenerating ASCII version of previous artworks")
+    for folder in sorted(os.listdir("previousArtworks")):
+        folder_path = "previousArtworks/" + folder
+        if os.path.isdir(folder_path):
+            generate_ascii_picture(folder_path + "/artwork.jpg").save(folder_path + "/ascii_artwork.jpg", quality=95, subsampling=0)
+    generate_and_save_ascii_picture("currentArtwork/artwork.jpg")
+    previous_artwork_gif()
+
+
+if "--regenerate" in sys.argv:
+    regenerate_previous_ascii_artworks()
+else:
+    get_random_artwork(fetch_xapp_token(CLIENT_ID, CLIENT_SECRET, API_URL), API_URL)
