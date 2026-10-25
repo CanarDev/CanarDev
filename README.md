@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Dancer Adjusting the Shoulder Strap of Her Bodice
+## Adam and Eve
 
 ### Artwork Details
 
-- Date: 1880s/1890s
-- Category: Sculpture
-- Medium: Yellow brown wax and plastiline
+- Date: ca. 1460
+- Category: Print
+- Medium: Woodcut, hand-colored in red lake, green, tan, and ochre
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edgar-degas-dancer-adjusting-the-shoulder-strap-of-her-bodice).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-adam-and-eve).
 
 ### Project Description
 
