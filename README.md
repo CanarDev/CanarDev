@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Adam and Eve
+## Le chat, la balette et le petit lapin (The Cat, the Weasel, and the Rabbit)
 
 ### Artwork Details
 
-- Date: ca. 1460
+- Date: published 1756
 - Category: Print
-- Medium: Woodcut, hand-colored in red lake, green, tan, and ochre
+- Medium: Hand-colored etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/german-15th-century-adam-and-eve).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/martin-marvie-after-jean-baptiste-oudry-le-chat-la-balette-et-le-petit-lapin-the-cat-the-weasel-and-the-rabbit).
 
 ### Project Description
 
