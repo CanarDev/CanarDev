@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Le chat, la balette et le petit lapin (The Cat, the Weasel, and the Rabbit)
+## Venus
 
 ### Artwork Details
 
-- Date: published 1756
-- Category: Print
-- Medium: Hand-colored etching
+- Date: Unknown
+- Category: Drawing, Collage or other Work on Paper
+- Medium: Graphite
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/martin-marvie-after-jean-baptiste-oudry-le-chat-la-balette-et-le-petit-lapin-the-cat-the-weasel-and-the-rabbit).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/edward-burne-jones-venus).
 
 ### Project Description
 
