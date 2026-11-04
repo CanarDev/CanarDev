@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Battle of Cividale
+## The Beautiful Virgin of Regensburg
 
 ### Artwork Details
 
-- Date: Unknown
+- Date: ca. 1519/1520
 - Category: Print
-- Medium: Woodcut
+- Medium: Woodcut printed from six blocks in red, green, blue, light orange, brown, and black
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/hans-schaufelein-the-elder-battle-of-cividale).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albrecht-altdorfer-the-beautiful-virgin-of-regensburg).
 
 ### Project Description
 
