@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Beautiful Virgin of Regensburg
+## The Entombment
 
 ### Artwork Details
 
-- Date: ca. 1519/1520
+- Date: 1465/1470
 - Category: Print
-- Medium: Woodcut printed from six blocks in red, green, blue, light orange, brown, and black
+- Medium: Engraving in brown; laid down
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/albrecht-altdorfer-the-beautiful-virgin-of-regensburg).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/andrea-mantegna-the-entombment).
 
 ### Project Description
 
