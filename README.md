@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## The Entombment
+## Fragonard and Bergeret with Their Wives Visiting a Tomb in Pompeii
 
 ### Artwork Details
 
-- Date: 1465/1470
+- Date: 1781
 - Category: Print
-- Medium: Engraving in brown; laid down
+- Medium: Etching on laid paper [proof]
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/andrea-mantegna-the-entombment).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-mathieu-fessard-after-jean-honore-fragonard-fragonard-and-bergeret-with-their-wives-visiting-a-tomb-in-pompeii).
 
 ### Project Description
 
