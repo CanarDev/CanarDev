@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Fragonard and Bergeret with Their Wives Visiting a Tomb in Pompeii
+## Sts. Pamphilius and Porphyrius; St. Blandina and Companions; St. Erasmus; St. Optatus
 
 ### Artwork Details
 
-- Date: 1781
+- Date: Unknown
 - Category: Print
-- Medium: Etching on laid paper [proof]
+- Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/claude-mathieu-fessard-after-jean-honore-fragonard-fragonard-and-bergeret-with-their-wives-visiting-a-tomb-in-pompeii).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-sts-pamphilius-and-porphyrius-st-blandina-and-companions-st-erasmus-st-optatus).
 
 ### Project Description
 
