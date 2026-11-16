@@ -12,7 +12,7 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Sts. Pamphilius and Porphyrius; St. Blandina and Companions; St. Erasmus; St. Optatus
+## Apuleia in Search of Apuleius
 
 ### Artwork Details
 
@@ -21,7 +21,7 @@ ___
 - Medium: Etching
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jacques-callot-sts-pamphilius-and-porphyrius-st-blandina-and-companions-st-erasmus-st-optatus).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jmw-turner-apuleia-in-search-of-apuleius).
 
 ### Project Description
 
