@@ -12,16 +12,16 @@ ___
     <img width="49%" src="https://raw.githubusercontent.com/CanarDev/CanarDev/main/currentArtwork/ascii_artwork.jpg" alt="artwork ASCII"/>
 </div>
 
-## Apuleia in Search of Apuleius
+## Lodovico III Gonzaga, 1414-1478, 2nd Marquess of Mantua 1444 [obverse]
 
 ### Artwork Details
 
-- Date: Unknown
-- Category: Print
-- Medium: Etching
+- Date: 1475
+- Category: Sculpture
+- Medium: Bronze
 - Image rights: Courtesy National Gallery of Art, Washington
 
-Additional details about the artwork can be found [here](https://www.artsy.net/artwork/jmw-turner-apuleia-in-search-of-apuleius).
+Additional details about the artwork can be found [here](https://www.artsy.net/artwork/bartolommeo-melioli-lodovico-iii-gonzaga-1414-1478-2nd-marquess-of-mantua-1444-obverse).
 
 ### Project Description
 
